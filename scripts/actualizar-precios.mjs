@@ -103,7 +103,7 @@ async function precioPorWeb(id) {
     if (price) break;
   }
   if (!price) { const m = t.match(/<meta[^>]+itemprop=["']price["'][^>]+content=["']([\d.]+)["']/i); if (m) price = +m[1]; }
-  if (!(price > 0)) throw new Error("no encontré el precio en la página de la publicación");
+  if (!(price > 0)) throw new Error(`no encontré el precio en la página (estado ${r.status}, largo ${t.length}, título "${((t.match(/<title>([^<]{0,70})/i) || [])[1] || "").trim()}")`);
   const o = t.match(/"original_price"\s*:\s*(\d+(?:\.\d+)?)/);
   return { price, old: o && +o[1] > price ? +o[1] : 0, nombre, via: "página de la publicación" };
 }
@@ -177,7 +177,7 @@ async function main() {
   const prev = fs.existsSync(OUT) ? JSON.parse(fs.readFileSync(OUT, "utf8")) : { items: {} };
   const items = { ...(prev.items || {}) };
   const ahora = new Date().toISOString();
-  let ok = 0, diags = 0; const fallos = [], filas = [];
+  let ok = 0, diags = 0, dups = 0; const fallos = [], filas = new Map(), usos = [];
   for (const p of productos) {
     items[p.id] = items[p.id] || { titulo: p.titulo, price: 0, old: 0 };
     items[p.id].titulo = p.titulo;
@@ -190,24 +190,37 @@ async function main() {
       if (res.nombre && coinciden(p.titulo, res.nombre) < 1) throw new Error(`parece otro producto: en Mercado Libre se llama "${res.nombre.slice(0, 70)}"`);
       items[p.id].price = res.price; items[p.id].old = res.old; items[p.id].updated = ahora;
       if (res.desde) items[p.id].desde = true; else delete items[p.id].desde;
-      filas.push(`| ${p.id} | ${p.titulo.slice(0, 55)} | ${(res.nombre || "").slice(0, 60)} | ${res.nombre ? coinciden(p.titulo, res.nombre) : "-"} | ${res.price} | ${res.old || ""} | ${res.desde ? "desde" : "exacto"} |`);
+      filas.set(p.id, `| ${p.id} | ${p.titulo.slice(0, 55)} | ${(res.nombre || "").slice(0, 60).replace(/\|/g, "/")} | ${res.nombre ? coinciden(p.titulo, res.nombre) : "-"} | ${res.price} | ${res.old || ""} | ${res.desde ? "desde" : "exacto"} |`);
+      usos.push({ id: p.id, clave: res.clave || r.item || r.producto, coinc: res.nombre ? coinciden(p.titulo, res.nombre) : 99, nombre: res.nombre || "", titulo: p.titulo });
       if (res.nombre) items[p.id].ml = res.nombre.slice(0, 90);
       ok++;
       console.log(`OK   #${p.id} ${p.titulo.slice(0, 40)} -> $${res.price}${res.old ? " (antes $" + res.old + ")" : ""}${res.nombre ? " | ML: " + res.nombre.slice(0, 50) : ""}${res.via ? " | vía " + res.via : ""}`);
     } catch (e) {
       fallos.push(p);
-      filas.push(`| ${p.id} | ${p.titulo.slice(0, 55)} | SIN PRECIO: ${e.message.slice(0, 90).replace(/\|/g, "/")} | | | | |`);
+      filas.set(p.id, `| ${p.id} | ${p.titulo.slice(0, 55)} | SIN PRECIO: ${e.message.slice(0, 120).replace(/\|/g, "/")} | | | | |`);
       console.log(`FALLÓ #${p.id} ${p.titulo.slice(0, 40)} | ${e.message} | ${p.url}`);
       if (diags < 4) { diags++; console.log(`   DIAGNÓSTICO #${p.id}: link final = ${finalUrl}` + (e.diag ? " | respuesta de /products = " + JSON.stringify(e.diag) : "")); }
     }
     await sleep(350);
   }
-  console.log(`\nResumen: ${ok} con precio, ${fallos.length} sin poder actualizar (se conserva el precio anterior).`);
+  // Si dos productos tuyos terminan en la misma publicación, solo se queda con el precio el que mejor coincide por nombre.
+  const grupos = {};
+  for (const u of usos) (grupos[u.clave] = grupos[u.clave] || []).push(u);
+  for (const g of Object.values(grupos)) {
+    if (g.length < 2) continue;
+    g.sort((a, b) => b.coinc - a.coinc);
+    for (const u of g.slice(1)) {
+      const it = items[u.id]; it.price = 0; it.old = 0; delete it.updated; delete it.ml; delete it.desde; ok--; dups++;
+      filas.set(u.id, `| ${u.id} | ${u.titulo.slice(0, 55)} | SIN PRECIO: DUPLICADO, apunta a la misma publicación que #${g[0].id} ("${u.nombre.slice(0, 40)}") | | | | |`);
+      console.log(`DUPLICADO #${u.id} ${u.titulo.slice(0, 40)} apunta a la misma publicación que #${g[0].id}: no se guarda su precio`);
+    }
+  }
+  console.log(`\nResumen: ${ok} con precio, ${fallos.length} sin poder actualizar (se conserva el precio anterior) y ${dups} duplicados (otro producto tuyo apunta a la misma publicación).`);
   if (!ok) { console.error("No se pudo actualizar ningún producto: no toco precios.json."); process.exit(1); }
   const ordenado = Object.fromEntries(Object.entries(items).sort((a, b) => parseInt(a[0]) - parseInt(b[0]) || a[0].localeCompare(b[0])));
   if (!DRY) {
     fs.writeFileSync(OUT, JSON.stringify({ updated: ahora, items: ordenado }, null, 1) + "\n");
-    fs.writeFileSync(process.env.REVISION_FILE || "revision-precios.md", "# Revisión de precios\n\n| id | nuestro producto | nombre en Mercado Libre | coincidencias | precio | antes | tipo |\n|---|---|---|---|---|---|---|\n" + filas.join("\n") + "\n");
+    fs.writeFileSync(process.env.REVISION_FILE || "revision-precios.md", "# Revisión de precios\n\n| id | nuestro producto | nombre en Mercado Libre | coincidencias | precio | antes | tipo |\n|---|---|---|---|---|---|---|\n" + [...filas.values()].join("\n") + "\n");
   }
   else console.log("(modo --dry: no se guardó nada)");
 }
