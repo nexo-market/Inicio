@@ -9,14 +9,14 @@
 | 4 | Bicicleta fija de spinning Sölperk | Bicicleta Fija Spinning Profesional Gym 8 Niveles 28 Kgs con | 3 | 406223.87 | 685000 | desde |
 | 5 | Kit de mancuernas con conversor a barra, hasta 45 kg | Kit Mancuernas Y Barra Con Tope A Rosca 25 Kg Discos Pvc | 3 | 87289 | 211978 | desde |
 | 6 | Barra de dominadas para marco de puerta | Barra Dominadas Puerta Extensible 60-100cm Reforzada 130kg P | 3 | 37380 |  | desde |
-| 7 | Camiseta de Boca Juniors adidas azul y amarilla | SIN PRECIO: /items/MLA1926848487 respondió 403: {"message":"Access to the requested resource is forbid | | | | |
-| 8 | Botines Nike rojos y blancos con tapones | SIN PRECIO: parece otro producto: en Mercado Libre se llama "Soccer Cleats Leoci Men Women Outdoor Foo | | | | |
+| 7 | Camiseta de Boca Juniors adidas azul y amarilla | SIN PRECIO: /items/MLA1926848487 respondió 403: {"message":"Access to the requested resource is forbidden","erro / web: no encontré  | | | | |
+| 8 | Botines Nike rojos y blancos con tapones | SIN PRECIO: parece otro producto: en Mercado Libre se llama "Soccer Cleats Leoci Men Women Outdoor Football Shoes" | | | | |
 | 9 | Multigimnasio Randers con estación Scott y 45 kg de car | Multigimnasio Multigym Randers Arg-63120 Reforzado 45 Kg Col | 2 | 633500.36 | 1025766 | desde |
 | 10 | Guantes de boxeo Pulse Series negros | Guantes De Boxeo 14 Oz Profesionales Reforzados Negro | 2 | 53999 | 89998 | desde |
 | 11 | Soga de saltar con rodamientos de alta velocidad | Soga Cuerda Salto Saltar 280 Cm Gym Crossfit Boxeo Reforzada | 2 | 10999 | 11999 | desde |
 | 12 | Pelota de esferodinamia 65 cm negra | Pelota Yoga Esferodinamia Suiza 65 Cm Gym Pilates + Inflador | 2 | 32200 | 35000 | desde |
-| 13 | Camiseta de River Plate adidas negra y roja a rayas | SIN PRECIO: /items/MLA3685105506 respondió 403: {"message":"Access to the requested resource is forbid | | | | |
-| 14 | Botines Nike negros con detalle celeste para césped sin | SIN PRECIO: parece otro producto: en Mercado Libre se llama "Soccer Cleats Leoci Men Women Outdoor Foo | | | | |
+| 13 | Camiseta de River Plate adidas negra y roja a rayas | SIN PRECIO: /items/MLA3685105506 respondió 403: {"message":"Access to the requested resource is forbidden","erro / web: no encontré  | | | | |
+| 14 | Botines Nike negros con detalle celeste para césped sin | SIN PRECIO: parece otro producto: en Mercado Libre se llama "Soccer Cleats Leoci Men Women Outdoor Football Shoes" | | | | |
 | 15 | Estación de carga para controles DualSense de PS5 | Playstation Cargador DualSense 5 | 1 | 64999 | 88399 | desde |
 | 16 | Consola Nintendo Switch 2 | Consola Nintendo Switch 2 | 3 | 935040.24 |  | desde |
 | 17 | Consola PlayStation 5 Slim de 1 TB con Astro Bot y Gran | Sony Playstation 5 consola Slim Standard + Juego Astro Bot Y | 5 | 1799999 |  | desde |
@@ -45,11 +45,11 @@
 | 40 | Cochecito de paseo con baranda rebatible | Cochecito Cuna Bebé Avanti Manija Baranda Rebatible Apto 0+  | 3 | 185000 |  | desde |
 | 41 | Bañera plegable para bebé de 25 litros | Bañera Bebé Ultra Plegable Mega Baby Con Red Acolchonada Col | 3 | 40216.64 | 49246 | desde |
 | 42 | Practicuna plegable gris con colchón y mosquitero | Cuna Colecho Bebé Cosco Kids Con Mosquitero Y Cambiador Gris | 2 | 160125.66 | 289990 | desde |
-| 43 | Cuna de madera blanca para bebé | Cuna Colecho Evolutiva 6en1 | Con Colchón Y Ruedas Con Freno | 1 | 175273.24 | 206500 | desde |
-| 44 | Sillón de apoyo para bebé con peluche | SIN PRECIO: parece otro producto: en Mercado Libre se llama "Silla Mecedora Mega Baby 27267 18 Kg Vibr | | | | |
+| 43 | Cuna de madera blanca para bebé | SIN PRECIO: DUPLICADO, apunta a la misma publicación que #47 ("Cuna Colecho Evolutiva 6en1 | Con Colchó") | | | | |
+| 44 | Sillón de apoyo para bebé con peluche | SIN PRECIO: parece otro producto: en Mercado Libre se llama "Silla Mecedora Mega Baby 27267 18 Kg Vibración Y Música Color Gris" | | | | |
 | 45 | Silla de comer para bebé 3 en 1 verde agua | Silla Comer Bebe Avanti Lyra 3 - 1 Convertible Booster Patas | 3 | 69999 | 107690.77 | desde |
 | 46 | Alfombra inflable de agua para bebé con diseño marino | Alfombra Sensorial Inflable Con Aire Y Agua 4230 Bebé Love P | 4 | 7170 |  | desde |
-| 47 | Cuna blanca con ruedas y colchón estampado | Cuna Colecho Evolutiva 6en1 | Con Colchón Y Ruedas Con Freno | 3 | 175273.24 | 206500 | desde |
+| 47 | Cuna blanca con ruedas y colchón estampado | Cuna Colecho Evolutiva 6en1 / Con Colchón Y Ruedas Con Freno | 3 | 175273.24 | 206500 | desde |
 | 48 | Almohada de embarazo en forma de U | Almohadon Embarazo Lactancia Tusor Vellon Siliconado - Mallo | 1 | 31340.5 | 32990 | desde |
 | 49 | Butaca de auto Mega Baby gris con arnés de 5 puntos | Butaca Bebe Auto Avanti Isofix Volte 0-36 Kg Base Gira 360 C | 3 | 239999 | 329999 | desde |
 | 50 | Butaca de auto Mega Baby Ayrton negra | Butaca Auto Bebé Last Ayrton Mega Baby Convertible 0-25 Kg | 5 | 188900 |  | desde |
@@ -60,7 +60,7 @@
 | 55 | Mamadera Philips Avent Natural Response de 125 ml | Mamadera Avent Philips Natural Response 125ml 0m+ Color Blan | 5 | 31999 |  | desde |
 | 56 | Gimnasio de actividades con piano y arco de juguetes | Colchoneta Para Bebe Gadnic Gimnasio Musical 0-36 Meses Pian | 4 | 31999 | 49999 | desde |
 | 57 | Balanza digital Femmto con Bluetooth y pantalla LED | Balanza Digital Con Bluetooth Personal De Baño Peso Corporal | 4 | 17999 | 27999 | desde |
-| 58 | Planchita de pelo GAMA Bella Tourmaline Red Ion | Planchita De Pelo GA.MA Italy Elegance Bella Tourmaline Ion  | 5 | 59999 | 64999 | desde |
+| 58 | Planchita de pelo GAMA Bella Tourmaline Red Ion | Planchita De Pelo GA.MA Italy Elegance Bella Tourmaline Ion  | 5 | 44849.35 |  | desde |
 | 59 | Robot de limpieza Sansei que aspira y trapea | Aspiradora Robot Sansei Rvcs23pi 5 modos de limpieza Sensor  | 3 | 117023 | 199999 | desde |
 | 60 | Aspiradora de mano Yelmo con accesorios | Yelmo As-3240 Aspiradora Para Auto Recargable Usb Color Gris | 2 | 40382 |  | desde |
 | 61 | Secador de pelo Ultracomb de 2200 W con función Cool Sh | Secador De Pelo Ultracomb Tourmaline Ion Pro Sc-4606 Negro 3 | 5 | 41435 | 49999 | desde |
@@ -92,10 +92,10 @@
 | 87 | Nebulizador portátil mesh SAN-UP VitaAir | Nebulizador Mesh San-Up VitalAir 8ml Silencioso Portátil USB | 4 | 85929.06 | 155199 | desde |
 | 88 | Secador de pelo Ultracomb SC 4606 con turmalina e ión | Secador De Pelo Ultracomb Tourmaline Ion Pro Sc-4606 Negro | 5 | 42699 | 59999 | desde |
 | 89 | Aire acondicionado split Philco de 5200 W | Aire Acondicionado Split Frio/Calor Philco PHS50HA4CN 4472 F | 5 | 921483.4 | 1257998.8 | desde |
-| 90 | Tendedero plegable con funda transparente para lavarrop | SIN PRECIO: parece otro producto: en Mercado Libre se llama "Secarropas Por Calor Axel Ax-3000 Con Sis | | | | |
+| 90 | Tendedero plegable con funda transparente para lavarrop | SIN PRECIO: parece otro producto: en Mercado Libre se llama "Secarropas Por Calor Axel Ax-3000 Con Sistema Anti-arrugas Blanco" | | | | |
 | 91 | Lavarropas automático Philco de 5 kg con carga superior | Lavarropas Philco 5kg Carga Superior Gris | 4 | 419999 |  | desde |
 | 92 | Termotanque eléctrico ExaHome de 40 litros | Termotanque Exahome Electrico 40 Litros Carga Inferior 1500w | 4 | 284990.5 | 449000 | desde |
-| 93 | Purificador de agua de mesada con canilla, filtro y acc | Purificador de Agua Dvigi Compact de Red Elimina Cloro | 2 | 87203 | 106756 | desde |
+| 93 | Purificador de agua de mesada con canilla, filtro y acc | SIN PRECIO: DUPLICADO, apunta a la misma publicación que #118 ("Purificador de Agua Dvigi Compact de Red") | | | | |
 | 94 | Estufa halógena Kanji Home de tres velas | Estufa halogena 3 velas Kanji KJH-305 Color Gris oscuro | 4 | 40620 | 60149 | desde |
 | 95 | Freidora de aire Novohome de 7 litros con ventana | Freidora De Aire Novohome 7 Litros Panel Pantalla Digital Ta | 5 | 109999 | 179990 | desde |
 | 96 | Minipimer con picadora, batidor y vaso | Mixer Licuadora De Mano Yelmo Lm-1555 Bowl Picador + Vaso Co | 1 | 62000 |  | desde |
