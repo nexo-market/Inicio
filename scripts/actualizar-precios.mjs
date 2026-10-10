@@ -96,30 +96,41 @@ async function precioDeItem(id, tk) {
   return { price, old };
 }
 
+const PARADA = new Set("para con los las del una uno que por sin hasta mas como pero este esta sus muy entre".split(" "));
+const palabras = t => new Set(String(t || "").normalize("NFD").replace(/[\u0300-\u036f]/g, "").toLowerCase().split(/[^a-z0-9]+/).filter(w => w.length >= 3 && !PARADA.has(w)));
+const coinciden = (a, b) => { const A = palabras(a), B = palabras(b); let n = 0; for (const w of A) if (B.has(w)) n++; return n; };
+
 async function precioDeProducto(pid, tk) {
-  const pr = await api(`/products/${pid}`, tk), w = pr.buy_box_winner || {};
-  if (w.item_id) return precioDeItem(w.item_id, tk);
-  if (+w.price > 0) return { price: +w.price, old: +w.original_price > +w.price ? +w.original_price : 0 };
-  const intentos = [];
-  try {   // alternativa 1: publicaciones del producto de catálogo
+  const pr = await api(`/products/${pid}`, tk), w = pr.buy_box_winner || {}, nombre = pr.name || "";
+  if (w.item_id) { const r = await precioDeItem(w.item_id, tk); return { ...r, nombre, via: "ganadora" }; }
+  if (+w.price > 0) return { price: +w.price, old: +w.original_price > +w.price ? +w.original_price : 0, nombre, via: "ganadora" };
+  const intentos = []; let muestra = "";
+  try {   // publicaciones del producto de catálogo
     const li = await api(`/products/${pid}/items`, tk);
     const arr = Array.isArray(li) ? li : (li.results || li.items || []);
-    intentos.push("items:" + arr.length);
-    let mejor = null;
+    muestra = arr[0] ? JSON.stringify(arr[0]).slice(0, 260) : "";
+    intentos.push("lista:" + arr.length);
+    const nuevos = arr.filter(x => +x.price > 0 && (!x.condition || x.condition === "new"));
+    if (nuevos.length) {
+      const m = nuevos.reduce((a, b) => (+b.price < +a.price ? b : a));
+      return { price: +m.price, old: +m.original_price > +m.price ? +m.original_price : 0, nombre, via: "lista de publicaciones (la más barata)" };
+    }
+    let mejor = null, primerError = "";
     for (const x of arr.slice(0, 5)) {
       const id = x.item_id || x.id; if (!id) continue;
-      try { const r = await precioDeItem(id, tk); if (!mejor || r.price < mejor.price) mejor = r; } catch {}
+      try { const r = await precioDeItem(id, tk); if (!mejor || r.price < mejor.price) mejor = r; } catch (e) { primerError = primerError || e.message.slice(0, 110); }
     }
-    if (mejor) return mejor;
-  } catch (e) { intentos.push("items " + e.message.slice(0, 70)); }
-  try {   // alternativa 2: búsqueda pública por producto
+    if (mejor) return { ...mejor, nombre, via: "publicaciones del producto" };
+    if (primerError) intentos.push("publicación: " + primerError);
+  } catch (e) { intentos.push("lista: " + e.message.slice(0, 110)); }
+  try {   // búsqueda pública por producto
     const se = await api(`/sites/MLA/search?product_id=${pid}&sort=price_asc&limit=5`, tk);
     const rs = se.results || [];
-    intentos.push("search:" + rs.length);
-    if (rs.length && +rs[0].price > 0) return { price: +rs[0].price, old: +rs[0].original_price > +rs[0].price ? +rs[0].original_price : 0 };
-  } catch (e) { intentos.push("search " + e.message.slice(0, 70)); }
-  const err = new Error("el producto no tiene una publicación ganadora (" + intentos.join("; ") + ")");
-  err.diag = { producto: pid, claves: Object.keys(pr).join(","), buy_box_winner: JSON.stringify(pr.buy_box_winner ?? null).slice(0, 200) };
+    if (rs.length && +rs[0].price > 0) return { price: +rs[0].price, old: +rs[0].original_price > +rs[0].price ? +rs[0].original_price : 0, nombre, via: "búsqueda" };
+    intentos.push("búsqueda:" + rs.length);
+  } catch (e) { intentos.push("búsqueda: " + (e.message.match(/respondió (\d+)/) || [, "error"])[1]); }
+  const err = new Error("sin precio disponible (" + intentos.join("; ") + ")");
+  err.diag = { producto: pid, nombre_en_ML: nombre, claves_de_producto: Object.keys(pr).slice(0, 12).join(","), ejemplo_de_publicacion: muestra };
   throw err;
 }
 
@@ -141,9 +152,11 @@ async function main() {
       finalUrl = r.url || p.url;
       if (r.error) throw new Error(r.error);
       const res = r.item ? await precioDeItem(r.item, tk) : await precioDeProducto(r.producto, tk);
+      if (res.nombre && coinciden(p.titulo, res.nombre) < 1) throw new Error(`parece otro producto: en Mercado Libre se llama "${res.nombre.slice(0, 70)}"`);
       items[p.id].price = res.price; items[p.id].old = res.old; items[p.id].updated = ahora;
+      if (res.nombre) items[p.id].ml = res.nombre.slice(0, 90);
       ok++;
-      console.log(`OK   #${p.id} ${p.titulo.slice(0, 40)} -> $${res.price}${res.old ? " (antes $" + res.old + ")" : ""}`);
+      console.log(`OK   #${p.id} ${p.titulo.slice(0, 40)} -> $${res.price}${res.old ? " (antes $" + res.old + ")" : ""}${res.nombre ? " | ML: " + res.nombre.slice(0, 50) : ""}${res.via ? " | vía " + res.via : ""}`);
     } catch (e) {
       fallos.push(p);
       console.log(`FALLÓ #${p.id} ${p.titulo.slice(0, 40)} | ${e.message} | ${p.url}`);
