@@ -53,6 +53,10 @@ async function resolver(url) {
       const it = t.match(/"item_id"\s*:\s*"(MLA\d+)"/) || t.match(/item_id[:=](MLA\d+)/);
       const pr = t.match(/\/p\/(MLA\d+)/);
       if (it || pr) return { url: actual, item: it ? it[1] : null, producto: pr ? pr[1] : null };
+      const can = (t.match(/<link[^>]+rel=["']canonical["'][^>]+href=["']([^"']+)["']/i) || t.match(/<meta[^>]+property=["']og:url["'][^>]+content=["']([^"']+)["']/i) || [])[1];
+      if (can) { const ids = extraerIds(can); if (ids.item || ids.producto) return { url: can, ...ids }; }
+      const suelto = t.match(/\b(MLA)-?(\d{9,10})\b/);
+      if (suelto) return { url: actual, item: "MLA" + suelto[2], producto: null };
     }
     return { url: actual, error: "el link terminó en una página sin ID de publicación (estado " + r.status + ")" };
   }
@@ -96,7 +100,27 @@ async function precioDeProducto(pid, tk) {
   const pr = await api(`/products/${pid}`, tk), w = pr.buy_box_winner || {};
   if (w.item_id) return precioDeItem(w.item_id, tk);
   if (+w.price > 0) return { price: +w.price, old: +w.original_price > +w.price ? +w.original_price : 0 };
-  throw new Error("el producto no tiene una publicación ganadora");
+  const intentos = [];
+  try {   // alternativa 1: publicaciones del producto de catálogo
+    const li = await api(`/products/${pid}/items`, tk);
+    const arr = Array.isArray(li) ? li : (li.results || li.items || []);
+    intentos.push("items:" + arr.length);
+    let mejor = null;
+    for (const x of arr.slice(0, 5)) {
+      const id = x.item_id || x.id; if (!id) continue;
+      try { const r = await precioDeItem(id, tk); if (!mejor || r.price < mejor.price) mejor = r; } catch {}
+    }
+    if (mejor) return mejor;
+  } catch (e) { intentos.push("items " + e.message.slice(0, 70)); }
+  try {   // alternativa 2: búsqueda pública por producto
+    const se = await api(`/sites/MLA/search?product_id=${pid}&sort=price_asc&limit=5`, tk);
+    const rs = se.results || [];
+    intentos.push("search:" + rs.length);
+    if (rs.length && +rs[0].price > 0) return { price: +rs[0].price, old: +rs[0].original_price > +rs[0].price ? +rs[0].original_price : 0 };
+  } catch (e) { intentos.push("search " + e.message.slice(0, 70)); }
+  const err = new Error("el producto no tiene una publicación ganadora (" + intentos.join("; ") + ")");
+  err.diag = { producto: pid, claves: Object.keys(pr).join(","), buy_box_winner: JSON.stringify(pr.buy_box_winner ?? null).slice(0, 200) };
+  throw err;
 }
 
 async function main() {
@@ -107,12 +131,14 @@ async function main() {
   const prev = fs.existsSync(OUT) ? JSON.parse(fs.readFileSync(OUT, "utf8")) : { items: {} };
   const items = { ...(prev.items || {}) };
   const ahora = new Date().toISOString();
-  let ok = 0; const fallos = [];
+  let ok = 0, diags = 0; const fallos = [];
   for (const p of productos) {
     items[p.id] = items[p.id] || { titulo: p.titulo, price: 0, old: 0 };
     items[p.id].titulo = p.titulo;
+    let finalUrl = p.url;
     try {
       const r = await resolver(p.url);
+      finalUrl = r.url || p.url;
       if (r.error) throw new Error(r.error);
       const res = r.item ? await precioDeItem(r.item, tk) : await precioDeProducto(r.producto, tk);
       items[p.id].price = res.price; items[p.id].old = res.old; items[p.id].updated = ahora;
@@ -121,6 +147,7 @@ async function main() {
     } catch (e) {
       fallos.push(p);
       console.log(`FALLÓ #${p.id} ${p.titulo.slice(0, 40)} | ${e.message} | ${p.url}`);
+      if (diags < 4) { diags++; console.log(`   DIAGNÓSTICO #${p.id}: link final = ${finalUrl}` + (e.diag ? " | respuesta de /products = " + JSON.stringify(e.diag) : "")); }
     }
     await sleep(350);
   }
