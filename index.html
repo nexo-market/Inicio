@@ -147,6 +147,7 @@ body,header,.hr input,footer,details,.how div,.disc{transition:background-color 
 .pbox .note{margin-top:2px}
 .dt .pbox{margin:16px 0 14px}
 .dt .pbox .price{font-size:2.1rem}
+.from{font-size:.8rem;font-weight:600;color:var(--mute);align-self:flex-end;margin-right:-2px}
 .pstamp{margin:2px 0 14px;font-size:.8rem;color:var(--mute)}
 /* generador */
 #gen{display:none;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:20px;margin-top:30px}
@@ -401,11 +402,11 @@ const discOf=p=>p.price&&p.old&&p.old>p.price?Math.round((1-p.price/p.old)*100):
 function priceBox(p){
  if(!p.price)return `<div class="pbox"><div class="price none">Ver precio en Mercado Libre</div></div>`;
  const d=discOf(p),when=fmtDate(p.pu||PRICES_AT);
- return `<div class="pbox"><div class="prow"><span class="price">${money(p.price)}</span>${d?`<span class="off">${d}% OFF</span>`:""}</div>${d?`<div class="was">Antes <s>${money(p.old)}</s></div>`:""}<div class="note">${when?"Precio actualizado el "+when+" · ":""}Puede cambiar en Mercado Libre</div></div>`;
+ return `<div class="pbox"><div class="prow">${p.desde?`<span class="from">Desde</span>`:""}<span class="price">${money(p.price)}</span>${d?`<span class="off">${d}% OFF</span>`:""}</div>${d?`<div class="was">Antes <s>${money(p.old)}</s></div>`:""}<div class="note">${when?"Precio actualizado el "+when+" · ":""}Puede cambiar en Mercado Libre</div></div>`;
 }
 function paintPrices(){
  document.querySelectorAll("article.card[data-id]").forEach(a=>{const p=PRODUCTS.find(x=>x.id==a.dataset.id),b=a.querySelector(".pbox");if(p&&b)b.outerHTML=priceBox(p)});
- const dp=document.querySelector("#detail .pbox");if(dp&&window.__p)dp.outerHTML=priceBox(window.__nop?{}:window.__p);
+ const dp=document.querySelector("#detail .pbox");if(dp&&window.__p)dp.outerHTML=priceBox(window.__vsel?(window.__vsel.price?window.__vsel:{}):window.__p);
  const ps=$("#pstamp");if(ps){if(PRICES_AT){ps.hidden=false;ps.textContent="Precios de Mercado Libre actualizados el "+fmtDate(PRICES_AT)+". Pueden cambiar: confirmalos antes de comprar."}else ps.hidden=true}
  layoutMore();
 }
@@ -413,7 +414,8 @@ async function loadPrices(){
  try{
   const r=await fetch("precios.json",{cache:"no-cache"});if(!r.ok)return;
   const j=await r.json(),it=j.items||{};let n=0;
-  PRODUCTS.forEach(p=>{const v=it[p.id];if(v&&+v.price>0){p.price=+v.price;p.old=+v.old>+v.price?+v.old:0;p.pu=v.updated||j.updated||null;n++}});
+  PRODUCTS.forEach(p=>{const v=it[p.id];if(v&&+v.price>0){p.price=+v.price;p.old=+v.old>+v.price?+v.old:0;p.pu=v.updated||j.updated||null;p.desde=!!v.desde;n++}
+   if(p.variants)p.variants.forEach((x,i)=>{const w=it[p.id+"-v"+i];if(w&&+w.price>0){x.price=+w.price;x.old=+w.old>+w.price?+w.old:0;x.pu=w.updated||j.updated||null;x.desde=!!w.desde;n++}})});
   PRICES_AT=j.updated||PRICES_AT;
   if(n)paintPrices();
  }catch(e){}
@@ -445,7 +447,7 @@ function showDetail(p){
  const pic=i=>g[i]?`<img src="${esc(g[i])}" alt="${esc(p.title)}">`:`<span aria-hidden="true">${p.e||"🛍️"}</span>`;
  const buy=priceBox(p)+(p.url?`<a class="cta big" href="${esc(p.url)}" target="_blank" rel="sponsored noopener noreferrer">Comprar en Mercado Libre</a><p class="note" style="margin-top:8px">Te llevamos a Mercado Libre, en una pestaña nueva, para ver el precio actual y finalizar la compra.</p>`:`<span class="cta big" style="opacity:.45">Link de afiliado pendiente</span>`);
  $("#detail").innerHTML=`<a class="back" href="${secHref(p.cat)}">← Volver a ${esc(p.cat)}</a><div class="dt"><div class="gal ${g.length>1?"has":""}">${g.length>1?`<div class="th">${g.map((x,i)=>`<button type="button" data-g="${i}" aria-current="${i===0}" aria-label="Ver foto ${i+1}"><img src="${esc(x)}" alt=""></button>`).join("")}</div>`:""}<div class="slwrap"><div class="mainimg slides" id="mi">${slides}</div>${g.length>1?`<div class="dots">${g.map((x,i)=>`<button type="button" data-g="${i}" aria-current="${i===0}" aria-label="Foto ${i+1} de ${g.length}"></button>`).join("")}</div>`:""}${vars}</div></div><div><span class="cat" style="position:static;display:inline-block;background:var(--card);border:1px solid var(--line);border-radius:6px;padding:2px 8px;font-size:.78rem;font-weight:600">${esc(p.cat)}</span>${p.hot?`<span class="hotb inl"><i aria-hidden="true">🔥</i> Más vendido</span>`:""}<h1 id="dt-h">${esc(p.title)}</h1>${p.rating?`<div class="stars"><i aria-hidden="true">${stars(p.rating)}</i><span>${p.rating.toFixed(1)} (${(p.reviews||0).toLocaleString("es-AR")})</span></div>`:""}${p.colors&&p.colors.length?`<div class="sw2">Colores: ${p.colors.map(c=>`<i title="${esc(c.n)}" style="background:${esc(c.c)}"></i>`).join("")}</div>`:""}<div class="facts"><span>Se compra en Mercado Libre</span><span>Pago y envío por Mercado Libre</span><span>Sin costo extra para vos</span></div><p id="dt-l">${esc(p.long||p.desc)}</p>${p.features&&p.features.length?`<ul class="feat" id="dt-f">${p.features.map(f=>`<li>${esc(f)}</li>`).join("")}</ul>`:""}${buy}</div></div>`;
- window.__p=p;window.__nop=false;window.__cg=p.gallery||[p.img];SL.i=0;play();const mi=$("#mi");if(mi&&g.length>1){mi.onmouseenter=stop;mi.onmouseleave=play;mi.ontouchstart=e=>{SL.x=e.touches[0].clientX;stop()};mi.ontouchend=e=>{const dx=e.changedTouches[0].clientX-SL.x;if(Math.abs(dx)>40)go(SL.i+(dx<0?1:-1));play()}}
+ window.__p=p;window.__vsel=null;window.__cg=p.gallery||[p.img];SL.i=0;play();const mi=$("#mi");if(mi&&g.length>1){mi.onmouseenter=stop;mi.onmouseleave=play;mi.ontouchstart=e=>{SL.x=e.touches[0].clientX;stop()};mi.ontouchend=e=>{const dx=e.changedTouches[0].clientX-SL.x;if(Math.abs(dx)>40)go(SL.i+(dx<0?1:-1));play()}}
  document.title=p.title+" | "+SITE.name;
  const m=document.querySelector('meta[name="description"]');if(m)m.content=(p.desc||p.title).slice(0,155);
 }
@@ -557,7 +559,7 @@ document.addEventListener("click",e=>{
   $("#dt-h").textContent=cur.title;$("#dt-l").textContent=cur.long;
   const ul=$("#dt-f");if(ul&&cur.features)ul.innerHTML=cur.features.map(f=>`<li>${esc(f)}</li>`).join("");
   const a=document.querySelector("#detail .cta.big");if(a)a.href=cur.url;
-  window.__nop=!!v.url;const pb=document.querySelector("#detail .pbox");if(pb)pb.outerHTML=priceBox(window.__nop?{}:p);
+  window.__vsel=v.url?v:null;const pb=document.querySelector("#detail .pbox");if(pb)pb.outerHTML=priceBox(window.__vsel?(window.__vsel.price?window.__vsel:{}):p);
   const t=$("#vt");t.hidden=!!v.url||i===(p.variant||0);t.textContent="Este color se elige en la publicación de Mercado Libre."}
  const b=e.target.closest("[data-g]");
  if(b){go(+b.dataset.g);play()}
