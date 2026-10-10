@@ -1,0 +1,29 @@
+name: Actualizar precios
+
+on:
+  schedule:
+    - cron: "0 */4 * * *"   # cada 4 horas
+  workflow_dispatch:         # también se puede correr a mano desde la pestaña Actions
+
+permissions:
+  contents: write
+
+jobs:
+  precios:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Buscar precios en Mercado Libre
+        run: node scripts/actualizar-precios.mjs
+        env:
+          ML_CLIENT_ID: ${{ secrets.ML_CLIENT_ID }}
+          ML_CLIENT_SECRET: ${{ secrets.ML_CLIENT_SECRET }}
+      - name: Guardar cambios
+        run: |
+          git config user.name "Robot de precios"
+          git config user.email "robot@users.noreply.github.com"
+          git add precios.json
+          git diff --cached --quiet || (git commit -m "Actualizar precios" && git push)
