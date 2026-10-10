@@ -23,6 +23,14 @@ function leerProductos() {
     const url = (l.match(/,url:"([^"]+)"/) || [])[1];
     const titulo = (l.match(/title:"((?:[^"\\]|\\.)*)"/) || [])[1] || "";
     if (id && url) out.push({ id, url, titulo: titulo.replace(/\\"/g, '"') });
+    const vi = l.indexOf("variants:[");
+    if (id && vi >= 0) {   // variantes (otros colores) que tienen su propio link
+      let k = 0;
+      for (const m of l.slice(vi).matchAll(/\{n:"([^"]+)",img:IMG\.\w+(?:,url:"([^"]+)")?/g)) {
+        if (m[2]) out.push({ id: `${id}-v${k}`, url: m[2], titulo: `${titulo.replace(/\\"/g, '"')} (${m[1]})` });
+        k++;
+      }
+    }
   }
   return out;
 }
@@ -81,7 +89,34 @@ async function api(path, tk) {
   return JSON.parse(t);
 }
 
+async function precioPorWeb(id) {
+  const num = String(id).replace(/\D/g, "");
+  const r = await fetch(`https://articulo.mercadolibre.com.ar/MLA-${num}`, { redirect: "follow", headers: { "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36", "accept-language": "es-AR,es;q=0.9", accept: "text/html" } });
+  if (!r.ok) throw new Error("la página de la publicación respondió " + r.status);
+  const t = await r.text();
+  let price = 0, nombre = (t.match(/<meta[^>]+property=["']og:title["'][^>]+content=["']([^"']+)["']/i) || [])[1] || "";
+  for (const b of t.matchAll(/<script[^>]+application\/ld\+json[^>]*>([\s\S]*?)<\/script>/gi)) {
+    try {
+      const j = JSON.parse(b[1]); const lista = Array.isArray(j) ? j : [j];
+      for (const o of lista) { const of = Array.isArray(o.offers) ? o.offers[0] : o.offers; if (of && +(of.price || of.lowPrice) > 0) { price = +(of.price || of.lowPrice); nombre = nombre || o.name || ""; break; } }
+    } catch {}
+    if (price) break;
+  }
+  if (!price) { const m = t.match(/<meta[^>]+itemprop=["']price["'][^>]+content=["']([\d.]+)["']/i); if (m) price = +m[1]; }
+  if (!(price > 0)) throw new Error("no encontré el precio en la página de la publicación");
+  const o = t.match(/"original_price"\s*:\s*(\d+(?:\.\d+)?)/);
+  return { price, old: o && +o[1] > price ? +o[1] : 0, nombre, via: "página de la publicación" };
+}
+
 async function precioDeItem(id, tk) {
+  try { return await precioDeItemApi(id, tk); }
+  catch (e) {
+    try { return await precioPorWeb(id); }
+    catch (e2) { throw new Error(e.message.slice(0, 100) + " | web: " + e2.message); }
+  }
+}
+
+async function precioDeItemApi(id, tk) {
   let price = 0, old = 0;
   try {
     const s = await api(`/items/${id}/sale_price?context=channel_marketplace`, tk);
@@ -113,7 +148,7 @@ async function precioDeProducto(pid, tk) {
     const nuevos = arr.filter(x => +x.price > 0 && (!x.condition || x.condition === "new"));
     if (nuevos.length) {
       const m = nuevos.reduce((a, b) => (+b.price < +a.price ? b : a));
-      return { price: +m.price, old: +m.original_price > +m.price ? +m.original_price : 0, nombre, via: "lista de publicaciones (la más barata)" };
+      return { price: +m.price, old: +m.original_price > +m.price ? +m.original_price : 0, nombre, via: "lista de publicaciones (la más barata)", desde: true };
     }
     let mejor = null, primerError = "";
     for (const x of arr.slice(0, 5)) {
@@ -142,7 +177,7 @@ async function main() {
   const prev = fs.existsSync(OUT) ? JSON.parse(fs.readFileSync(OUT, "utf8")) : { items: {} };
   const items = { ...(prev.items || {}) };
   const ahora = new Date().toISOString();
-  let ok = 0, diags = 0; const fallos = [];
+  let ok = 0, diags = 0; const fallos = [], filas = [];
   for (const p of productos) {
     items[p.id] = items[p.id] || { titulo: p.titulo, price: 0, old: 0 };
     items[p.id].titulo = p.titulo;
@@ -154,11 +189,14 @@ async function main() {
       const res = r.item ? await precioDeItem(r.item, tk) : await precioDeProducto(r.producto, tk);
       if (res.nombre && coinciden(p.titulo, res.nombre) < 1) throw new Error(`parece otro producto: en Mercado Libre se llama "${res.nombre.slice(0, 70)}"`);
       items[p.id].price = res.price; items[p.id].old = res.old; items[p.id].updated = ahora;
+      if (res.desde) items[p.id].desde = true; else delete items[p.id].desde;
+      filas.push(`| ${p.id} | ${p.titulo.slice(0, 55)} | ${(res.nombre || "").slice(0, 60)} | ${res.nombre ? coinciden(p.titulo, res.nombre) : "-"} | ${res.price} | ${res.old || ""} | ${res.desde ? "desde" : "exacto"} |`);
       if (res.nombre) items[p.id].ml = res.nombre.slice(0, 90);
       ok++;
       console.log(`OK   #${p.id} ${p.titulo.slice(0, 40)} -> $${res.price}${res.old ? " (antes $" + res.old + ")" : ""}${res.nombre ? " | ML: " + res.nombre.slice(0, 50) : ""}${res.via ? " | vía " + res.via : ""}`);
     } catch (e) {
       fallos.push(p);
+      filas.push(`| ${p.id} | ${p.titulo.slice(0, 55)} | SIN PRECIO: ${e.message.slice(0, 90).replace(/\|/g, "/")} | | | | |`);
       console.log(`FALLÓ #${p.id} ${p.titulo.slice(0, 40)} | ${e.message} | ${p.url}`);
       if (diags < 4) { diags++; console.log(`   DIAGNÓSTICO #${p.id}: link final = ${finalUrl}` + (e.diag ? " | respuesta de /products = " + JSON.stringify(e.diag) : "")); }
     }
@@ -166,8 +204,11 @@ async function main() {
   }
   console.log(`\nResumen: ${ok} con precio, ${fallos.length} sin poder actualizar (se conserva el precio anterior).`);
   if (!ok) { console.error("No se pudo actualizar ningún producto: no toco precios.json."); process.exit(1); }
-  const ordenado = Object.fromEntries(Object.entries(items).sort((a, b) => a[0] - b[0]));
-  if (!DRY) fs.writeFileSync(OUT, JSON.stringify({ updated: ahora, items: ordenado }, null, 1) + "\n");
+  const ordenado = Object.fromEntries(Object.entries(items).sort((a, b) => parseInt(a[0]) - parseInt(b[0]) || a[0].localeCompare(b[0])));
+  if (!DRY) {
+    fs.writeFileSync(OUT, JSON.stringify({ updated: ahora, items: ordenado }, null, 1) + "\n");
+    fs.writeFileSync(process.env.REVISION_FILE || "revision-precios.md", "# Revisión de precios\n\n| id | nuestro producto | nombre en Mercado Libre | coincidencias | precio | antes | tipo |\n|---|---|---|---|---|---|---|\n" + filas.join("\n") + "\n");
+  }
   else console.log("(modo --dry: no se guardó nada)");
 }
 main().catch(e => { console.error(e.message || e); process.exit(1); });
