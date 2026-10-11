@@ -154,6 +154,77 @@ body,header,.hr input,footer,details,.how div,.disc{transition:background-color 
 .dt .pbox .price{font-size:2.1rem}
 .from{font-size:.8rem;font-weight:600;color:var(--mute);align-self:flex-end;margin-right:-2px}
 .pstamp{margin:2px 0 14px;font-size:.8rem;color:var(--mute)}
+/* ===== Celulares ===== */
+.dots button{position:relative}
+.dots button::before{content:"";position:absolute;inset:-12px -6px}
+#ttl{scroll-margin-top:130px}
+@media(max-width:640px){
+ #ttl{scroll-margin-top:64px}
+ .w{padding:0 12px}
+ .hr{padding:10px 12px;gap:10px}
+ .logo{font-size:1.25rem;gap:8px}
+ .logo img{width:42px}
+ header{top:calc(env(safe-area-inset-top,0px) - var(--hrh,0px))}
+ nav{scrollbar-width:none}
+ nav::-webkit-scrollbar{display:none}
+ nav ul{padding:0 8px;gap:0}
+ nav a{padding:12px 12px}
+ .hero{margin-top:14px;padding:20px 16px 16px;display:grid;grid-template-columns:1fr auto;align-items:end;gap:6px 8px;border-radius:16px}
+ .hero h1{grid-column:1/-1;font-size:clamp(1.45rem,7vw,1.8rem);margin:0 0 4px}
+ .hero p{grid-column:1/-1;font-size:.95rem;line-height:1.45}
+ .hero .trust{grid-column:1;margin-top:10px;gap:4px 14px;font-size:.82rem}
+ .hero .mascot{grid-column:2;grid-row:3;position:static;margin:0;width:84px}
+ h2{font-size:1.2rem;margin:24px 0 12px}
+ .hot-h{margin:24px 0 2px}
+ .ttlrow h2{margin-bottom:6px}
+ .linkbtn{margin:0 0 10px;padding:6px 12px;font-size:.78rem}
+ .pstamp{font-size:.74rem;margin:0 0 10px}
+ .grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+ .cb{padding:9px 10px 11px;gap:4px}
+ .cb h3{font-size:.88rem;line-height:1.25;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;overflow-wrap:anywhere}
+ .cb p{font-size:.76rem;line-height:1.35;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+ .pbox .price{font-size:1.2rem}
+ .prow{gap:5px}
+ .off{font-size:.68rem;padding:2px 6px}
+ .was{font-size:.76rem}
+ .card .note{display:none}
+ .card .pnone{padding:6px 8px}
+ .card .pnone b{font-size:.8rem}
+ .card .pnone span{display:none}
+ .cta{padding:10px 8px;font-size:.88rem;margin-top:6px}
+ .cat{top:6px;left:6px;font-size:.64rem;padding:1px 6px}
+ .hotb{top:6px;right:6px;font-size:.62rem;padding:2px 7px 2px 5px}
+ .card.hotc{box-shadow:0 0 0 2px rgba(247,130,43,.28)}
+ .morebtn{width:100%;justify-content:center}
+ .back{padding:10px 0 4px}
+ .dt{gap:18px;margin-top:10px}
+ .gal.has{grid-template-columns:1fr}
+ .gal.has .th{order:2;flex-direction:row;overflow-x:auto;gap:8px;padding-bottom:2px}
+ .th button{flex:none;width:60px;height:60px}
+ .dt h1{font-size:1.45rem}
+ .dt .pbox .price{font-size:1.8rem}
+ .dt .cta.big{position:sticky;bottom:calc(10px + env(safe-area-inset-bottom,0px));z-index:6;box-shadow:0 8px 22px rgba(31,51,80,.3);padding:14px;font-size:1rem}
+ summary{padding:8px 0}
+ footer a{display:inline-block;padding:6px 0}
+}
+.ptop{display:none}
+@media(max-width:640px){
+ .ttlrow{flex-direction:column;align-items:flex-start;gap:0}
+ .ptop{display:block}
+ .ptop .pbox{margin:6px 0 10px}
+ .pbot{display:none}
+ .gal.has{display:flex;flex-direction:column;gap:10px}
+ .gal.has .slwrap{display:contents}
+ .gal.has .mainimg{order:1}
+ .gal.has .dots{order:2;margin:0}
+ .gal.has .th{order:3}
+ .gal.has .vars{order:4;margin-top:2px}
+}
+@media(max-width:380px){
+ .cb h3{font-size:.84rem}
+ .pbox .price{font-size:1.1rem}
+ .hero h1{font-size:1.4rem}
+}
 /* generador */
 #gen{display:none;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:20px;margin-top:30px}
 #gen.on{display:block}
@@ -387,7 +458,9 @@ const secId=c=>String(c).toLowerCase().replace(/ñ/g,"\u0001").normalize("NFD").
 const secHref=c=>c==="Todos"?"#":"#"+secId(c);
 function findCat(raw){let k=raw||"";try{k=decodeURIComponent(k)}catch(e){}k=norm(String(k).replace(/^seccion\//,""));if(!k)return null;if(k==="todos")return"Todos";return CATS.find(c=>norm(c)===k)||null}
 let lastDrawn="";
-function drawNav(){$("#nav").innerHTML=["Todos",...CATS].map(c=>`<li><a href="${secHref(c)}" aria-current="${c===cat}">${esc(c)}</a></li>`).join("")}
+function centerNav(){const n=document.querySelector("header nav"),a=document.querySelector('#nav a[aria-current="true"]');if(n&&a&&n.scrollWidth>n.clientWidth){const l=a.getBoundingClientRect().left-n.getBoundingClientRect().left+n.scrollLeft;n.scrollTo({left:l-(n.clientWidth-a.offsetWidth)/2,behavior:"smooth"})}}
+function setHdr(){const h=document.querySelector("header .hr");if(h)document.documentElement.style.setProperty("--hrh",h.offsetHeight+"px")}
+function drawNav(){$("#nav").innerHTML=["Todos",...CATS].map(c=>`<li><a href="${secHref(c)}" aria-current="${c===cat}">${esc(c)}</a></li>`).join("");centerNav()}
 const pat=e=>'url("data:image/svg+xml,'+encodeURIComponent(`<svg xmlns='http://www.w3.org/2000/svg' width='96' height='96'><text x='10' y='42' font-size='30' opacity='.11'>${e}</text><text x='56' y='84' font-size='24' opacity='.08'>${e}</text></svg>`)+'")';
 const isDark=()=>document.documentElement.dataset.mode==="dark";
 const rgb=h=>[1,3,5].map(i=>parseInt(h.slice(i,i+2),16));
@@ -413,7 +486,7 @@ function priceBox(p){
 }
 function paintPrices(){
  document.querySelectorAll("article.card[data-id]").forEach(a=>{const p=PRODUCTS.find(x=>x.id==a.dataset.id),b=a.querySelector(".pbox");if(p&&b)b.outerHTML=priceBox(p)});
- const dp=document.querySelector("#detail .pbox");if(dp&&window.__p)dp.outerHTML=priceBox(window.__vsel?(window.__vsel.price?window.__vsel:{}):window.__p);
+ if(window.__p){const nb=priceBox(window.__vsel?(window.__vsel.price?window.__vsel:{}):window.__p);document.querySelectorAll("#detail .pbox").forEach(dp=>{dp.outerHTML=nb})}
  const ps=$("#pstamp");if(ps){if(PRICES_AT){ps.hidden=false;ps.textContent="Precios de Mercado Libre actualizados el "+fmtDate(PRICES_AT)+". Pueden cambiar: confirmalos antes de comprar."}else ps.hidden=true}
  layoutMore();
 }
@@ -452,8 +525,8 @@ function showDetail(p){
  const vars=p.variants&&p.variants.length?`<div class="vars"><div class="vl">Color: <b id="vn">${esc(p.variants[sel].n)}</b></div><div class="vs">${p.variants.map((v,i)=>`<button type="button" class="vb" data-v="${i}" aria-pressed="${i===sel}" aria-label="Color ${esc(v.n)}" title="${esc(v.n)}"><img src="${esc(v.img)}" alt=""></button>`).join("")}</div><div class="vnote" id="vt" hidden></div></div>`:"";
  const slides=g.length?g.map((x,i)=>`<img class="sl${i?"":" on"}" src="${esc(x)}" alt="${esc(p.title)}${i?" (foto "+(i+1)+")":""}"${i?' loading="lazy"':""}>`).join(""):`<span aria-hidden="true">${p.e||"🛍️"}</span>`;
  const pic=i=>g[i]?`<img src="${esc(g[i])}" alt="${esc(p.title)}">`:`<span aria-hidden="true">${p.e||"🛍️"}</span>`;
- const buy=priceBox(p)+(p.url?`<a class="cta big" href="${esc(p.url)}" target="_blank" rel="sponsored noopener noreferrer">Comprar en Mercado Libre</a><p class="note" style="margin-top:8px">Te llevamos a Mercado Libre, en una pestaña nueva, para ver el precio actual y finalizar la compra.</p>`:`<span class="cta big" style="opacity:.45">Link de afiliado pendiente</span>`);
- $("#detail").innerHTML=`<a class="back" href="${secHref(p.cat)}">← Volver a ${esc(p.cat)}</a><div class="dt"><div class="gal ${g.length>1?"has":""}">${g.length>1?`<div class="th">${g.map((x,i)=>`<button type="button" data-g="${i}" aria-current="${i===0}" aria-label="Ver foto ${i+1}"><img src="${esc(x)}" alt=""></button>`).join("")}</div>`:""}<div class="slwrap"><div class="mainimg slides" id="mi">${slides}</div>${g.length>1?`<div class="dots">${g.map((x,i)=>`<button type="button" data-g="${i}" aria-current="${i===0}" aria-label="Foto ${i+1} de ${g.length}"></button>`).join("")}</div>`:""}${vars}</div></div><div><span class="cat" style="position:static;display:inline-block;background:var(--card);border:1px solid var(--line);border-radius:6px;padding:2px 8px;font-size:.78rem;font-weight:600">${esc(p.cat)}</span>${p.hot?`<span class="hotb inl"><i aria-hidden="true">🔥</i> Más vendido</span>`:""}<h1 id="dt-h">${esc(p.title)}</h1>${p.rating?`<div class="stars"><i aria-hidden="true">${stars(p.rating)}</i><span>${p.rating.toFixed(1)} (${(p.reviews||0).toLocaleString("es-AR")})</span></div>`:""}${p.colors&&p.colors.length?`<div class="sw2">Colores: ${p.colors.map(c=>`<i title="${esc(c.n)}" style="background:${esc(c.c)}"></i>`).join("")}</div>`:""}<div class="facts"><span>Se compra en Mercado Libre</span><span>Pago y envío por Mercado Libre</span><span>Sin costo extra para vos</span></div><p id="dt-l">${esc(p.long||p.desc)}</p>${p.features&&p.features.length?`<ul class="feat" id="dt-f">${p.features.map(f=>`<li>${esc(f)}</li>`).join("")}</ul>`:""}${buy}</div></div>`;
+ const buy='<div class="pbot">'+priceBox(p)+'</div>'+(p.url?`<a class="cta big" href="${esc(p.url)}" target="_blank" rel="sponsored noopener noreferrer">Comprar en Mercado Libre</a><p class="note" style="margin-top:8px">Te llevamos a Mercado Libre, en una pestaña nueva, para ver el precio actual y finalizar la compra.</p>`:`<span class="cta big" style="opacity:.45">Link de afiliado pendiente</span>`);
+ $("#detail").innerHTML=`<a class="back" href="${secHref(p.cat)}">← Volver a ${esc(p.cat)}</a><div class="dt"><div class="gal ${g.length>1?"has":""}">${g.length>1?`<div class="th">${g.map((x,i)=>`<button type="button" data-g="${i}" aria-current="${i===0}" aria-label="Ver foto ${i+1}"><img src="${esc(x)}" alt=""></button>`).join("")}</div>`:""}<div class="slwrap"><div class="mainimg slides" id="mi">${slides}</div>${g.length>1?`<div class="dots">${g.map((x,i)=>`<button type="button" data-g="${i}" aria-current="${i===0}" aria-label="Foto ${i+1} de ${g.length}"></button>`).join("")}</div>`:""}${vars}</div></div><div><span class="cat" style="position:static;display:inline-block;background:var(--card);border:1px solid var(--line);border-radius:6px;padding:2px 8px;font-size:.78rem;font-weight:600">${esc(p.cat)}</span>${p.hot?`<span class="hotb inl"><i aria-hidden="true">🔥</i> Más vendido</span>`:""}<h1 id="dt-h">${esc(p.title)}</h1><div class="ptop">${priceBox(p)}</div>${p.rating?`<div class="stars"><i aria-hidden="true">${stars(p.rating)}</i><span>${p.rating.toFixed(1)} (${(p.reviews||0).toLocaleString("es-AR")})</span></div>`:""}${p.colors&&p.colors.length?`<div class="sw2">Colores: ${p.colors.map(c=>`<i title="${esc(c.n)}" style="background:${esc(c.c)}"></i>`).join("")}</div>`:""}<div class="facts"><span>Se compra en Mercado Libre</span><span>Pago y envío por Mercado Libre</span><span>Sin costo extra para vos</span></div><p id="dt-l">${esc(p.long||p.desc)}</p>${p.features&&p.features.length?`<ul class="feat" id="dt-f">${p.features.map(f=>`<li>${esc(f)}</li>`).join("")}</ul>`:""}${buy}</div></div>`;
  window.__p=p;window.__vsel=null;window.__cg=p.gallery||[p.img];SL.i=0;play();const mi=$("#mi");if(mi&&g.length>1){mi.onmouseenter=stop;mi.onmouseleave=play;mi.ontouchstart=e=>{SL.x=e.touches[0].clientX;stop()};mi.ontouchend=e=>{const dx=e.changedTouches[0].clientX-SL.x;if(Math.abs(dx)>40)go(SL.i+(dx<0?1:-1));play()}}
  document.title=p.title+" | "+SITE.name;
  const m=document.querySelector('meta[name="description"]');if(m)m.content=(p.desc||p.title).slice(0,155);
@@ -511,7 +584,7 @@ $("#more").onclick=()=>{
 };
 setInterval(loadPrices,5*60*1000);
 document.addEventListener("visibilitychange",()=>{if(!document.hidden&&Date.now()-PRICES_TRY>120000){PRICES_TRY=Date.now();loadPrices()}});
-let RT;addEventListener("resize",()=>{clearTimeout(RT);RT=setTimeout(layoutMore,150)});
+let RT;addEventListener("resize",()=>{clearTimeout(RT);RT=setTimeout(()=>{layoutMore();setHdr()},150)});
 if(document.fonts&&document.fonts.ready)document.fonts.ready.then(()=>layoutMore());
 function setMode(m,save){
  document.documentElement.dataset.mode=m;
@@ -566,7 +639,7 @@ document.addEventListener("click",e=>{
   $("#dt-h").textContent=cur.title;$("#dt-l").textContent=cur.long;
   const ul=$("#dt-f");if(ul&&cur.features)ul.innerHTML=cur.features.map(f=>`<li>${esc(f)}</li>`).join("");
   const a=document.querySelector("#detail .cta.big");if(a)a.href=cur.url;
-  window.__vsel=v.url?v:null;const pb=document.querySelector("#detail .pbox");if(pb)pb.outerHTML=priceBox(window.__vsel?(window.__vsel.price?window.__vsel:{}):p);
+  window.__vsel=v.url?v:null;const nb=priceBox(window.__vsel?(window.__vsel.price?window.__vsel:{}):p);document.querySelectorAll("#detail .pbox").forEach(pb=>{pb.outerHTML=nb});
   const t=$("#vt");t.hidden=!!v.url||i===(p.variant||0);t.textContent="Este color se elige en la publicación de Mercado Libre."}
  const b=e.target.closest("[data-g]");
  if(b){go(+b.dataset.g);play()}
@@ -578,7 +651,7 @@ $("#f").onsubmit=e=>{e.preventDefault();const d=Object.fromEntries(new FormData(
  const o={id:PRODUCTS.length+1,title:d.title,cat:d.cat,desc:d.desc,long:d.long,features:(d.features||"").split("\n").map(x=>x.trim()).filter(Boolean),price:+d.price,old:+d.old||0,rating:+d.rating||4.5,reviews:+d.reviews||0,img:d.img,e:"🛍️",url:d.url};
  $("#out").value=JSON.stringify(o)+",";};
 $("#copy").onclick=async()=>{const v=$("#out").value;if(!v)return;try{await navigator.clipboard.writeText(v);$("#copy").textContent="Copiado"}catch(x){$("#out").select()}setTimeout(()=>$("#copy").textContent="Copiar código",1600)};
-initMode();drawNav();draw();theme();PRICES_TRY=Date.now();loadPrices();BT=document.title;BD=(document.querySelector('meta[name="description"]')||{}).content||"";route();addEventListener("hashchange",route);
+initMode();drawNav();draw();theme();setHdr();if(document.fonts&&document.fonts.ready)document.fonts.ready.then(setHdr);PRICES_TRY=Date.now();loadPrices();BT=document.title;BD=(document.querySelector('meta[name="description"]')||{}).content||"";route();addEventListener("hashchange",route);
 </script>
 </body>
 </html>
