@@ -59,7 +59,7 @@
 | 54 | Colchón blanco para cuna con funda acolchada y cierre | Colchón Impermeable Para Practicuna 104x70x9cm Blanco | 2 | 89999 |  | desde |
 | 55 | Mamadera Philips Avent Natural Response de 125 ml | Mamadera Avent Philips Natural Response 125ml 0m+ Color Blan | 5 | 31999 |  | desde |
 | 56 | Gimnasio de actividades con piano y arco de juguetes | Colchoneta Para Bebe Gadnic Gimnasio Musical 0-36 Meses Pian | 4 | 31999 | 49999 | desde |
-| 57 | Balanza digital Femmto con Bluetooth y pantalla LED | Balanza Digital Con Bluetooth Personal De Baño Peso Corporal | 4 | 18999 | 27999 | desde |
+| 57 | Balanza digital Femmto con Bluetooth y pantalla LED | Balanza Digital Con Bluetooth Personal De Baño Peso Corporal | 4 | 17999 | 27999 | desde |
 | 58 | Planchita de pelo GAMA Bella Tourmaline Red Ion | Planchita De Pelo GA.MA Italy Elegance Bella Tourmaline Ion  | 5 | 59999 | 64999 | desde |
 | 59 | Robot de limpieza Sansei que aspira y trapea | Aspiradora Robot Sansei Rvcs23pi 5 modos de limpieza Sensor  | 3 | 121999 | 199999 | desde |
 | 60 | Aspiradora de mano Yelmo con accesorios | Yelmo As-3240 Aspiradora Para Auto Recargable Usb Color Gris | 2 | 39585 |  | desde |
@@ -76,7 +76,7 @@
 | 71 | Secador de pelo y planchita Ditron rosa con difusor | Set Planchita Cerámica Secador Pelo 2200W Ditron SK-SET1 Tec | 4 | 71420 | 181414 | desde |
 | 72 | Máquina de coser portátil Smart Tech blanca y rosa | Maquina De Coser Portatil Electrica Hogar 12 Puntadas Pedal  | 3 | 63999 | 79999 | desde |
 | 73 | Picadora eléctrica Lüsqtoff de 2 litros | Picadora Lusqtoff 650w 2000ml Procesadora Bowl Acero Inox. C | 2 | 58990 | 99999 | desde |
-| 74 | Deshumidificador Seklou con temporizador y bloqueo infa | Potente Deshumidificador Seklou Compresor Extrae Humedad 35m | 2 | 674666.82 | 977778 | desde |
+| 74 | Deshumidificador Seklou con temporizador y bloqueo infa | Potente Deshumidificador Seklou Compresor Extrae Humedad 35m | 2 | 654426 | 977778 | desde |
 | 75 | Anafe eléctrico Spica de 2 hornallas y 2000 W | Anafe Electrico Cocina Spica Sp-1040 Doble Hornalla 5 Veloci | 3 | 44999 | 89999 | desde |
 | 76 | Dispensador eléctrico de agua para bidón Spica recargab | Dispenser De Agua Portatil Usb Bomba SPICA TASR-350 Dispensa | 3 | 9899 | 29999 | desde |
 | 77 | Freezer horizontal blanco con función dual heladera y f | Freezer Horizontal Gafa Doble Función 96l Canasto Plástico F | 3 | 415811.51 |  | desde |
@@ -120,12 +120,12 @@
 | 115 | Secador de pelo Remington rojo con difusor | Secador De Pelo Remington Silk Ac9096 2400w 6 temperaturas / | 5 | 87890 | 119999 | desde |
 | 116 | Cafetera de filtro Smartlife con pantalla digital | Cafetera De Filtro Smartlife Digital 1520 | 4 | 82500 | 110000 | desde |
 | 117 | Freidora de aire Novohome de 10 litros con ventana | Freidora De Aire Novohome 10 Lts AirFryer Pantalla Display T | 3 | 143832.81 | 209990 | desde |
-| 118 | Purificador de agua sobre mesada dvigi Compact | Purificador de Agua Dvigi Compact de Red Elimina Cloro | 4 | 87203 | 106756 | desde |
+| 118 | Purificador de agua sobre mesada dvigi Compact | Purificador de Agua Dvigi Compact de Red Elimina Cloro | 4 | 86320 | 106756 | desde |
 | 119 | Calefactor de pared blanco y negro | Calefactor Convector Longvie Eca5s 5200 Kcal Recta Tiza/blan | 2 | 284051 |  | desde |
 | 120 | Robot aspirador Fika ultra delgado con control remoto | Aspiradora Robot Trapeadora Fika Limpieza SENSE Antichoque C | 2 | 145919 | 249999 | desde |
 | 121 | Set de secador y planchita Ultracomb Devotion rosa | Set Devotion Secador De Pelo + Planchita Ceramica 2200w Ultr | 5 | 60599 | 89999 | desde |
-| 122 | Microondas BGH Quick Chef de 20 litros digital | Microondas Bgh 20l Digital Eco B120db20 | 3 | 140000 |  | desde |
-| 123 | Cafetera de filtro Atma blanca con filtro permanente | Cafetera Atma Semi Automática de Filtro 1,25 Lts Ca8133p Col | 3 | 39351.51 | 47999 | desde |
+| 122 | Microondas BGH Quick Chef de 20 litros digital | Microondas Bgh 20l Digital Eco B120db20 | 3 | 194999 | 197946 | desde |
+| 123 | Cafetera de filtro Atma blanca con filtro permanente | Cafetera Atma Semi Automática de Filtro 1,25 Lts Ca8133p Col | 3 | 39340.22 | 47999 | desde |
 | 124 | Termotanque a gas Sherman de 80 litros multigás | Termotanque 80 Lts Sherman Tpgp080msh13 Gas Conex Sup De Pie | 3 | 382700 |  | desde |
 | 125 | Balanza de baño de vidrio digital Spica de 180 kg | Balanza De Baño Vidrio Pantalla Digital 180kg Spica BA-100 C | 5 | 13199 | 32999 | desde |
 | 126 | Freidora de aire Ultracomb FR 8612 celeste | Freidora de Aire Digital Ultracomb FR-8612 de 3 Litros Tácti | 5 | 69499 | 149999 | desde |
