@@ -154,6 +154,23 @@ body,header,.hr input,footer,details,.how div,.disc{transition:background-color 
 .dt .pbox .price{font-size:2.1rem}
 .from{font-size:.8rem;font-weight:600;color:var(--mute);align-self:flex-end;margin-right:-2px}
 .pstamp{margin:2px 0 14px;font-size:.8rem;color:var(--mute)}
+.pbox{background:var(--soft);border:1px solid var(--line);border-radius:12px;padding:9px 12px 8px;gap:2px}
+.pbox.nop{background:none;border:0;padding:0}
+.ptag{display:flex;align-items:center;justify-content:space-between;gap:8px;min-height:22px}
+.pbox .from{font-size:.68rem;font-weight:800;letter-spacing:.06em;text-transform:uppercase;color:var(--mute);align-self:auto;margin:0}
+.pmain{line-height:1.05}
+.pbox .price{font-size:1.75rem;letter-spacing:-.02em}
+.price small{font-size:.5em;font-weight:700;vertical-align:.62em;margin-right:3px;letter-spacing:0}
+.pbox .was{font-size:.8rem;min-height:1.15em}
+.pbox .note{font-size:.7rem;margin-top:3px}
+.pbox .ext{display:none}
+.dt .pbox .ext{display:inline}
+.dt .pbox{padding:12px 16px 10px}
+.dt .pbox .price{font-size:2.4rem}
+.dt .pbox .from{font-size:.75rem}
+.dt .pbox .note{font-size:.8rem}
+.im img{box-sizing:border-box;padding:4%}
+@media(max-width:640px){.pbox{padding:6px 8px 7px;border-radius:10px}.ptag{min-height:18px;gap:4px}.pbox .from{font-size:.58rem;letter-spacing:.04em}.pbox.nop{padding:0}}
 /* ===== Celulares ===== */
 .dots button{position:relative}
 .dots button::before{content:"";position:absolute;inset:-12px -6px}
@@ -480,9 +497,9 @@ const fmtDate=d=>{try{return new Date(d).toLocaleString("es-AR",{day:"2-digit",m
 const DESC_MIN=5,DESC_MAX=50;
 const discOf=p=>{if(!(p.price&&p.old&&p.old>p.price))return 0;const d=Math.round((1-p.price/p.old)*100);return d>=DESC_MIN&&d<=DESC_MAX?d:0};
 function priceBox(p){
- if(!p.price)return `<div class="pbox"><div class="pnone"><b>💲 Fijate el precio en Mercado Libre</b><span>Este producto no muestra el valor acá: lo ves al entrar a la publicación, y puede cambiar.</span></div></div>`;
+ if(!p.price)return `<div class="pbox nop"><div class="pnone"><b>💲 Fijate el precio en Mercado Libre</b><span>Este producto no muestra el valor acá: lo ves al entrar a la publicación, y puede cambiar.</span></div></div>`;
  const d=discOf(p),when=fmtDate(p.pu||PRICES_AT);
- return `<div class="pbox"><div class="prow">${p.desde?`<span class="from">Desde</span>`:""}<span class="price">${money(p.price)}</span>${d?`<span class="off">${d}% OFF</span>`:""}</div>${d?`<div class="was">Antes <s>${money(p.old)}</s></div>`:""}<div class="note">${when?"Precio actualizado el "+when+" · ":""}Puede cambiar en Mercado Libre</div></div>`;
+ return `<div class="pbox"><div class="ptag"><span class="from">${p.desde?"Desde":"Precio actual"}</span>${d?`<span class="off">${d}% OFF</span>`:""}</div><div class="pmain"><span class="price"><small>$</small>${Math.round(p.price).toLocaleString("es-AR")}</span></div><div class="was">${d?`Antes <s>${money(p.old)}</s>`:"&nbsp;"}</div><div class="note">${when?"Actualizado el "+when:""}<span class="ext">${when?" · ":""}Puede cambiar en Mercado Libre</span></div></div>`;
 }
 function paintPrices(){
  document.querySelectorAll("article.card[data-id]").forEach(a=>{const p=PRODUCTS.find(x=>x.id==a.dataset.id),b=a.querySelector(".pbox");if(p&&b)b.outerHTML=priceBox(p)});
