@@ -60,9 +60,9 @@
 | 55 | Mamadera Philips Avent Natural Response de 125 ml | Mamadera Avent Philips Natural Response 125ml 0m+ Color Blan | 5 | 31999 |  | desde |
 | 56 | Gimnasio de actividades con piano y arco de juguetes | Colchoneta Para Bebe Gadnic Gimnasio Musical 0-36 Meses Pian | 4 | 31999 | 49999 | desde |
 | 57 | Balanza digital Femmto con Bluetooth y pantalla LED | Balanza Digital Con Bluetooth Personal De Baño Peso Corporal | 4 | 17999 | 27999 | desde |
-| 58 | Planchita de pelo GAMA Bella Tourmaline Red Ion | Planchita De Pelo GA.MA Italy Elegance Bella Tourmaline Ion  | 5 | 59999 | 64999 | desde |
+| 58 | Planchita de pelo GAMA Bella Tourmaline Red Ion | Planchita De Pelo GA.MA Italy Elegance Bella Tourmaline Ion  | 5 | 59712 | 69999 | desde |
 | 59 | Robot de limpieza Sansei que aspira y trapea | Aspiradora Robot Sansei Rvcs23pi 5 modos de limpieza Sensor  | 3 | 121999 | 199999 | desde |
-| 60 | Aspiradora de mano Yelmo con accesorios | Yelmo As-3240 Aspiradora Para Auto Recargable Usb Color Gris | 2 | 39585 |  | desde |
+| 60 | Aspiradora de mano Yelmo con accesorios | Yelmo As-3240 Aspiradora Para Auto Recargable Usb Color Gris | 2 | 38816 | 59899 | desde |
 | 61 | Secador de pelo Ultracomb de 2200 W con función Cool Sh | Secador De Pelo Ultracomb Tourmaline Ion Pro Sc-4606 Negro 3 | 5 | 41435 | 49999 | desde |
 | 62 | Aire acondicionado split Philco Inverter Eco Plus de 37 | Aire Acondicionado Split Philco Inverter 3750w Frio Calor A+ | 5 | 734999 | 910934.34 | desde |
 | 63 | Pava eléctrica Novohome de 2,2 litros con display tácti | Pava Eléctrica Digital Novohome 2 Litros Pantalla Tactil Col | 5 | 48225.83 | 85990 | desde |
@@ -86,7 +86,7 @@
 | 81 | Calefón a gas Escorial de 14 litros por minuto | Calefon Escorial 14 Lts Tiro Natural Automático Sin Piloto!  | 3 | 300000 |  | desde |
 | 82 | Sandwichera Ultracomb SW 2801 con placas intercambiable | Sandwichera 3 En 1 Marca Ultracomb Modelo Sw-2801 - Negro Wa | 3 | 59000 |  | desde |
 | 83 | Molinillo de café Yelmo MO 7100 | Molinillo de café semillas y especias Yelmo Mo-7100 150w Alu | 4 | 23990 | 28990 | desde |
-| 84 | Exprimidor eléctrico de cítricos Enova | Exprimidor Eléctrico Enova 700cm3 40w Negro Pequeños Electro | 3 | 25999 |  | desde |
+| 84 | Exprimidor eléctrico de cítricos Enova | Exprimidor Eléctrico Enova 700cm3 40w Negro Pequeños Electro | 3 | 20299 | 31498 | desde |
 | 85 | Robot aspirador y trapeador con control por voz y app | Aspiradora Robot Trapeadora Gadnic Navegacion Laser Lds Mape | 2 | 293149 | 678749 | desde |
 | 86 | Pava eléctrica Codini de 1,8 litros en acero inoxidable | Pava Eléctrica Hervidora Acero Inoxidable 1.8 Lts Codini - P | 5 | 19299 | 44999 | desde |
 | 87 | Nebulizador portátil mesh SAN-UP VitaAir | Nebulizador Mesh San-Up VitalAir 8ml Silencioso Portátil USB | 4 | 85929.06 | 155199 | desde |
@@ -104,7 +104,7 @@
 | 99 | Plancha a vapor Ultracomb PL 4180 negra y violeta | Plancha A Vapor Ultracomb 2250w Pl-4180 Color Negro/Violeta  | 5 | 41999 |  | desde |
 | 100 | Balanza de cocina digital Cook by Spica de acero inoxid | Balanza Digital De Cocina 10kg SPICA BAL-154 Electronica Col | 4 | 23699 | 56499 | desde |
 | 101 | Cocina a gas Escorial negra de 4 hornallas con horno | Cocina Negra Escorial Candor S2 Black 4 Hornallas Visor Y Pa | 5 | 329535.29 |  | desde |
-| 102 | Anafe eléctrico Lüsqtoff de 2 hornallas y 2000 W | Anafe Eléctrico Lusqtoff ANL2000-72 2 hornallas 2000w | 4 | 62699 | 75099 | desde |
+| 102 | Anafe eléctrico Lüsqtoff de 2 hornallas y 2000 W | Anafe Eléctrico Lusqtoff ANL2000-72 2 hornallas 2000w | 4 | 55281 | 73708 | desde |
 | 103 | Calefón a gas Longvie blanco con dos perillas | Calefón Longvie Tiro Natural Pilotless 14 Litros Cn514ss Gn  | 3 | 547643 | 699999 | desde |
 | 104 | Deshumidificador Seklou para secar ropa y evitar moho | Deshumidificador Compresor Seklou Technology Blanco 20L/día  | 2 | 1444333 |  | desde |
 | 105 | Extractor de jugos Ultracomb de acero inoxidable | Juguera Extractor Jugo Ultracomb Eléctrica Jg-2703 Con Jarra | 4 | 68667 | 109999 | desde |
@@ -124,7 +124,7 @@
 | 119 | Calefactor de pared blanco y negro | Calefactor Convector Longvie Eca5s 5200 Kcal Recta Tiza/blan | 2 | 256792 |  | desde |
 | 120 | Robot aspirador Fika ultra delgado con control remoto | Aspiradora Robot Trapeadora Fika Limpieza SENSE Antichoque C | 2 | 145919 | 249999 | desde |
 | 121 | Set de secador y planchita Ultracomb Devotion rosa | Set Devotion Secador De Pelo + Planchita Ceramica 2200w Ultr | 5 | 60599 | 89999 | desde |
-| 122 | Microondas BGH Quick Chef de 20 litros digital | Microondas Bgh 20l Digital Eco B120db20 | 3 | 140000 |  | desde |
+| 122 | Microondas BGH Quick Chef de 20 litros digital | Microondas Bgh 20l Digital Eco B120db20 | 3 | 194999 | 197946 | desde |
 | 123 | Cafetera de filtro Atma blanca con filtro permanente | Cafetera Atma Semi Automática de Filtro 1,25 Lts Ca8133p Col | 3 | 39340.22 | 47999 | desde |
 | 124 | Termotanque a gas Sherman de 80 litros multigás | Termotanque 80 Lts Sherman Tpgp080msh13 Gas Conex Sup De Pie | 3 | 382700 |  | desde |
 | 125 | Balanza de baño de vidrio digital Spica de 180 kg | Balanza De Baño Vidrio Pantalla Digital 180kg Spica BA-100 C | 5 | 13199 | 32999 | desde |
