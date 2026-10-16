@@ -8,9 +8,9 @@
 | 3 | Cinta de correr Randers con monitor y altavoz Bluetooth | Randers Arg-409 Cinta Motorizada 12km/h Color Negro | 2 | 658714 | 1154237 | desde |
 | 4 | Bicicleta fija de spinning Sölperk | Bicicleta Fija Spinning Profesional Gym 8 Niveles 28 Kgs con | 3 | 444000 | 600000 | desde |
 | 5 | Kit de mancuernas con conversor a barra, hasta 45 kg | Kit Mancuernas Y Barra Con Tope A Rosca 25 Kg Discos Pvc | 3 | 89989 | 211978 | desde |
-| 6 | Barra de dominadas para marco de puerta | Barra Dominadas Puerta Extensible 60-100cm Reforzada 130kg P | 3 | 37380 |  | desde |
-| 7 | Camiseta de Boca Juniors adidas azul y amarilla | SIN PRECIO: /items/MLA1926848487 respondió 403: {"message":"Access to the requested resource is forbidden","erro / web: no encontré  | | | | |
-| 8 | Botines Nike rojos y blancos con tapones | SIN PRECIO: /items/MLA1483606903 respondió 403: {"message":"Access to the requested resource is forbidden","erro / web: la página de | | | | |
+| 6 | Barra de dominadas para marco de puerta | Barra Dominadas Puerta Extensible 60-100cm Reforzada 130kg P | 3 | 23999 |  | desde |
+| 7 | Camiseta de Boca Juniors adidas azul y amarilla | SIN PRECIO: /items/MLA1926848487 respondió 403: {"message":"Access to the requested resource is forbidden","erro / web: la página de | | | | |
+| 8 | Botines Nike rojos y blancos con tapones | SIN PRECIO: /items/MLA1483606903 respondió 403: {"message":"Access to the requested resource is forbidden","erro / web: no encontré  | | | | |
 | 9 | Multigimnasio Randers con estación Scott y 45 kg de car | SIN PRECIO: el link terminó en una página sin ID de publicación (estado 200) | | | | |
 | 10 | Guantes de boxeo Pulse Series negros | Guantes De Boxeo 14 Oz Profesionales Reforzados Negro | 2 | 54999 | 89998 | desde |
 | 11 | Soga de saltar con rodamientos de alta velocidad | Soga Cuerda Salto Saltar 280 Cm Gym Crossfit Boxeo Reforzada | 2 | 10999 | 11999 | desde |
@@ -31,7 +31,7 @@
 | 26 | Joystick blanco estilo PlayStation 4 con panel táctil | Joystick inalámbrico compatible con ps4 blanco | 2 | 25000 |  | desde |
 | 27 | Silla gamer Cougar negra con costuras en rombos | Silla Gamer Cougar Fusion Ex Respaldo Reclinable Tela Negro | 3 | 319899 | 399999 | desde |
 | 28 | Nintendo Switch OLED blanca con Super Mario Bros. Wonde | Nintendo Switch OLED + Super Mario Bros. Wonder | 7 | 799999 |  | desde |
-| 29 | Butaca de auto con arnés de 5 puntos y conversión a boo | Booster Auto Bebe Mega Baby Silverstone 3 En 1 De 9 A 36 Kg  | 2 | 116789.6 | 141649 | desde |
+| 29 | Butaca de auto con arnés de 5 puntos y conversión a boo | Booster Auto Bebe Mega Baby Silverstone 3 En 1 De 9 A 36 Kg  | 2 | 113950.15 | 141649 | desde |
 | 30 | Corralito para bebé Belluno Trapani gris | Corralito Juegos Bebé Portable 180x120 Trapani Belluno Baby  | 5 | 189990.5 | 199990 | desde |
 | 31 | Arco de juguetes para cochecito Huanger | Cunero Huanger Didactico Soporte Universal Sonajero Colgante | 1 | 26686.6 | 31396 | desde |
 | 32 | Móvil musical para cuna con proyector y control remoto | Sonajero Móvil Giratorio Gadnic Musical Proyector Luz Estrel | 5 | 39549 | 80849 | desde |
@@ -66,7 +66,7 @@
 | 61 | Secador de pelo Ultracomb de 2200 W con función Cool Sh | Secador De Pelo Ultracomb Tourmaline Ion Pro Sc-4606 Negro 3 | 5 | 41435 | 49999 | desde |
 | 62 | Aire acondicionado split Philco Inverter Eco Plus de 37 | Aire Acondicionado Split Philco Inverter 3750w Frio Calor A+ | 5 | 769999 | 910934.34 | desde |
 | 63 | Pava eléctrica Novohome de 2,2 litros con display tácti | Pava Eléctrica Digital Novohome 2 Litros Pantalla Tactil Col | 5 | 48225.83 | 85990 | desde |
-| 64 | Caloventor Aitech portátil con dos perillas | Caloventor Electrico 2000w Termoventilador 2 Velocidades Est | 2 | 25056 | 27960 | desde |
+| 64 | Caloventor Aitech portátil con dos perillas | Caloventor Electrico 2000w Termoventilador 2 Velocidades Est | 2 | 29902.68 |  | desde |
 | 65 | Termotanque a gas Señorial Zafiro de 85 litros | Termotanque Multigas Señorial TSZP1-85 Zafiro Color Blanco | 3 | 390000 |  | desde |
 | 66 | Microondas Aiwa blanco con panel digital | Microondas Aiwa Cook 700w 20l 10 Niveles Cocción Panel Touch | 3 | 185000 |  | desde |
 | 67 | Buclera de 3 tubos VGR V-599 | Buclera Rizador 3 Barriles Ceramica Vgr V-599 Triple Ondas 2 | 3 | 53890 | 75853.33 | desde |
@@ -114,13 +114,13 @@
 | 109 | Máquina manual para hacer pasta con 6 niveles de espeso | Fábrica De Pastas Smart-tek Bella Pasta Acero Inox Maquina F | 2 | 51479.63 | 83503.82 | desde |
 | 110 | Vinoteca compacta para 6 botellas con control táctil | Cava De Vinos Ziyen Capacidad 6 Botellas Refrigeración Ilumi | 1 | 139999 |  | desde |
 | 111 | Sandwichera y wafflera con placas intercambiables | Sandwichera Baza 3 en 1 con Placas Removibles para 2 Sándwic | 2 | 53340.3 | 69990 | desde |
-| 112 | Picadora de carne eléctrica de 400 W con accesorios par | Picadora de Carne Cuk By Gadnic P90 Eléctrica Potencia Nomin | 3 | 99284 | 162849 | desde |
+| 112 | Picadora de carne eléctrica de 400 W con accesorios par | Picadora de Carne Cuk By Gadnic P90 Eléctrica Potencia Nomin | 3 | 108833 | 183349 | desde |
 | 113 | Pochoclera Ultracomb PO 2703 roja | Ultracomb Po2703 Pochoclera Realiza Dulce O Salados - Rojo B | 2 | 67999.99 | 99999 | desde |
 | 114 | Secarropas centrífugo Codini de 5,5 kg y 2800 rpm | Secarropas Codini Advance Ad55 - 5.5kg Blanco | 2 | 193999.03 | 299999 | desde |
 | 115 | Secador de pelo Remington rojo con difusor | Secador De Pelo Remington Silk Ac9096 2400w 6 temperaturas / | 5 | 87890 | 119999 | desde |
 | 116 | Cafetera de filtro Smartlife con pantalla digital | Cafetera De Filtro Smartlife Digital 1520 | 4 | 82500 | 110000 | desde |
 | 117 | Freidora de aire Novohome de 10 litros con ventana | Freidora De Aire Novohome 10 Lts AirFryer Pantalla Display T | 3 | 143832.81 | 209990 | desde |
-| 118 | Purificador de agua sobre mesada dvigi Compact | Purificador de Agua Dvigi Compact de Red Elimina Cloro | 4 | 87203 | 93090.37 | desde |
+| 118 | Purificador de agua sobre mesada dvigi Compact | Purificador de Agua Dvigi Compact de Red Elimina Cloro | 4 | 87193 | 93090.37 | desde |
 | 119 | Calefactor de pared blanco y negro | Calefactor Convector Longvie Eca5s 5200 Kcal Recta Tiza/blan | 2 | 300999 | 373140.43 | desde |
 | 120 | Robot aspirador Fika ultra delgado con control remoto | Aspiradora Robot Trapeadora Fika Limpieza SENSE Antichoque C | 2 | 150720 | 250000 | desde |
 | 121 | Set de secador y planchita Ultracomb Devotion rosa | Set Devotion Secador De Pelo + Planchita Ceramica 2200w Ultr | 5 | 55999 | 189999 | desde |
@@ -128,6 +128,6 @@
 | 123 | Cafetera de filtro Atma blanca con filtro permanente | Cafetera Atma Semi Automática de Filtro 1,25 Lts Ca8133p Col | 3 | 39340.22 | 47999 | desde |
 | 124 | Termotanque a gas Sherman de 80 litros multigás | Termotanque 80 Lts Sherman Tpgp080msh13 Gas Conex Sup De Pie | 3 | 359900 |  | desde |
 | 125 | Balanza de baño de vidrio digital Spica de 180 kg | Balanza De Baño Vidrio Pantalla Digital 180kg Spica BA-100 C | 5 | 13399 | 32999 | desde |
-| 126 | Freidora de aire Ultracomb FR 8612 celeste | Freidora de Aire Digital Ultracomb FR-8612 de 3 Litros Tácti | 5 | 54753 | 149999 | desde |
+| 126 | Freidora de aire Ultracomb FR 8612 celeste | Freidora de Aire Digital Ultracomb FR-8612 de 3 Litros Tácti | 5 | 69376.23 | 149999 | desde |
 | 127 | Horno eléctrico CUK de 16 litros y 1280 W | Horno Eléctrico Gadnic 16 Litros 1280W Clase A 4 Resistencia | 3 | 114999 | 157499 | desde |
 | 128 | Anafe eléctrico Suono de 2 hornallas, compacto | Anafe eléctrico 2 hornillas suono | 3 | 32500 |  | desde |
