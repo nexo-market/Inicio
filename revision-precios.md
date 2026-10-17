@@ -18,13 +18,13 @@
 | 13 | Camiseta de River Plate adidas negra y roja a rayas | SIN PRECIO: /items/MLA3685105506 respondió 403: {"message":"Access to the requested resource is forbidden","erro / web: no encontré  | | | | |
 | 14 | Botines Nike negros con detalle celeste para césped sin | SIN PRECIO: /items/MLA2341311586 respondió 403: {"message":"Access to the requested resource is forbidden","erro / web: no encontré  | | | | |
 | 15 | Estación de carga para controles DualSense de PS5 | Playstation Cargador DualSense 5 | 1 | 64999 | 87799 | desde |
-| 16 | Consola Nintendo Switch 2 | SIN PRECIO: DUPLICADO, apunta a la misma publicación que #28 ("Nintendo Switch OLED + Super Mario Bros.") | | | | |
+| 16 | Consola Nintendo Switch 2 | Consola Nintendo Switch 2 | 3 | 941826.86 |  | desde |
 | 17 | Consola PlayStation 5 Slim de 1 TB con Astro Bot y Gran | Sony Playstation 5 consola Slim Standard + Juego Astro Bot Y | 5 | 1799999 |  | desde |
 | 18 | Consola PlayStation 5 Slim Digital Edition con control  | Consola Sony PlayStation 5 Slim Blanco 4K 825 GB Digital | 4 | 1140000 |  | desde |
 | 19 | Control DualSense para PlayStation 5, camuflaje gris | Control inalámbrico DualSense para PS5 Gray Camouflage | 2 | 138011.65 |  | desde |
 | 20 | Control DualSense para PlayStation 5, blanco perlado | Sony PlayStation DualSense Perla Chroma | 2 | 149700.26 |  | desde |
 | 21 | Control DualSense para PlayStation 5, celeste | Control Inalambrico Sony DualSense PS5 Color Starlight Blue | 2 | 138011.65 |  | desde |
-| 22 | Control Pro de Nintendo Switch 2 | Control Nintendo Switch 2 Pro Controller | 4 | 202980.77 | 284598.1 | desde |
+| 22 | Control Pro de Nintendo Switch 2 | Control Nintendo Switch 2 Pro Controller | 4 | 218999 |  | desde |
 | 23 | Joystick con cable Redragon | Joystick Redragon Saturn G807 Negro | 2 | 32999 |  | desde |
 | 24 | Joystick Redragon estilo PlayStation con panel táctil y | Joystick Gamepad Redragon Juno G818 Usb Wireless Para PS4 PC | 2 | 64989.03 | 79999 | desde |
 | 25 | Joystick negro estilo PlayStation 4 con cable USB | Mando Inalámbrico Joystick Negro | 2 | 24771 |  | desde |
@@ -62,7 +62,7 @@
 | 57 | Balanza digital Femmto con Bluetooth y pantalla LED | Balanza Digital Con Bluetooth Personal De Baño Peso Corporal | 4 | 18999 | 27999 | desde |
 | 58 | Planchita de pelo GAMA Bella Tourmaline Red Ion | Planchita De Pelo GA.MA Italy Elegance Bella Tourmaline Ion  | 5 | 57494 | 69999 | desde |
 | 59 | Robot de limpieza Sansei que aspira y trapea | Aspiradora Robot Sansei Rvcs23pi 5 modos de limpieza Sensor  | 3 | 121999 | 199999 | desde |
-| 60 | Aspiradora de mano Yelmo con accesorios | Yelmo As-3240 Aspiradora Para Auto Recargable Usb Color Gris | 2 | 40999 | 59899 | desde |
+| 60 | Aspiradora de mano Yelmo con accesorios | Yelmo As-3240 Aspiradora Para Auto Recargable Usb Color Gris | 2 | 40382 |  | desde |
 | 61 | Secador de pelo Ultracomb de 2200 W con función Cool Sh | Secador De Pelo Ultracomb Tourmaline Ion Pro Sc-4606 Negro 3 | 5 | 41435 | 49999 | desde |
 | 62 | Aire acondicionado split Philco Inverter Eco Plus de 37 | Aire Acondicionado Split Philco Inverter 3750w Frio Calor A+ | 5 | 769999 | 910934.34 | desde |
 | 63 | Pava eléctrica Novohome de 2,2 litros con display tácti | Pava Eléctrica Digital Novohome 2 Litros Pantalla Tactil Col | 5 | 48225.83 | 85990 | desde |
@@ -83,7 +83,7 @@
 | 78 | Máquina de pasta con raviolera Zego de acero inoxidable | Maquina Fabrica De Pastas Raviolera Zego Acero Inox Acero In | 4 | 59200 | 80000 | desde |
 | 79 | Campana de cocina Smartbuy CE-D660N-CL negra | Extractor Purificador De Cocina Smartbuy Negro 3 Vel 60 Cm | 2 | 188499.42 | 324999.01 | desde |
 | 80 | Máquina para hacer donas Suono de 1200 W | Máquina Donas Suono Mini Donut Maker 7 Unidades Mini Donas A | 3 | 47599 | 56279 | desde |
-| 81 | Calefón a gas Escorial de 14 litros por minuto | Calefon Escorial 14 Lts Tiro Natural Automático Sin Piloto!  | 3 | 300000 |  | desde |
+| 81 | Calefón a gas Escorial de 14 litros por minuto | SIN PRECIO: el link terminó en una página sin ID de publicación (estado 200) | | | | |
 | 82 | Sandwichera Ultracomb SW 2801 con placas intercambiable | Sandwichera 3 En 1 Marca Ultracomb Modelo Sw-2801 - Negro Wa | 3 | 59000 |  | desde |
 | 83 | Molinillo de café Yelmo MO 7100 | Molinillo de café semillas y especias Yelmo Mo-7100 150w Alu | 4 | 23490 | 32999 | desde |
 | 84 | Exprimidor eléctrico de cítricos Enova | Exprimidor Eléctrico Enova 700cm3 40w Negro Pequeños Electro | 3 | 20299 | 31498 | desde |
