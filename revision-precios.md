@@ -43,7 +43,7 @@
 | 38 | Cuna colecho Estrella Mega Baby con ruedas, canasto y m | Cuna De Bebé Estrella Mega Baby De Madera Eléctrica Mecedora | 4 | 209653.35 | 246651 | desde |
 | 39 | Juego de pesca y torres de encastre 2 en 1 Cracovia | Juego Pesca + 4 Torres Encastre Madera Didactico Iman Peces  | 5 | 18749.25 | 24999 | desde |
 | 40 | Cochecito de paseo con baranda rebatible | Cochecito Paseo Bebe Avanti Aon Manija Rebatible Negro | 3 | 109900.45 | 199819 | desde |
-| 41 | Bañera plegable para bebé de 25 litros | Plegable Bañera Spa Adulto Niños,portátil Baño Caliente,lw | 2 | 93227.4 | 99187.6 | desde |
+| 41 | Bañera plegable para bebé de 25 litros | Plegable Bañera Spa Adulto Niños,portátil Baño Caliente,lw | 2 | 94270.43 | 99237.26 | desde |
 | 42 | Practicuna plegable gris con colchón y mosquitero | Cuna Colecho Bebé Cosco Kids Con Mosquitero Y Cambiador Gris | 2 | 160125.66 | 289990 | desde |
 | 43 | Cuna de madera blanca para bebé | SIN PRECIO: DUPLICADO, apunta a la misma publicación que #47 ("Cuna Colecho Evolutiva 6en1 | Con Colchó") | | | | |
 | 44 | Sillón de apoyo para bebé con peluche | SIN PRECIO: parece otro producto: en Mercado Libre se llama "Silla Mecedora Mega Baby 27267 18 Kg Vibración Y Música Color Gris" | | | | |
