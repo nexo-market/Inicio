@@ -2,12 +2,12 @@
 
 | id | nuestro producto | nombre en Mercado Libre | coincidencias | precio | antes | tipo |
 |---|---|---|---|---|---|---|
-| 1 | Mecedora Mega Baby con arco de juguetes y estrellas | Silla Mecedora Mega Baby 27267 18 Kg Vibración Y Música Colo | 3 | 84700.8 | 99648 | desde |
+| 1 | Mecedora Mega Baby con arco de juguetes y estrellas | Silla Mecedora Mega Baby 27267 18 Kg Vibración Y Música Colo | 3 | 73501 | 140000 | desde |
 | 2 | Control inalámbrico DualSense para PlayStation 5, negro | Sony PlayStation DualSense Joystick inalámbrico black PS5 | 3 | 136448.55 |  | desde |
 | 2-v0 | Control inalámbrico DualSense para PlayStation 5, negro | Joystick Sony Dualsense Para Playstation 5 Blanco | 3 | 141927.08 | 189241.64 | desde |
 | 3 | Cinta de correr Randers con monitor y altavoz Bluetooth | Randers Arg-409 Cinta Motorizada 12km/h Color Negro | 2 | 650643.99 | 988900 | desde |
 | 4 | Bicicleta fija de spinning Sölperk | Bicicleta Fija Spinning Profesional Gym 8 Niveles 28 Kgs con | 3 | 444000 | 600000 | desde |
-| 5 | Kit de mancuernas con conversor a barra, hasta 45 kg | Kit Mancuernas Y Barra Con Tope A Rosca 25 Kg Discos Pvc | 3 | 78397.11 | 211978 | desde |
+| 5 | Kit de mancuernas con conversor a barra, hasta 45 kg | Kit Mancuernas Y Barra Con Tope A Rosca 25 Kg Discos Pvc | 3 | 77613.03 | 211978 | desde |
 | 6 | Barra de dominadas para marco de puerta | Barra Dominadas Puerta Extensible 60-100cm Reforzada 130kg P | 3 | 37380 |  | desde |
 | 7 | Camiseta de Boca Juniors adidas azul y amarilla | SIN PRECIO: /items/MLA1926848487 respondió 403: {"message":"Access to the requested resource is forbidden","erro / web: no encontré  | | | | |
 | 8 | Botines Nike rojos y blancos con tapones | SIN PRECIO: /items/MLA1483606903 respondió 403: {"message":"Access to the requested resource is forbidden","erro / web: no encontré  | | | | |
@@ -26,9 +26,9 @@
 | 21 | Control DualSense para PlayStation 5, celeste | Control Inalambrico Sony DualSense PS5 Color Starlight Blue | 2 | 138390.94 |  | desde |
 | 22 | Control Pro de Nintendo Switch 2 | Control Nintendo Switch 2 Pro Controller | 4 | 219700 |  | desde |
 | 23 | Joystick con cable Redragon | Joystick Redragon Saturn G807 Negro | 2 | 39175.6 |  | desde |
-| 24 | Joystick Redragon estilo PlayStation con panel táctil y | Joystick Gamepad Redragon Juno G818 Usb Wireless Para PS4 PC | 2 | 66999 | 79999 | desde |
-| 25 | Joystick negro estilo PlayStation 4 con cable USB | Joystick inalámbrico genérico compatible con PlayStation 4 N | 3 | 25020 | 26799 | desde |
-| 26 | Joystick blanco estilo PlayStation 4 con panel táctil | Joystick inalámbrico compatible con ps4 blanco | 2 | 24831 |  | desde |
+| 24 | Joystick Redragon estilo PlayStation con panel táctil y | Joystick Gamepad Redragon Juno G818 Usb Wireless Para PS4 PC | 2 | 69573 | 73234.9 | desde |
+| 25 | Joystick negro estilo PlayStation 4 con cable USB | Joystick inalámbrico genérico compatible con PlayStation 4 N | 3 | 24771 |  | desde |
+| 26 | Joystick blanco estilo PlayStation 4 con panel táctil | Joystick inalámbrico compatible con ps4 blanco | 2 | 25000 |  | desde |
 | 27 | Silla gamer Cougar negra con costuras en rombos | Silla Gamer Cougar Fusion Ex Respaldo Reclinable Tela Negro | 3 | 319899 | 399999 | desde |
 | 28 | Nintendo Switch OLED blanca con Super Mario Bros. Wonde | Nintendo Switch OLED + Super Mario Bros. Wonder | 7 | 809000 |  | desde |
 | 29 | Butaca de auto con arnés de 5 puntos y conversión a boo | Booster Auto Bebe Mega Baby Silverstone 3 En 1 De 9 A 36 Kg  | 2 | 120401.65 | 141649 | desde |
@@ -42,7 +42,7 @@
 | 37 | Corralito hexagonal MAWE con 10 pelotas de colores | Corralito Plegable Bebe Hexagonal Mawe By Gadnic Tela Oxford | 3 | 61749.05 | 122599 | desde |
 | 38 | Cuna colecho Estrella Mega Baby con ruedas, canasto y m | Cuna De Bebé Estrella Mega Baby De Madera Eléctrica Mecedora | 4 | 209653.35 | 246651 | desde |
 | 39 | Juego de pesca y torres de encastre 2 en 1 Cracovia | Juego Pesca + 4 Torres Encastre Madera Didactico Iman Peces  | 5 | 17499.3 | 24999 | desde |
-| 40 | Cochecito de paseo con baranda rebatible | Cochecito Cuna Bebé Avanti Manija Baranda Rebatible Apto 0+  | 3 | 149999 | 199999 | desde |
+| 40 | Cochecito de paseo con baranda rebatible | Cochecito Cuna Bebé Avanti Manija Baranda Rebatible Apto 0+  | 3 | 144999 | 199999 | desde |
 | 41 | Bañera plegable para bebé de 25 litros | Plegable Bañera Spa Adulto Niños,portátil Baño Caliente,lw | 2 | 93483.61 | 99460.19 | desde |
 | 42 | Practicuna plegable gris con colchón y mosquitero | Cuna Colecho Bebé Cosco Kids Con Mosquitero Y Cambiador Gris | 2 | 164766 | 289990 | desde |
 | 43 | Cuna de madera blanca para bebé | SIN PRECIO: DUPLICADO, apunta a la misma publicación que #47 ("Cuna Colecho Evolutiva 6en1 | Con Colchó") | | | | |
@@ -55,11 +55,11 @@
 | 50 | Butaca de auto Mega Baby Ayrton negra | Butaca Auto Bebé Last Ayrton Mega Baby Convertible 0-25 Kg | 5 | 160565 | 188900 | desde |
 | 51 | Butaca de auto Mega Baby Daytona negra con conversión a | Butaca Booster Auto Bebé Mega Baby Daytona I-size 9 A 36 Kg  | 6 | 106050 | 124764 | desde |
 | 52 | Andador para bebé rosa con manija de empuje | SIN PRECIO: el link terminó en una página sin ID de publicación (estado 200) | | | | |
-| 53 | Colchón para cuna con funda estampada | Colchon Cuna Suavestar 140x80x10 Color Estampado | 2 | 94050 | 99000 | desde |
+| 53 | Colchón para cuna con funda estampada | Colchon Cuna Suavestar 140x80x10 Color Estampado | 2 | 93673.8 | 98623.8 | desde |
 | 54 | Colchón blanco para cuna con funda acolchada y cierre | Colchón Impermeable Para Practicuna 104x70x9cm Blanco | 2 | 89999 |  | desde |
 | 55 | Mamadera Philips Avent Natural Response de 125 ml | Mamadera Avent Philips Natural Response 125ml 0m+ Color Blan | 5 | 31999 |  | desde |
 | 56 | Gimnasio de actividades con piano y arco de juguetes | Colchoneta Para Bebe Gadnic Gimnasio Musical 0-36 Meses Pian | 4 | 31999 | 49999 | desde |
-| 57 | Balanza digital Femmto con Bluetooth y pantalla LED | Balanza Digital Con Bluetooth Personal De Baño Peso Corporal | 4 | 18999 | 27999 | desde |
+| 57 | Balanza digital Femmto con Bluetooth y pantalla LED | Balanza Digital Con Bluetooth Personal De Baño Peso Corporal | 4 | 18429 | 27999 | desde |
 | 58 | Planchita de pelo GAMA Bella Tourmaline Red Ion | Planchita De Pelo GA.MA Italy Elegance Bella Tourmaline Ion  | 5 | 59999 | 64999 | desde |
 | 59 | Robot de limpieza Sansei que aspira y trapea | Aspiradora Robot Sansei Rvcs23pi 5 modos de limpieza Sensor  | 3 | 121999 | 199999 | desde |
 | 60 | Aspiradora de mano Yelmo con accesorios | Yelmo As-3240 Aspiradora Para Auto Recargable Usb Color Gris | 2 | 40999 | 59899 | desde |
@@ -80,7 +80,7 @@
 | 75 | Anafe eléctrico Spica de 2 hornallas y 2000 W | Anafe Electrico Cocina Spica Sp-1040 Doble Hornalla 5 Veloci | 3 | 44999 | 89999 | desde |
 | 76 | Dispensador eléctrico de agua para bidón Spica recargab | Dispenser De Agua Portatil Usb Bomba SPICA TASR-350 Dispensa | 3 | 8599.6 | 21499 | desde |
 | 77 | Freezer horizontal blanco con función dual heladera y f | Freezer Horizontal Gafa Doble Función 96l Canasto Plástico F | 3 | 415811.51 |  | desde |
-| 78 | Máquina de pasta con raviolera Zego de acero inoxidable | Maquina Fabrica De Pastas Raviolera Zego Acero Inox Acero In | 4 | 59200 | 80000 | desde |
+| 78 | Máquina de pasta con raviolera Zego de acero inoxidable | Maquina Fabrica De Pastas Raviolera Zego Acero Inox Acero In | 4 | 57424 | 80000 | desde |
 | 79 | Campana de cocina Smartbuy CE-D660N-CL negra | Extractor Purificador De Cocina Smartbuy Negro 3 Vel 60 Cm | 2 | 324999.01 |  | desde |
 | 80 | Máquina para hacer donas Suono de 1200 W | Máquina Donas Suono Mini Donut Maker 7 Unidades Mini Donas A | 3 | 47999 | 56279 | desde |
 | 81 | Calefón a gas Escorial de 14 litros por minuto | Calefon Escorial 14 Lts Tiro Natural Automático Sin Piloto!  | 3 | 300000 |  | desde |
@@ -94,30 +94,30 @@
 | 89 | Aire acondicionado split Philco de 5200 W | Aire Acondicionado Split Frio/Calor Philco PHS50HA4CN 4472 F | 5 | 893838.9 | 1258002.58 | desde |
 | 90 | Tendedero plegable con funda transparente para lavarrop | SIN PRECIO: parece otro producto: en Mercado Libre se llama "Secarropas Por Calor Axel Ax-3000 Con Sistema Anti-arrugas Blanco" | | | | |
 | 91 | Lavarropas automático Philco de 5 kg con carga superior | Lavarropas Philco 5kg Carga Superior Gris 700 RPM | 4 | 410553.59 | 616763.08 | desde |
-| 92 | Termotanque eléctrico ExaHome de 40 litros | Termotanque Exahome Electrico 40 Litros Carga Inferior 1500w | 4 | 299990 | 429990 | desde |
+| 92 | Termotanque eléctrico ExaHome de 40 litros | Termotanque Exahome Electrico 40 Litros Carga Inferior 1500w | 4 | 284990.5 | 449000 | desde |
 | 93 | Purificador de agua de mesada con canilla, filtro y acc | Filtro Purificador Agua Sobre Mesada Blanco Truper Foset 492 | 4 | 47927.11 | 80999 | desde |
 | 94 | Estufa halógena Kanji Home de tres velas | Estufa halogena 3 velas Kanji KJH-305 Color Gris oscuro | 4 | 41489.02 |  | desde |
 | 95 | Freidora de aire Novohome de 7 litros con ventana | Freidora De Aire Novohome 7 Litros Panel Pantalla Digital Ta | 5 | 119990 | 179990 | desde |
 | 96 | Minipimer con picadora, batidor y vaso | Mixer Licuadora De Mano Yelmo Lm-1555 Bowl Picador + Vaso Co | 1 | 62000 |  | desde |
 | 97 | Freidora eléctrica Novohome de 6 litros y 2500 W | Freidora Eléctrica De Aceite 6 Litros Novohome 2500 W Acero  | 5 | 86990 | 119990 | desde |
-| 98 | Batidora de mano Daewoo con batidores y ganchos | Batidora De Mano Daewoo Dhm208 Blanca 250w 5 Velocidades Col | 3 | 42469 |  | desde |
+| 98 | Batidora de mano Daewoo con batidores y ganchos | Batidora De Mano Daewoo Dhm208 Blanca 250w 5 Velocidades Col | 3 | 44998 |  | desde |
 | 99 | Plancha a vapor Ultracomb PL 4180 negra y violeta | Plancha A Vapor Ultracomb 2250w Pl-4180 Color Negro/Violeta  | 5 | 51499 |  | desde |
 | 100 | Balanza de cocina digital Cook by Spica de acero inoxid | Balanza Digital De Cocina 10kg SPICA BAL-154 Electronica Col | 4 | 23699 | 56499 | desde |
-| 101 | Cocina a gas Escorial negra de 4 hornallas con horno | Cocina Negra Escorial Candor S2 Black 4 Hornallas Visor Y Pa | 5 | 329535.29 |  | desde |
-| 102 | Anafe eléctrico Lüsqtoff de 2 hornallas y 2000 W | Anafe Eléctrico Lusqtoff ANL2000-72 2 hornallas 2000w | 4 | 62699 | 75099 | desde |
-| 103 | Calefón a gas Longvie blanco con dos perillas | Calefón Longvie Tiro Natural Pilotless 14 Litros Cn514ss Gn  | 3 | 606999 |  | desde |
+| 101 | Cocina a gas Escorial negra de 4 hornallas con horno | Cocina Negra Escorial Candor S2 Black 4 Hornallas Visor Y Pa | 5 | 323485.16 | 414929.04 | desde |
+| 102 | Anafe eléctrico Lüsqtoff de 2 hornallas y 2000 W | Anafe Eléctrico Lusqtoff ANL2000-72 2 hornallas 2000w | 4 | 62078 | 79900 | desde |
+| 103 | Calefón a gas Longvie blanco con dos perillas | Calefón Longvie Tiro Natural Pilotless 14 Litros Cn514ss Gn  | 3 | 560708.24 | 606999 | desde |
 | 104 | Deshumidificador Seklou para secar ropa y evitar moho | Deshumidificador Compresor Seklou Technology Blanco 20L/día  | 2 | 1299899.7 | 1444333 | desde |
-| 105 | Extractor de jugos Ultracomb de acero inoxidable | Juguera Extractor Jugo Ultracomb Eléctrica Jg-2703 Con Jarra | 4 | 68999.01 | 129999 | desde |
-| 106 | Máquina para gasificar agua SodaStream con 2 cilindros  | Máquina para hacer soda Sodastream Terra x 2 Cilindros 1L co | 3 | 132999 | 177399 | desde |
+| 105 | Extractor de jugos Ultracomb de acero inoxidable | Juguera Extractor Jugo Ultracomb Eléctrica Jg-2703 Con Jarra | 4 | 66921 | 109999 | desde |
+| 106 | Máquina para gasificar agua SodaStream con 2 cilindros  | Máquina para hacer soda Sodastream Terra x 2 Cilindros 1L co | 3 | 132467.01 | 176867.01 | desde |
 | 107 | Tostadora Suono negra de diseño retro con 7 niveles | Tostadora Suono 850w 2 Panes Negra 7 Niveles Descongelar Neg | 4 | 40254.03 | 69999 | desde |
 | 108 | Dispensador eléctrico de agua para bidón con batería re | Dispenser De Agua Automatico Bomba Dispensador Bidones Usb B | 2 | 6400 | 12800 | desde |
 | 109 | Máquina manual para hacer pasta con 6 niveles de espeso | Fábrica De Pastas Smart-tek Bella Pasta Acero Inox Maquina F | 2 | 59900 | 83503.82 | desde |
-| 110 | Vinoteca compacta para 6 botellas con control táctil | Cava De Vinos Ziyen Capacidad 6 Botellas Refrigeración Ilumi | 1 | 139999 | 218349 | desde |
+| 110 | Vinoteca compacta para 6 botellas con control táctil | Cava De Vinos Ziyen Capacidad 6 Botellas Refrigeración Ilumi | 1 | 139999 |  | desde |
 | 111 | Sandwichera y wafflera con placas intercambiables | Sandwichera Eléctrica Baza 3 En 1 Waflera Grill Parrilla Pla | 3 | 54990 | 69990 | desde |
 | 112 | Picadora de carne eléctrica de 400 W con accesorios par | Picadora de Carne Cuk By Gadnic P90 Eléctrica Potencia Nomin | 3 | 107499 | 183349 | desde |
-| 113 | Pochoclera Ultracomb PO 2703 roja | Ultracomb Po2703 Pochoclera Realiza Dulce O Salados - Rojo B | 2 | 67999.99 | 99999 | desde |
+| 113 | Pochoclera Ultracomb PO 2703 roja | Ultracomb Po2703 Pochoclera Realiza Dulce O Salados - Rojo B | 2 | 62899 | 99999 | desde |
 | 114 | Secarropas centrífugo Codini de 5,5 kg y 2800 rpm | Secarropas Codini Advance Ad55 - 5.5kg Blanco | 2 | 193999.03 | 299999 | desde |
-| 115 | Secador de pelo Remington rojo con difusor | Secador De Pelo Remington Silk Ac9096 2400w 6 temperaturas / | 5 | 163620 |  | desde |
+| 115 | Secador de pelo Remington rojo con difusor | Secador De Pelo Remington Silk Ac9096 2400w 6 temperaturas / | 5 | 90900 |  | desde |
 | 116 | Cafetera de filtro Smartlife con pantalla digital | Cafetera De Filtro Smartlife Digital 1520 | 4 | 82256 |  | desde |
 | 117 | Freidora de aire Novohome de 10 litros con ventana | Freidora De Aire Novohome 10 Lts AirFryer Pantalla Display T | 3 | 149990 | 209990 | desde |
 | 118 | Purificador de agua sobre mesada dvigi Compact | Purificador de Agua Dvigi Compact de Red Elimina Cloro | 4 | 89400 |  | desde |
@@ -128,6 +128,6 @@
 | 123 | Cafetera de filtro Atma blanca con filtro permanente | Cafetera Atma Semi Automática de Filtro 1,25 Lts Ca8133p Col | 3 | 47000 |  | desde |
 | 124 | Termotanque a gas Sherman de 80 litros multigás | Termotanque 80 Lts Sherman Tpgp080msh13 Gas Conex Sup De Pie | 3 | 359900 |  | desde |
 | 125 | Balanza de baño de vidrio digital Spica de 180 kg | Balanza De Baño Vidrio Pantalla Digital 180kg Spica BA-100 C | 5 | 13399 | 32999 | desde |
-| 126 | Freidora de aire Ultracomb FR 8612 celeste | Freidora de Aire Digital Ultracomb FR-8612 de 3 Litros Tácti | 5 | 54753 | 149999 | desde |
+| 126 | Freidora de aire Ultracomb FR 8612 celeste | Freidora de Aire Digital Ultracomb FR-8612 de 3 Litros Tácti | 5 | 66338.3 | 149999 | desde |
 | 127 | Horno eléctrico CUK de 16 litros y 1280 W | Horno Eléctrico Gadnic 16 Litros 1280W Clase A 4 Resistencia | 3 | 107399 | 171999 | desde |
 | 128 | Anafe eléctrico Suono de 2 hornallas, compacto | Anafe eléctrico 2 hornillas suono | 3 | 32500 |  | desde |
