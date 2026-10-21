@@ -11,7 +11,7 @@
 | 6 | Barra de dominadas para marco de puerta | Barra Dominadas Puerta Extensible 60-100cm Reforzada 130kg P | 3 | 37380 |  | desde |
 | 7 | Camiseta de Boca Juniors adidas azul y amarilla | SIN PRECIO: /items/MLA1926848487 respondió 403: {"message":"Access to the requested resource is forbidden","erro / web: no encontré  | | | | |
 | 8 | Botines Nike rojos y blancos con tapones | SIN PRECIO: /items/MLA1483606903 respondió 403: {"message":"Access to the requested resource is forbidden","erro / web: no encontré  | | | | |
-| 9 | Multigimnasio Randers con estación Scott y 45 kg de car | SIN PRECIO: el link terminó en una página sin ID de publicación (estado 200) | | | | |
+| 9 | Multigimnasio Randers con estación Scott y 45 kg de car | Multigimnasio Multigym Randers Arg-63120 Reforzado 45 Kg Col | 2 | 962403 |  | desde |
 | 10 | Guantes de boxeo Pulse Series negros | Guantes De Boxeo 14 Oz Profesionales Reforzados Negro | 2 | 55999 | 89998 | desde |
 | 11 | Soga de saltar con rodamientos de alta velocidad | Soga Cuerda Salto Saltar 280 Cm Gym Crossfit Boxeo Reforzada | 2 | 10999 | 11999 | desde |
 | 12 | Pelota de esferodinamia 65 cm negra | Pelota 65cm Antiexplosion Pilates Fit Ball Yoga Army Color N | 1 | 26460 | 30426.5 | desde |
@@ -37,7 +37,7 @@
 | 32 | Móvil musical para cuna con proyector y control remoto | Sonajero Móvil Giratorio Gadnic Musical Proyector Luz Estrel | 5 | 42549 | 80849 | desde |
 | 33 | Fular portabebé gris | Fular Prearmado Ergonomico Munami Color Azul Jean Talle M | 1 | 30026.08 | 38990 | desde |
 | 34 | Caminador de actividades Huanger con pizarra mágica y p | Andador Huanger Caminador Con Pizarra Actividades Didáctico  | 4 | 27667.5 | 49125 | desde |
-| 35 | Puerta de seguridad retráctil MAWE para bebés y mascota | Puerta de Seguridad Retráctil Mawe Gate 140 Con Bloqueo | 4 | 61162.99 | 119649 | desde |
+| 35 | Puerta de seguridad retráctil MAWE para bebés y mascota | Puerta de Seguridad Retráctil Mawe Gate 140 Con Bloqueo | 4 | 63373 | 119649 | desde |
 | 36 | Alfombra antigolpes reversible Mega Baby con bolso | Alfombra Anti Golpes Bebes Reversible 200x150 Cm 6006-a - 2  | 2 | 29900 |  | desde |
 | 37 | Corralito hexagonal MAWE con 10 pelotas de colores | Corralito Plegable Bebe Hexagonal Mawe By Gadnic Tela Oxford | 3 | 60514 | 126099 | desde |
 | 38 | Cuna colecho Estrella Mega Baby con ruedas, canasto y m | Cuna De Bebé Estrella Mega Baby De Madera Eléctrica Mecedora | 4 | 209653.35 | 246651 | desde |
@@ -78,7 +78,7 @@
 | 73 | Picadora eléctrica Lüsqtoff de 2 litros | Picadora Lusqtoff 650w 2000ml Procesadora Bowl Acero Inox. C | 2 | 60939.62 | 99999 | desde |
 | 74 | Deshumidificador Seklou con temporizador y bloqueo infa | Potente Deshumidificador Seklou extrae Humedad 35m con Compr | 2 | 694222.38 | 977778 | desde |
 | 75 | Anafe eléctrico Spica de 2 hornallas y 2000 W | Anafe Electrico Cocina Spica Sp-1040 Doble Hornalla 5 Veloci | 3 | 44999 | 89999 | desde |
-| 76 | Dispensador eléctrico de agua para bidón Spica recargab | Dispenser De Agua Portatil Usb Bomba SPICA TASR-350 Dispensa | 3 | 8599.6 | 21499 | desde |
+| 76 | Dispensador eléctrico de agua para bidón Spica recargab | Dispenser De Agua Portatil Usb Bomba SPICA TASR-350 Dispensa | 3 | 10399 | 29999 | desde |
 | 77 | Freezer horizontal blanco con función dual heladera y f | Freezer Horizontal Gafa Doble Función 96l Canasto Plástico F | 3 | 415811.51 |  | desde |
 | 78 | Máquina de pasta con raviolera Zego de acero inoxidable | Maquina Fabrica De Pastas Raviolera Zego Acero Inox Acero In | 4 | 57424 | 80000 | desde |
 | 79 | Campana de cocina Smartbuy CE-D660N-CL negra | Extractor Purificador De Cocina Smartbuy Negro 3 Vel 60 Cm | 2 | 324999.01 |  | desde |
@@ -117,7 +117,7 @@
 | 112 | Picadora de carne eléctrica de 400 W con accesorios par | Picadora de Carne Cuk By Gadnic P90 Eléctrica Potencia Nomin | 3 | 107499 | 183349 | desde |
 | 113 | Pochoclera Ultracomb PO 2703 roja | Ultracomb Po2703 Pochoclera Realiza Dulce O Salados - Rojo B | 2 | 62899 | 99999 | desde |
 | 114 | Secarropas centrífugo Codini de 5,5 kg y 2800 rpm | Secarropas Codini Advance Ad55 - 5.5kg Blanco | 2 | 193999.03 | 299999 | desde |
-| 115 | Secador de pelo Remington rojo con difusor | Secador De Pelo Remington Silk Ac9096 2400w 6 temperaturas / | 5 | 152515 |  | desde |
+| 115 | Secador de pelo Remington rojo con difusor | Secador De Pelo Remington Silk Ac9096 2400w 6 temperaturas / | 5 | 149508 |  | desde |
 | 116 | Cafetera de filtro Smartlife con pantalla digital | Cafetera De Filtro Smartlife Digital 1520 | 4 | 82256 |  | desde |
 | 117 | Freidora de aire Novohome de 10 litros con ventana | Freidora De Aire Novohome 10 Lts AirFryer Pantalla Display T | 3 | 144790 | 209990 | desde |
 | 118 | Purificador de agua sobre mesada dvigi Compact | Purificador de Agua Dvigi Compact de Red Elimina Cloro | 4 | 89400 |  | desde |
