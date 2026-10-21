@@ -7,7 +7,7 @@
 | 2-v0 | Control inalámbrico DualSense para PlayStation 5, negro | Joystick Sony Dualsense Para Playstation 5 Blanco | 3 | 142263.91 | 189690.76 | desde |
 | 3 | Cinta de correr Randers con monitor y altavoz Bluetooth | Randers Arg-409 Cinta Motorizada 12km/h Color Negro | 2 | 650643.99 | 988900 | desde |
 | 4 | Bicicleta fija de spinning Sölperk | Bicicleta Fija Spinning Profesional Gym 8 Niveles 28 Kgs con | 3 | 444000 | 600000 | desde |
-| 5 | Kit de mancuernas con conversor a barra, hasta 45 kg | Kit Mancuernas Y Barra Con Tope A Rosca 25 Kg Discos Pvc | 3 | 83589 | 211978 | desde |
+| 5 | Kit de mancuernas con conversor a barra, hasta 45 kg | Kit Mancuernas Y Barra Con Tope A Rosca 25 Kg Discos Pvc | 3 | 79989 | 211978 | desde |
 | 6 | Barra de dominadas para marco de puerta | Barra Dominadas Puerta Extensible 60-100cm Reforzada 130kg P | 3 | 37380 |  | desde |
 | 7 | Camiseta de Boca Juniors adidas azul y amarilla | SIN PRECIO: /items/MLA1926848487 respondió 403: {"message":"Access to the requested resource is forbidden","erro / web: no encontré  | | | | |
 | 8 | Botines Nike rojos y blancos con tapones | SIN PRECIO: /items/MLA1483606903 respondió 403: {"message":"Access to the requested resource is forbidden","erro / web: no encontré  | | | | |
@@ -47,7 +47,7 @@
 | 42 | Practicuna plegable gris con colchón y mosquitero | Practicuna colecho Avanti COLECHO MADISON + colchón Madison  | 2 | 194999 | 288124 | desde |
 | 43 | Cuna de madera blanca para bebé | SIN PRECIO: DUPLICADO, apunta a la misma publicación que #47 ("Cuna Colecho Evolutiva 6en1 | Con Colchó") | | | | |
 | 44 | Sillón de apoyo para bebé con peluche | SIN PRECIO: parece otro producto: en Mercado Libre se llama "Silla Mecedora Mega Baby 27267 18 Kg Vibración Y Música Color Gris" | | | | |
-| 45 | Silla de comer para bebé 3 en 1 verde agua | Silla Comer Bebé Avanti 3-1 Alta Baja Booster Doble Bandeja  | 4 | 64999 | 89999 | desde |
+| 45 | Silla de comer para bebé 3 en 1 verde agua | Silla Comer Bebe Avanti Lyra 3 - 1 Convertible Booster Patas | 3 | 69999 | 107690.77 | desde |
 | 46 | Alfombra inflable de agua para bebé con diseño marino | Alfombra Sensorial Inflable Con Aire Y Agua 4230 Bebé Love P | 4 | 7200 | 10000 | desde |
 | 47 | Cuna blanca con ruedas y colchón estampado | Cuna Colecho Evolutiva 6en1 / Con Colchón Y Ruedas Con Freno | 3 | 180215.94 | 206500 | desde |
 | 48 | Almohada de embarazo en forma de U | Almohadon Embarazo Lactancia Tusor Vellon Siliconado - Mallo | 1 | 31340.5 | 32990 | desde |
@@ -59,20 +59,20 @@
 | 54 | Colchón blanco para cuna con funda acolchada y cierre | Colchón Impermeable Para Practicuna 104x70x9cm Blanco | 2 | 89999 |  | desde |
 | 55 | Mamadera Philips Avent Natural Response de 125 ml | Mamadera Avent Philips Natural Response 125ml 0m+ Color Blan | 5 | 31999 |  | desde |
 | 56 | Gimnasio de actividades con piano y arco de juguetes | Colchoneta Para Bebe Gadnic Gimnasio Musical 0-36 Meses Pian | 4 | 31999 | 49999 | desde |
-| 57 | Balanza digital Femmto con Bluetooth y pantalla LED | Balanza Digital Con Bluetooth Personal De Baño Peso Corporal | 4 | 18999 | 27999 | desde |
-| 58 | Planchita de pelo GAMA Bella Tourmaline Red Ion | Planchita De Pelo GA.MA Italy Elegance Bella Tourmaline Ion  | 5 | 59999 | 64999 | desde |
+| 57 | Balanza digital Femmto con Bluetooth y pantalla LED | Balanza Digital Con Bluetooth Personal De Baño Peso Corporal | 4 | 18429 | 27999 | desde |
+| 58 | Planchita de pelo GAMA Bella Tourmaline Red Ion | Planchita De Pelo GA.MA Italy Elegance Bella Tourmaline Ion  | 5 | 59404 | 155670.7 | desde |
 | 59 | Robot de limpieza Sansei que aspira y trapea | Aspiradora Robot Sansei Rvcs23pi 5 modos de limpieza Sensor  | 3 | 121999 | 199999 | desde |
 | 60 | Aspiradora de mano Yelmo con accesorios | Yelmo As-3240 Aspiradora Para Auto Recargable Usb Color Gris | 2 | 40999 | 59899 | desde |
 | 61 | Secador de pelo Ultracomb de 2200 W con función Cool Sh | Secador De Pelo Ultracomb Tourmaline Ion Pro Sc-4606 Negro 3 | 5 | 43999 | 49999 | desde |
 | 62 | Aire acondicionado split Philco Inverter Eco Plus de 37 | Aire Acondicionado Split Philco Inverter 3750w Frio Calor A+ | 5 | 769999 | 910934.34 | desde |
 | 63 | Pava eléctrica Novohome de 2,2 litros con display tácti | Pava Eléctrica Digital Novohome 2 Litros Pantalla Tactil Col | 5 | 48999 |  | desde |
 | 64 | Caloventor Aitech portátil con dos perillas | Caloventor Electrico 2000w Termoventilador 2 Velocidades Est | 2 | 42351.21 |  | desde |
-| 65 | Termotanque a gas Señorial Zafiro de 85 litros | Termotanque Multigas Señorial TSZP1-85 Zafiro Color Blanco | 3 | 390000 |  | desde |
+| 65 | Termotanque a gas Señorial Zafiro de 85 litros | Termotanque Multigas Señorial TSZP1-85 Zafiro Color Blanco | 3 | 372362.47 | 390000 | desde |
 | 66 | Microondas Aiwa blanco con panel digital | Microondas Aiwa Cook 700w 20l 10 Niveles Cocción Panel Touch | 3 | 199999 | 355049 | desde |
 | 67 | Buclera de 3 tubos VGR V-599 | Buclera Rizador 3 Barriles Ceramica Vgr V-599 Triple Ondas 2 | 3 | 61890 | 75853.33 | desde |
 | 68 | Secarropas centrífugo Codini de 6,5 kg y 2800 rpm | Secarropas Codini Innova 6.5kgs Tambor Acero Inox. 2800rpms  | 2 | 239999 | 299999 | desde |
 | 69 | Purificador de agua Hidrolit Senic Out Classic con cani | Purificador De Agua Hidrolit Senic Out Classic - Blanco | 6 | 136092 |  | desde |
-| 70 | Plancha a vapor Ultracomb PL 4170 violeta | Plancha Vapor Ultracomb 1400w Antiadherente Rociador Pl4170  | 4 | 27358 |  | desde |
+| 70 | Plancha a vapor Ultracomb PL 4170 violeta | Plancha Vapor Ultracomb 1400w Antiadherente Rociador Pl4170  | 4 | 27490 | 49999 | desde |
 | 71 | Secador de pelo y planchita Ditron rosa con difusor | Set Planchita Cerámica Secador Pelo 2200W Ditron SK-SET1 Tec | 4 | 71039 | 181414 | desde |
 | 72 | Máquina de coser portátil Smart Tech blanca y rosa | Maquina De Coser Portatil Electrica Hogar 12 Puntadas Pedal  | 3 | 63999 | 79999 | desde |
 | 73 | Picadora eléctrica Lüsqtoff de 2 litros | Picadora Lusqtoff 650w 2000ml Procesadora Bowl Acero Inox. C | 2 | 60939.62 | 99999 | desde |
@@ -90,11 +90,11 @@
 | 85 | Robot aspirador y trapeador con control por voz y app | Aspiradora Robot Trapeadora Gadnic Navegacion Laser Lds Mape | 2 | 330249 | 474999 | desde |
 | 86 | Pava eléctrica Codini de 1,8 litros en acero inoxidable | Pava Eléctrica Hervidora Acero Inoxidable 1.8 Lts Codini - P | 5 | 19299 | 44999 | desde |
 | 87 | Nebulizador portátil mesh SAN-UP VitaAir | Nebulizador Mesh San-Up VitalAir 8ml Silencioso Portátil USB | 4 | 89999 | 155199 | desde |
-| 88 | Secador de pelo Ultracomb SC 4606 con turmalina e ión | Secador De Pelo Ultracomb Tourmaline Ion Pro Sc-4606 Negro | 5 | 44399 | 59999 | desde |
+| 88 | Secador de pelo Ultracomb SC 4606 con turmalina e ión | SIN PRECIO: DUPLICADO, apunta a la misma publicación que #61 ("Secador De Pelo Ultracomb Tourmaline Ion") | | | | |
 | 89 | Aire acondicionado split Philco de 5200 W | Aire Acondicionado Split Frio/Calor Philco PHS50HA4CN 4472 F | 5 | 893838.9 | 1258002.58 | desde |
 | 90 | Tendedero plegable con funda transparente para lavarrop | SIN PRECIO: parece otro producto: en Mercado Libre se llama "Secarropas Por Calor Axel Ax-3000 Con Sistema Anti-arrugas Blanco" | | | | |
 | 91 | Lavarropas automático Philco de 5 kg con carga superior | Lavarropas Philco 5kg Carga Superior Gris 700 RPM | 4 | 410553.59 | 616763.08 | desde |
-| 92 | Termotanque eléctrico ExaHome de 40 litros | Termotanque Exahome Electrico 40 Litros Carga Inferior 1500w | 4 | 284990.5 | 449000 | desde |
+| 92 | Termotanque eléctrico ExaHome de 40 litros | Termotanque Exahome Electrico 40 Litros Carga Inferior 1500w | 4 | 281990.6 | 429990 | desde |
 | 93 | Purificador de agua de mesada con canilla, filtro y acc | Filtro Purificador Agua Sobre Mesada Blanco Truper Foset 492 | 4 | 47927.11 | 80999 | desde |
 | 94 | Estufa halógena Kanji Home de tres velas | Estufa halogena 3 velas Kanji KJH-305 Color Gris oscuro | 4 | 41489.02 |  | desde |
 | 95 | Freidora de aire Novohome de 7 litros con ventana | Freidora De Aire Novohome 7 Litros Panel Pantalla Digital Ta | 5 | 119990 | 179990 | desde |
@@ -103,27 +103,27 @@
 | 98 | Batidora de mano Daewoo con batidores y ganchos | Batidora De Mano Daewoo Dhm208 Blanca 250w 5 Velocidades Col | 3 | 44999 |  | desde |
 | 99 | Plancha a vapor Ultracomb PL 4180 negra y violeta | Plancha A Vapor Ultracomb 2250w Pl-4180 Color Negro/Violeta  | 5 | 51499 |  | desde |
 | 100 | Balanza de cocina digital Cook by Spica de acero inoxid | Balanza Digital De Cocina 10kg SPICA BAL-154 Electronica Col | 4 | 24299 | 56499 | desde |
-| 101 | Cocina a gas Escorial negra de 4 hornallas con horno | Cocina Negra Escorial Candor S2 Black 4 Hornallas Visor Y Pa | 5 | 323485.16 | 414929.04 | desde |
-| 102 | Anafe eléctrico Lüsqtoff de 2 hornallas y 2000 W | Anafe Eléctrico Lusqtoff ANL2000-72 2 hornallas 2000w | 4 | 62078 | 79900 | desde |
-| 103 | Calefón a gas Longvie blanco con dos perillas | Calefón Longvie Tiro Natural Pilotless 14 Litros Cn514ss Gn  | 3 | 560708.24 | 606999 | desde |
+| 101 | Cocina a gas Escorial negra de 4 hornallas con horno | Cocina Negra Escorial Candor S2 Black 4 Hornallas Visor Y Pa | 5 | 329535.29 |  | desde |
+| 102 | Anafe eléctrico Lüsqtoff de 2 hornallas y 2000 W | Anafe Eléctrico Lusqtoff ANL2000-72 2 hornallas 2000w | 4 | 62699 | 75099 | desde |
+| 103 | Calefón a gas Longvie blanco con dos perillas | Calefón Longvie Tiro Natural Pilotless 14 Litros Cn514ss Gn  | 3 | 606999 |  | desde |
 | 104 | Deshumidificador Seklou para secar ropa y evitar moho | Deshumidificador Compresor Seklou Technology Blanco 20L/día  | 2 | 1299899.7 | 1444333 | desde |
 | 105 | Extractor de jugos Ultracomb de acero inoxidable | Juguera Extractor Jugo Ultracomb Eléctrica Jg-2703 Con Jarra | 4 | 66921 | 109999 | desde |
 | 106 | Máquina para gasificar agua SodaStream con 2 cilindros  | Máquina para hacer soda Sodastream Terra x 2 Cilindros 1L co | 3 | 132999 | 176689.41 | desde |
-| 107 | Tostadora Suono negra de diseño retro con 7 niveles | Tostadora Suono 850w 2 Panes Negra 7 Niveles Descongelar Neg | 4 | 40254.03 | 69999 | desde |
+| 107 | Tostadora Suono negra de diseño retro con 7 niveles | Tostadora Suono 850w 2 Panes Negra 7 Niveles Descongelar Neg | 4 | 40254 | 69999 | desde |
 | 108 | Dispensador eléctrico de agua para bidón con batería re | Dispenser De Agua Automatico Bomba Dispensador Bidones Usb B | 2 | 6400 | 12800 | desde |
 | 109 | Máquina manual para hacer pasta con 6 niveles de espeso | Fábrica De Pastas Smart-tek Bella Pasta Acero Inox Maquina F | 2 | 59900 | 83503.82 | desde |
 | 110 | Vinoteca compacta para 6 botellas con control táctil | Cava De Vinos Ziyen Capacidad 6 Botellas Refrigeración Ilumi | 1 | 150749 | 210399 | desde |
-| 111 | Sandwichera y wafflera con placas intercambiables | Sandwichera Eléctrica Baza 3 En 1 Waflera Grill Parrilla Pla | 3 | 54990 | 69990 | desde |
+| 111 | Sandwichera y wafflera con placas intercambiables | Sandwichera Eléctrica Baza 3 En 1 Waflera Grill Parrilla Pla | 3 | 53340.3 | 69990 | desde |
 | 112 | Picadora de carne eléctrica de 400 W con accesorios par | Picadora de Carne Cuk By Gadnic P90 Eléctrica Potencia Nomin | 3 | 107499 | 183349 | desde |
-| 113 | Pochoclera Ultracomb PO 2703 roja | Ultracomb Po2703 Pochoclera Realiza Dulce O Salados - Rojo B | 2 | 62899 | 99999 | desde |
+| 113 | Pochoclera Ultracomb PO 2703 roja | Ultracomb Po2703 Pochoclera Realiza Dulce O Salados - Rojo B | 2 | 67999.99 | 99999 | desde |
 | 114 | Secarropas centrífugo Codini de 5,5 kg y 2800 rpm | Secarropas Codini Advance Ad55 - 5.5kg Blanco | 2 | 193999.03 | 299999 | desde |
-| 115 | Secador de pelo Remington rojo con difusor | Secador De Pelo Remington Silk Ac9096 2400w 6 temperaturas / | 5 | 149508 |  | desde |
-| 116 | Cafetera de filtro Smartlife con pantalla digital | Cafetera De Filtro Smartlife Digital 1520 | 4 | 82256 |  | desde |
+| 115 | Secador de pelo Remington rojo con difusor | Secador De Pelo Remington Silk Ac9096 2400w 6 temperaturas / | 5 | 158595 |  | desde |
+| 116 | Cafetera de filtro Smartlife con pantalla digital | Cafetera De Filtro Smartlife Digital 1520 | 4 | 72900 |  | desde |
 | 117 | Freidora de aire Novohome de 10 litros con ventana | Freidora De Aire Novohome 10 Lts AirFryer Pantalla Display T | 3 | 144790 | 209990 | desde |
 | 118 | Purificador de agua sobre mesada dvigi Compact | Purificador de Agua Dvigi Compact de Red Elimina Cloro | 4 | 89400 |  | desde |
 | 119 | Calefactor de pared blanco y negro | Calefactor Convector Longvie Eca5s 5200 Kcal Recta Tiza/blan | 2 | 300999 | 373140.43 | desde |
 | 120 | Robot aspirador Fika ultra delgado con control remoto | Aspiradora Robot Trapeadora Fika Limpieza SENSE Antichoque C | 2 | 148896 | 300000 | desde |
-| 121 | Set de secador y planchita Ultracomb Devotion rosa | Set Devotion Secador De Pelo + Planchita Ceramica 2200w Ultr | 5 | 58781.03 | 89999 | desde |
+| 121 | Set de secador y planchita Ultracomb Devotion rosa | Set Devotion Secador De Pelo + Planchita Ceramica 2200w Ultr | 5 | 55999 | 189999 | desde |
 | 122 | Microondas BGH Quick Chef de 20 litros digital | Microondas Bgh 20l Digital Eco B120db20 | 3 | 201444 |  | desde |
 | 123 | Cafetera de filtro Atma blanca con filtro permanente | Cafetera Atma Semi Automática de Filtro 1,25 Lts Ca8133p Col | 3 | 47830.51 |  | desde |
 | 124 | Termotanque a gas Sherman de 80 litros multigás | Termotanque 80 Lts Sherman Tpgp080msh13 Gas Conex Sup De Pie | 3 | 359900 |  | desde |
