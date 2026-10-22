@@ -24,7 +24,7 @@
 | 19 | Control DualSense para PlayStation 5, camuflaje gris | Control inalámbrico DualSense para PS5 Gray Camouflage | 2 | 139244.54 |  | desde |
 | 20 | Control DualSense para PlayStation 5, blanco perlado | Sony PlayStation DualSense Perla Chroma | 2 | 151037.57 |  | desde |
 | 21 | Control DualSense para PlayStation 5, celeste | Control Inalambrico Sony DualSense PS5 Color Starlight Blue | 2 | 139244.54 |  | desde |
-| 22 | Control Pro de Nintendo Switch 2 | Control Nintendo Switch 2 Pro Controller | 4 | 243975.94 | 258175.61 | desde |
+| 22 | Control Pro de Nintendo Switch 2 | Control Nintendo Switch 2 Pro Controller | 4 | 229999 |  | desde |
 | 23 | Joystick con cable Redragon | Joystick Redragon Saturn G807 Negro | 2 | 39175.6 |  | desde |
 | 24 | Joystick Redragon estilo PlayStation con panel táctil y | Joystick Gamepad Redragon Juno G818 Usb Wireless Para PS4 PC | 2 | 69573 | 73234.9 | desde |
 | 25 | Joystick negro estilo PlayStation 4 con cable USB | Joystick inalámbrico genérico compatible con PlayStation 4 N | 3 | 24771 |  | desde |
@@ -38,7 +38,7 @@
 | 33 | Fular portabebé gris | Fular Prearmado Ergonomico Munami Color Azul Jean Talle M | 1 | 30026.08 | 38990 | desde |
 | 34 | Caminador de actividades Huanger con pizarra mágica y p | Andador Huanger Caminador Con Pizarra Actividades Didáctico  | 4 | 27667.5 | 49125 | desde |
 | 35 | Puerta de seguridad retráctil MAWE para bebés y mascota | Puerta de Seguridad Retráctil Mawe Gate 140 Con Bloqueo | 4 | 63373 | 119649 | desde |
-| 36 | Alfombra antigolpes reversible Mega Baby con bolso | Alfombra Anti Golpes Bebes Reversible 200x150 Cm 6006-a - 2  | 2 | 29900 |  | desde |
+| 36 | Alfombra antigolpes reversible Mega Baby con bolso | Alfombra Anti Golpes Bebes Reversible 200x150 Cm 6006-a - 2  | 2 | 25712 |  | desde |
 | 37 | Corralito hexagonal MAWE con 10 pelotas de colores | Corralito Plegable Bebe Hexagonal Mawe By Gadnic Tela Oxford | 3 | 60514 | 126099 | desde |
 | 38 | Cuna colecho Estrella Mega Baby con ruedas, canasto y m | Cuna De Bebé Estrella Mega Baby De Madera Eléctrica Mecedora | 4 | 209653.35 | 246651 | desde |
 | 39 | Juego de pesca y torres de encastre 2 en 1 Cracovia | Juego Pesca + 4 Torres Encastre Madera Didactico Iman Peces  | 5 | 17499.3 | 24999 | desde |
@@ -67,7 +67,7 @@
 | 62 | Aire acondicionado split Philco Inverter Eco Plus de 37 | Aire Acondicionado Split Philco Inverter 3750w Frio Calor A+ | 5 | 769999 | 910934.34 | desde |
 | 63 | Pava eléctrica Novohome de 2,2 litros con display tácti | Pava Eléctrica Digital Novohome 2 Litros Pantalla Tactil Col | 5 | 48999 |  | desde |
 | 64 | Caloventor Aitech portátil con dos perillas | Caloventor Electrico 2000w Termoventilador 2 Velocidades Est | 2 | 42351.21 |  | desde |
-| 65 | Termotanque a gas Señorial Zafiro de 85 litros | Termotanque Multigas Señorial TSZP1-85 Zafiro Color Blanco | 3 | 372362.47 | 390000 | desde |
+| 65 | Termotanque a gas Señorial Zafiro de 85 litros | Termotanque Multigas Señorial TSZP1-85 Zafiro Color Blanco | 3 | 390000 |  | desde |
 | 66 | Microondas Aiwa blanco con panel digital | Microondas Aiwa Cook 700w 20l 10 Niveles Cocción Panel Touch | 3 | 199999 | 355049 | desde |
 | 67 | Buclera de 3 tubos VGR V-599 | Buclera Rizador 3 Barriles Ceramica Vgr V-599 Triple Ondas 2 | 3 | 61890 | 75853.33 | desde |
 | 68 | Secarropas centrífugo Codini de 6,5 kg y 2800 rpm | Secarropas Codini Innova 6.5kgs Tambor Acero Inox. 2800rpms  | 2 | 232799.03 | 299999 | desde |
@@ -117,7 +117,7 @@
 | 112 | Picadora de carne eléctrica de 400 W con accesorios par | Picadora de Carne Cuk By Gadnic P90 Eléctrica Potencia Nomin | 3 | 107390 |  | desde |
 | 113 | Pochoclera Ultracomb PO 2703 roja | Ultracomb Po2703 Pochoclera Realiza Dulce O Salados - Rojo B | 2 | 67999.99 | 99999 | desde |
 | 114 | Secarropas centrífugo Codini de 5,5 kg y 2800 rpm | Secarropas Codini Advance Ad55 - 5.5kg Blanco | 2 | 193999.03 | 299999 | desde |
-| 115 | Secador de pelo Remington rojo con difusor | Secador De Pelo Remington Silk Ac9096 2400w 6 temperaturas / | 5 | 151680 |  | desde |
+| 115 | Secador de pelo Remington rojo con difusor | Secador De Pelo Remington Silk Ac9096 2400w 6 temperaturas / | 5 | 134991 |  | desde |
 | 116 | Cafetera de filtro Smartlife con pantalla digital | Cafetera De Filtro Smartlife Digital 1520 | 4 | 72900 |  | desde |
 | 117 | Freidora de aire Novohome de 10 litros con ventana | Freidora De Aire Novohome 10 Lts AirFryer Pantalla Display T | 3 | 144790 | 209990 | desde |
 | 118 | Purificador de agua sobre mesada dvigi Compact | Purificador de Agua Dvigi Compact de Red Elimina Cloro | 4 | 89400 |  | desde |
