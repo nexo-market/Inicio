@@ -42,8 +42,8 @@
 | 37 | Corralito hexagonal MAWE con 10 pelotas de colores | Corralito Plegable Bebe Hexagonal Mawe By Gadnic Tela Oxford | 3 | 60514 | 126099 | desde |
 | 38 | Cuna colecho Estrella Mega Baby con ruedas, canasto y m | Cuna De Bebé Estrella Mega Baby De Madera Eléctrica Mecedora | 4 | 209653.35 | 246651 | desde |
 | 39 | Juego de pesca y torres de encastre 2 en 1 Cracovia | Juego Pesca + 4 Torres Encastre Madera Didactico Iman Peces  | 5 | 17499.3 | 24999 | desde |
-| 40 | Cochecito de paseo con baranda rebatible | Cochecito Paseo Bebe Avanti Aon Manija Rebatible Negro | 3 | 109900.45 | 199819 | desde |
-| 41 | Bañera plegable para bebé de 25 litros | La Bañera Plegable Para Bebés,la Bañera De Bebé Pvc Plegable | 3 | 60384.96 | 79460.93 | desde |
+| 40 | Cochecito de paseo con baranda rebatible | Cochecito Cuna Bebé Avanti Manija Baranda Rebatible Apto 0+  | 3 | 144999 | 199999 | desde |
+| 41 | Bañera plegable para bebé de 25 litros | Bañera Bebé Ultra Plegable Mega Baby Con Red Acolchonada Col | 3 | 45428.25 | 53445 | desde |
 | 42 | Practicuna plegable gris con colchón y mosquitero | Practicuna colecho Avanti COLECHO MADISON + colchón Madison  | 2 | 194999 | 288124 | desde |
 | 43 | Cuna de madera blanca para bebé | SIN PRECIO: DUPLICADO, apunta a la misma publicación que #47 ("Cuna Colecho Evolutiva 6en1 | Con Colchó") | | | | |
 | 44 | Sillón de apoyo para bebé con peluche | SIN PRECIO: parece otro producto: en Mercado Libre se llama "Silla Mecedora Mega Baby 27267 18 Kg Vibración Y Música Color Gris" | | | | |
