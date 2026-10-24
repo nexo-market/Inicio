@@ -14,7 +14,7 @@
 | 9 | Multigimnasio Randers con estación Scott y 45 kg de car | SIN PRECIO: el link terminó en una página sin ID de publicación (estado 200) | | | | |
 | 10 | Guantes de boxeo Pulse Series negros | Guantes De Boxeo 14 Oz Profesionales Reforzados Negro | 2 | 56999 | 89998 | desde |
 | 11 | Soga de saltar con rodamientos de alta velocidad | Soga Cuerda Salto Saltar 280 Cm Gym Crossfit Boxeo Reforzada | 2 | 10999 | 11999 | desde |
-| 12 | Pelota de esferodinamia 65 cm negra | Pelota 65cm Antiexplosion Pilates Fit Ball Yoga Army Color N | 1 | 26460 | 30426.5 | desde |
+| 12 | Pelota de esferodinamia 65 cm negra | Pelota 27 Cm Fitness Pilates Yoga Gmp Negro | 1 | 6115.15 | 6437 | desde |
 | 13 | Camiseta de River Plate adidas negra y roja a rayas | SIN PRECIO: /items/MLA3685105506 respondió 403: {"message":"Access to the requested resource is forbidden","erro / web: no encontré  | | | | |
 | 14 | Botines Nike negros con detalle celeste para césped sin | SIN PRECIO: /items/MLA2341311586 respondió 403: {"message":"Access to the requested resource is forbidden","erro / web: no encontré  | | | | |
 | 15 | Estación de carga para controles DualSense de PS5 | Playstation Cargador DualSense 5 | 1 | 64999 | 87799 | desde |
@@ -67,7 +67,7 @@
 | 62 | Aire acondicionado split Philco Inverter Eco Plus de 37 | Aire Acondicionado Split Philco Inverter 3750w Frio Calor A+ | 5 | 798999 |  | desde |
 | 63 | Pava eléctrica Novohome de 2,2 litros con display tácti | Pava Eléctrica Digital Novohome 2 Litros Pantalla Tactil Col | 5 | 53990 | 85990 | desde |
 | 64 | Caloventor Aitech portátil con dos perillas | Caloventor Electrico 2000w Termoventilador 2 Velocidades Est | 2 | 42351.21 |  | desde |
-| 65 | Termotanque a gas Señorial Zafiro de 85 litros | Termotanque Multigas Señorial TSZP1-85 Zafiro Color Blanco | 3 | 372362.47 | 390000 | desde |
+| 65 | Termotanque a gas Señorial Zafiro de 85 litros | Termotanque Multigas Señorial TSZP1-85 Zafiro Color Blanco | 3 | 380392 |  | desde |
 | 66 | Microondas Aiwa blanco con panel digital | Microondas Aiwa Cook 700w 20l 10 Niveles Cocción Panel Touch | 3 | 199999 | 355049 | desde |
 | 67 | Buclera de 3 tubos VGR V-599 | Buclera Rizador 3 Barriles Ceramica Vgr V-599 Triple Ondas 2 | 3 | 61890 | 75853.33 | desde |
 | 68 | Secarropas centrífugo Codini de 6,5 kg y 2800 rpm | Secarropas Codini Innova 6.5kgs Tambor Acero Inox. 2800rpms  | 2 | 232799.03 | 299999 | desde |
