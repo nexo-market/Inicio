@@ -46,7 +46,7 @@
 | 41 | Bañera plegable para bebé de 25 litros | La Bañera Plegable Para Bebés,la Bañera De Bebé Pvc Plegable | 3 | 61006.38 | 80278.66 | desde |
 | 42 | Practicuna plegable gris con colchón y mosquitero | Practicuna colecho Avanti COLECHO MADISON + colchón Madison  | 2 | 194999 | 288124 | desde |
 | 43 | Cuna de madera blanca para bebé | SIN PRECIO: DUPLICADO, apunta a la misma publicación que #47 ("Cuna Colecho Evolutiva 6en1 | Con Colchó") | | | | |
-| 44 | Sillón de apoyo para bebé con peluche | SIN PRECIO: parece otro producto: en Mercado Libre se llama "Silla Mecedora Mega Baby 27267 18 Kg Vibración Y Música Color Gris" | | | | |
+| 44 | Sillón de apoyo para bebé con peluche | Brinquedo Rolo Inflável Para Bebê Com Chocalho | 1 | 12589.42 | 14817.04 | desde |
 | 45 | Silla de comer para bebé 3 en 1 verde agua | Silla Comer Bebe Avanti Lyra 3 - 1 Convertible Booster Patas | 3 | 69999 | 107690.77 | desde |
 | 46 | Alfombra inflable de agua para bebé con diseño marino | Alfombra Sensorial Inflable Con Aire Y Agua 4230 Bebé Love P | 4 | 7200 | 10000 | desde |
 | 47 | Cuna blanca con ruedas y colchón estampado | Cuna Colecho Evolutiva 6en1 / Con Colchón Y Ruedas Con Freno | 3 | 180215.94 | 206500 | desde |
@@ -117,7 +117,7 @@
 | 112 | Picadora de carne eléctrica de 400 W con accesorios par | Picadora de Carne Cuk By Gadnic P90 Eléctrica Potencia Nomin | 3 | 107390 |  | desde |
 | 113 | Pochoclera Ultracomb PO 2703 roja | Ultracomb Po2703 Pochoclera Realiza Dulce O Salados - Rojo B | 2 | 69999 | 99999 | desde |
 | 114 | Secarropas centrífugo Codini de 5,5 kg y 2800 rpm | Secarropas Codini Advance Ad55 - 5.5kg Blanco | 2 | 193999.03 | 299999 | desde |
-| 115 | Secador de pelo Remington rojo con difusor | Remington Secadora De Cabello Ac Silk Ac9096 Color Bordó | 1 | 84799 |  | desde |
+| 115 | Secador de pelo Remington rojo con difusor | Remington Secadora De Cabello Ac Silk Ac9096 Color Bordó | 1 | 80964.22 | 94800 | desde |
 | 116 | Cafetera de filtro Smartlife con pantalla digital | Cafetera De Filtro Smartlife Digital 1520 | 4 | 79999 | 119999 | desde |
 | 117 | Freidora de aire Novohome de 10 litros con ventana | Freidora De Aire Novohome 10 Lts AirFryer Pantalla Display T | 3 | 144790 | 209990 | desde |
 | 118 | Purificador de agua sobre mesada dvigi Compact | Purificador de Agua Dvigi Compact de Red Elimina Cloro | 4 | 97700 |  | desde |
