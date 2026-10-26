@@ -46,7 +46,7 @@
 | 41 | Bañera plegable para bebé de 25 litros | La Bañera Plegable Para Bebés,la Bañera De Bebé Pvc Plegable | 3 | 61080.12 | 80375.7 | desde |
 | 42 | Practicuna plegable gris con colchón y mosquitero | Cuna Colecho Bebé Cosco Kids Con Mosquitero Y Cambiador Gris | 2 | 156824 | 289990 | desde |
 | 43 | Cuna de madera blanca para bebé | SIN PRECIO: DUPLICADO, apunta a la misma publicación que #47 ("Cuna Colecho Evolutiva 6en1 | Con Colchó") | | | | |
-| 44 | Sillón de apoyo para bebé con peluche | Brinquedo Rolo Inflável Para Bebê Com Chocalho | 1 | 12604.64 | 14834.95 | desde |
+| 44 | Sillón de apoyo para bebé con peluche | SIN PRECIO: parece otro producto: en Mercado Libre se llama "Silla Mecedora Mega Baby 27267 18 Kg Vibración Y Música Color Gris" | | | | |
 | 45 | Silla de comer para bebé 3 en 1 verde agua | Silla Comer Bebe Avanti Lyra 3 - 1 Convertible Booster Patas | 3 | 69999 | 107690.77 | desde |
 | 46 | Alfombra inflable de agua para bebé con diseño marino | Alfombra Sensorial Inflable Con Aire Y Agua 4230 Bebé Love P | 4 | 7200 | 10000 | desde |
 | 47 | Cuna blanca con ruedas y colchón estampado | Cuna Colecho Evolutiva 6en1 / Con Colchón Y Ruedas Con Freno | 3 | 180215.94 | 206500 | desde |
@@ -58,11 +58,11 @@
 | 53 | Colchón para cuna con funda estampada | Colchon Cuna Suavestar 140x80x10 Color Estampado | 2 | 93673.8 | 98623.8 | desde |
 | 54 | Colchón blanco para cuna con funda acolchada y cierre | Colchón Impermeable Para Practicuna 104x70x9cm Blanco | 2 | 89999 |  | desde |
 | 55 | Mamadera Philips Avent Natural Response de 125 ml | Mamadera Avent Philips Natural Response 125ml 0m+ Color Blan | 5 | 31999 |  | desde |
-| 56 | Gimnasio de actividades con piano y arco de juguetes | Gimnasio Bebé Interactivo Musical Con Piano Animales 4035 Co | 2 | 99600 |  | desde |
-| 57 | Balanza digital Femmto con Bluetooth y pantalla LED | Balanza Digital Con Bluetooth Personal De Baño Peso Corporal | 4 | 19999 | 27999 | desde |
+| 56 | Gimnasio de actividades con piano y arco de juguetes | Gimnasio Bebé Interactivo Musical Con Piano Animales 4035 Co | 2 | 85656 | 99600 | desde |
+| 57 | Balanza digital Femmto con Bluetooth y pantalla LED | Balanza Digital Con Bluetooth Personal De Baño Peso Corporal | 4 | 19998 | 27999 | desde |
 | 58 | Planchita de pelo GAMA Bella Tourmaline Red Ion | Planchita De Pelo GA.MA Italy Elegance Bella Tourmaline Ion  | 5 | 59404 | 155670.7 | desde |
 | 59 | Robot de limpieza Sansei que aspira y trapea | Aspiradora Robot Sansei Rvcs23pi 5 modos de limpieza Sensor  | 3 | 128399 | 199999 | desde |
-| 60 | Aspiradora de mano Yelmo con accesorios | Yelmo As-3240 Aspiradora Para Auto Recargable Usb Color Gris | 2 | 39693 |  | desde |
+| 60 | Aspiradora de mano Yelmo con accesorios | Yelmo As-3240 Aspiradora Para Auto Recargable Usb Color Gris | 2 | 36567.03 |  | desde |
 | 61 | Secador de pelo Ultracomb de 2200 W con función Cool Sh | Secador De Pelo Ultracomb Tourmaline Ion Pro Sc-4606 Negro 3 | 5 | 42309.01 | 49999 | desde |
 | 62 | Aire acondicionado split Philco Inverter Eco Plus de 37 | Aire Acondicionado Split Inverter Frio Calor Philco 3225 Fg  | 6 | 765793.66 | 899000 | desde |
 | 63 | Pava eléctrica Novohome de 2,2 litros con display tácti | Pava Eléctrica Digital Novohome 2 Litros Pantalla Tactil Col | 5 | 53990 | 85990 | desde |
@@ -80,7 +80,7 @@
 | 75 | Anafe eléctrico Spica de 2 hornallas y 2000 W | Anafe Electrico Cocina Spica Sp-1040 Doble Hornalla 5 Veloci | 3 | 44999 | 89999 | desde |
 | 76 | Dispensador eléctrico de agua para bidón Spica recargab | Dispenser De Agua Portatil Usb Bomba SPICA TASR-350 Dispensa | 3 | 10399 | 29999 | desde |
 | 77 | Freezer horizontal blanco con función dual heladera y f | Freezer Horizontal Gafa Doble Función 96l Canasto Plástico F | 3 | 415811.51 |  | desde |
-| 78 | Máquina de pasta con raviolera Zego de acero inoxidable | Maquina Fabrica De Pastas Raviolera Zego Acero Inox Acero In | 4 | 57424 | 80000 | desde |
+| 78 | Máquina de pasta con raviolera Zego de acero inoxidable | SIN PRECIO: el link terminó en una página sin ID de publicación (estado 200) | | | | |
 | 79 | Campana de cocina Smartbuy CE-D660N-CL negra | Extractor Purificador De Cocina Smartbuy Negro 3 Vel 60 Cm | 2 | 182844.44 | 324999.01 | desde |
 | 80 | Máquina para hacer donas Suono de 1200 W | Máquina Donas Suono Mini Donut Maker 7 Unidades Mini Donas A | 3 | 42999 | 56279 | desde |
 | 81 | Calefón a gas Escorial de 14 litros por minuto | Calefon Escorial 14 Lts Tiro Natural Automático Sin Piloto!  | 3 | 300000 |  | desde |
@@ -112,17 +112,17 @@
 | 107 | Tostadora Suono negra de diseño retro con 7 niveles | Tostadora Suono 850w 2 Panes Negra 7 Niveles Descongelar Neg | 4 | 41499 | 69999 | desde |
 | 108 | Dispensador eléctrico de agua para bidón con batería re | Dispenser De Agua Automatico Bomba Dispensador Bidones Usb B | 2 | 5958 |  | desde |
 | 109 | Máquina manual para hacer pasta con 6 niveles de espeso | Fábrica De Pastas Smart-tek Bella Pasta Acero Inox Maquina F | 2 | 59900 | 83503.82 | desde |
-| 110 | Vinoteca compacta para 6 botellas con control táctil | SIN PRECIO: el link terminó en una página sin ID de publicación (estado 200) | | | | |
+| 110 | Vinoteca compacta para 6 botellas con control táctil | Cava De Vinos Ziyen Capacidad 6 Botellas Refrigeración Ilumi | 1 | 176582 |  | desde |
 | 111 | Sandwichera y wafflera con placas intercambiables | Sandwichera Eléctrica Baza 3 En 1 Waflera Grill Parrilla Pla | 3 | 53340.3 | 69990 | desde |
 | 112 | Picadora de carne eléctrica de 400 W con accesorios par | Picadora de Carne Cuk By Gadnic P90 Eléctrica Potencia Nomin | 3 | 107390 |  | desde |
 | 113 | Pochoclera Ultracomb PO 2703 roja | Ultracomb Po2703 Pochoclera Realiza Dulce O Salados - Rojo B | 2 | 69999 | 99999 | desde |
 | 114 | Secarropas centrífugo Codini de 5,5 kg y 2800 rpm | Secarropas Codini Advance Ad55 - 5.5kg Blanco | 2 | 193999.03 | 299999 | desde |
-| 115 | Secador de pelo Remington rojo con difusor | Remington Secadora De Cabello Ac Silk Ac9096 Color Bordó | 1 | 108000 |  | desde |
+| 115 | Secador de pelo Remington rojo con difusor | Remington Secadora De Cabello Ac Silk Ac9096 Color Bordó | 1 | 84799 |  | desde |
 | 116 | Cafetera de filtro Smartlife con pantalla digital | Cafetera De Filtro Smartlife Digital 1520 | 4 | 79999 | 119999 | desde |
 | 117 | Freidora de aire Novohome de 10 litros con ventana | Freidora De Aire Novohome 10 Lts AirFryer Pantalla Display T | 3 | 144790 | 209990 | desde |
 | 118 | Purificador de agua sobre mesada dvigi Compact | Purificador de Agua Dvigi Compact de Red Elimina Cloro | 4 | 92299 | 119119 | desde |
 | 119 | Calefactor de pared blanco y negro | Calefactor Convector Longvie Eca5s 5200 Kcal Recta Tiza/blan | 2 | 313038 | 373140.43 | desde |
-| 120 | Robot aspirador Fika ultra delgado con control remoto | Aspiradora Robot Trapeadora Fika Limpieza SENSE Antichoque C | 2 | 157139.03 | 249371.7 | desde |
+| 120 | Robot aspirador Fika ultra delgado con control remoto | Aspiradora Robot Trapeadora Fika Limpieza SENSE Antichoque C | 2 | 149999 | 249999 | desde |
 | 121 | Set de secador y planchita Ultracomb Devotion rosa | Set Devotion Secador De Pelo + Planchita Ceramica 2200w Ultr | 5 | 60694.04 | 194210.04 | desde |
 | 122 | Microondas BGH Quick Chef de 20 litros digital | Microondas Bgh 20l Digital Eco B120db20 | 3 | 180000 |  | desde |
 | 123 | Cafetera de filtro Atma blanca con filtro permanente | Cafetera Atma Semi Automática de Filtro 1,25 Lts Ca8133p Col | 3 | 47830.51 |  | desde |
