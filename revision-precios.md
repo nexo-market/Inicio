@@ -47,7 +47,7 @@
 | 42 | Practicuna plegable gris con colchón y mosquitero | Cuna Colecho Bebé Cosco Kids Con Mosquitero Y Cambiador Gris | 2 | 156824 | 289990 | desde |
 | 43 | Cuna de madera blanca para bebé | SIN PRECIO: DUPLICADO, apunta a la misma publicación que #47 ("Cuna Colecho Evolutiva 6en1 | Con Colchó") | | | | |
 | 44 | Sillón de apoyo para bebé con peluche | SIN PRECIO: parece otro producto: en Mercado Libre se llama "Silla Mecedora Mega Baby 27267 18 Kg Vibración Y Música Color Gris" | | | | |
-| 45 | Silla de comer para bebé 3 en 1 verde agua | Silla Comer Bebe Avanti Lyra 3 - 1 Convertible Booster Patas | 3 | 79999 | 107690.77 | desde |
+| 45 | Silla de comer para bebé 3 en 1 verde agua | Mega Baby Doha Silla Bebé 3 en 1 Convertible Booster Silla C | 2 | 53460.75 | 62895 | desde |
 | 46 | Alfombra inflable de agua para bebé con diseño marino | Alfombra Sensorial Inflable Con Aire Y Agua 4230 Bebé Love P | 4 | 7023 |  | desde |
 | 47 | Cuna blanca con ruedas y colchón estampado | Cuna Colecho Evolutiva 6en1 / Con Colchón Y Ruedas Con Freno | 3 | 180215.94 | 206500 | desde |
 | 48 | Almohada de embarazo en forma de U | Almohada embarazada Mtl ergonómica suave antialérgica rellen | 1 | 54990 | 71414.29 | desde |
@@ -58,7 +58,7 @@
 | 53 | Colchón para cuna con funda estampada | Colchon Cuna Suavestar 140x80x10 Color Estampado | 2 | 93673.8 | 98623.8 | desde |
 | 54 | Colchón blanco para cuna con funda acolchada y cierre | Colchón Impermeable Para Practicuna 104x70x9cm Blanco | 2 | 89999 |  | desde |
 | 55 | Mamadera Philips Avent Natural Response de 125 ml | Mamadera Avent Philips Natural Response 125ml 0m+ Color Blan | 5 | 31999 |  | desde |
-| 56 | Gimnasio de actividades con piano y arco de juguetes | Gimnasio Bebé Interactivo Musical Con Piano Animales 4035 Co | 2 | 85656 | 99600 | desde |
+| 56 | Gimnasio de actividades con piano y arco de juguetes | Colchoneta Para Bebe Gadnic Gimnasio Musical 0-36 Meses Pian | 4 | 31999 | 49999 | desde |
 | 57 | Balanza digital Femmto con Bluetooth y pantalla LED | Balanza Digital Con Bluetooth Personal De Baño Peso Corporal | 4 | 19999 | 27999 | desde |
 | 58 | Planchita de pelo GAMA Bella Tourmaline Red Ion | Planchita De Pelo GA.MA Italy Elegance Bella Tourmaline Ion  | 5 | 59404 | 155670.7 | desde |
 | 59 | Robot de limpieza Sansei que aspira y trapea | Aspiradora Robot Sansei Rvcs23pi 5 modos de limpieza Sensor  | 3 | 128399 | 199999 | desde |
@@ -98,7 +98,7 @@
 | 93 | Purificador de agua de mesada con canilla, filtro y acc | SIN PRECIO: DUPLICADO, apunta a la misma publicación que #69 ("Purificador De Agua Hidrolit Senic Out C") | | | | |
 | 94 | Estufa halógena Kanji Home de tres velas | Estufa halogena 3 velas Kanji KJH-305 Color Gris oscuro | 4 | 41489.02 |  | desde |
 | 95 | Freidora de aire Novohome de 7 litros con ventana | Freidora De Aire Novohome 7 Litros Panel Pantalla Digital Ta | 5 | 119990 | 179990 | desde |
-| 96 | Minipimer con picadora, batidor y vaso | Mixer Licuadora De Mano Yelmo Lm-1555 Bowl Picador + Vaso Co | 1 | 62000 |  | desde |
+| 96 | Minipimer con picadora, batidor y vaso | Mixer Licuadora De Mano Yelmo Lm-1555 Bowl Picador + Vaso Co | 1 | 83999 | 99999 | desde |
 | 97 | Freidora eléctrica Novohome de 6 litros y 2500 W | Freidora Eléctrica De Aceite 6 Litros Novohome 2500 W Acero  | 5 | 86990 | 119990 | desde |
 | 98 | Batidora de mano Daewoo con batidores y ganchos | Batidora De Mano Daewoo Dhm208 Blanca 250w 5 Velocidades Col | 3 | 49900 |  | desde |
 | 99 | Plancha a vapor Ultracomb PL 4180 negra y violeta | Plancha A Vapor Ultracomb 2250w Pl-4180 Color Negro/Violeta  | 5 | 51499 |  | desde |
