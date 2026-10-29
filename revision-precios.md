@@ -27,10 +27,10 @@
 | 22 | Control Pro de Nintendo Switch 2 | Control Nintendo Switch 2 Pro Controller | 4 | 224500 |  | desde |
 | 23 | Joystick con cable Redragon | Joystick Redragon Saturn G807 Negro | 2 | 39175.6 |  | desde |
 | 24 | Joystick Redragon estilo PlayStation con panel táctil y | Joystick Gamepad Redragon Juno G818 Usb Wireless Para PS4 PC | 2 | 69990 |  | desde |
-| 25 | Joystick negro estilo PlayStation 4 con cable USB | Joystick inalámbrico genérico compatible con PlayStation 4 N | 3 | 24281 |  | desde |
+| 25 | Joystick negro estilo PlayStation 4 con cable USB | Joystick inalámbrico genérico compatible con PlayStation 4 N | 3 | 23264.96 | 25288 | desde |
 | 26 | Joystick blanco estilo PlayStation 4 con panel táctil | Joystick inalámbrico compatible con ps4 blanco | 2 | 23761 |  | desde |
 | 27 | Silla gamer Cougar negra con costuras en rombos | Silla Gamer Cougar Fusion Ex Respaldo Reclinable Tela Negro | 3 | 319899 | 399999 | desde |
-| 28 | Nintendo Switch OLED blanca con Super Mario Bros. Wonde | Nintendo Switch OLED + Super Mario Bros. Wonder | 7 | 924999 |  | desde |
+| 28 | Nintendo Switch OLED blanca con Super Mario Bros. Wonde | Nintendo Switch OLED + Super Mario Bros. Wonder | 7 | 920350 |  | desde |
 | 29 | Butaca de auto con arnés de 5 puntos y conversión a boo | Booster Auto Bebe Mega Baby Silverstone 3 En 1 De 9 A 36 Kg  | 2 | 120398.25 | 141649 | desde |
 | 30 | Corralito para bebé Belluno Trapani gris | Corralito Juegos Bebé Portable 180x120 Trapani Belluno Baby  | 5 | 179991 | 199990 | desde |
 | 31 | Arco de juguetes para cochecito Huanger | Cunero Huanger Didactico Soporte Universal Sonajero Colgante | 1 | 26685.75 | 31396 | desde |
@@ -43,29 +43,29 @@
 | 38 | Cuna colecho Estrella Mega Baby con ruedas, canasto y m | Cuna De Bebé Estrella Mega Baby De Madera Eléctrica Mecedora | 4 | 226633 |  | desde |
 | 39 | Juego de pesca y torres de encastre 2 en 1 Cracovia | Juego Pesca + 4 Torres Encastre Madera Didactico Iman Peces  | 5 | 17499.3 | 24999 | desde |
 | 40 | Cochecito de paseo con baranda rebatible | Cochecito Cuna Bebé Avanti Manija Baranda Rebatible Apto 0+  | 3 | 169999 | 199999 | desde |
-| 41 | Bañera plegable para bebé de 25 litros | La Bañera Plegable Para Bebés,la Bañera De Bebé Pvc Plegable | 3 | 66451.63 |  | desde |
+| 41 | Bañera plegable para bebé de 25 litros | La Bañera Plegable Para Bebés,la Bañera De Bebé Pvc Plegable | 3 | 75016.73 |  | desde |
 | 42 | Practicuna plegable gris con colchón y mosquitero | Cuna Colecho Bebé Cosco Kids Con Mosquitero Y Cambiador Gris | 2 | 156824 | 289990 | desde |
 | 43 | Cuna de madera blanca para bebé | SIN PRECIO: DUPLICADO, apunta a la misma publicación que #47 ("Cuna Colecho Evolutiva 6en1 | Con Colchó") | | | | |
 | 44 | Sillón de apoyo para bebé con peluche | SIN PRECIO: parece otro producto: en Mercado Libre se llama "Kyw Baby Sofa Chair Learn To Sit Leather Cover Ki A Abeja" | | | | |
 | 45 | Silla de comer para bebé 3 en 1 verde agua | Silla Comer Bebé Avanti 3-1 Alta Baja Booster Doble Bandeja  | 4 | 70199.22 | 89999 | desde |
 | 46 | Alfombra inflable de agua para bebé con diseño marino | Alfombra Sensorial Inflable Con Aire Y Agua 4230 Bebé Love P | 4 | 7023 |  | desde |
 | 47 | Cuna blanca con ruedas y colchón estampado | Cuna Colecho Evolutiva 6en1 / Con Colchón Y Ruedas Con Freno | 3 | 180215.94 | 206500 | desde |
-| 48 | Almohada de embarazo en forma de U | Almohadon Embarazo Lactancia Tusor Vellon Siliconado Color A | 1 | 31340.5 | 32990 | desde |
+| 48 | Almohada de embarazo en forma de U | SIN PRECIO: parece otro producto: en Mercado Libre se llama "Almohadón De Amamantar Carestino Greige" | | | | |
 | 49 | Butaca de auto Mega Baby gris con arnés de 5 puntos | Butaca Bebe Auto Avanti Isofix Volte 0-36 Kg Base Gira 360 C | 3 | 244999 | 329999 | desde |
 | 50 | Butaca de auto Mega Baby Ayrton negra | Butaca Auto Bebé Last Ayrton Mega Baby Convertible 0-25 Kg | 5 | 160560.75 | 188900 | desde |
-| 51 | Butaca de auto Mega Baby Daytona negra con conversión a | SIN PRECIO: el link terminó en una página sin ID de publicación (estado 200) | | | | |
+| 51 | Butaca de auto Mega Baby Daytona negra con conversión a | Butaca Booster Auto Bebé Mega Baby Daytona I-size 9 A 36 Kg  | 6 | 146894.99 |  | desde |
 | 52 | Andador para bebé rosa con manija de empuje | Andador Bebé Priori Bw6078 Con Luces Y Música Con Manija Col | 4 | 57645 |  | desde |
 | 53 | Colchón para cuna con funda estampada | Colchon Cuna Suavestar 140x80x10 Color Estampado | 2 | 93673.8 | 98623.8 | desde |
 | 54 | Colchón blanco para cuna con funda acolchada y cierre | Colchón Impermeable Para Practicuna 104x70x9cm Blanco | 2 | 89999 |  | desde |
 | 55 | Mamadera Philips Avent Natural Response de 125 ml | Mamadera Avent Philips Natural Response 125ml 0m+ Color Blan | 5 | 31999 |  | desde |
 | 56 | Gimnasio de actividades con piano y arco de juguetes | Colchoneta Para Bebe Gadnic Gimnasio Musical 0-36 Meses Pian | 4 | 31999 | 49999 | desde |
-| 57 | Balanza digital Femmto con Bluetooth y pantalla LED | Balanza Digital Con Bluetooth Personal De Baño Peso Corporal | 4 | 19999 | 27999 | desde |
+| 57 | Balanza digital Femmto con Bluetooth y pantalla LED | Balanza Digital Con Bluetooth Personal De Baño Peso Corporal | 4 | 19998 | 27999 | desde |
 | 58 | Planchita de pelo GAMA Bella Tourmaline Red Ion | Planchita De Pelo GA.MA Italy Elegance Bella Tourmaline Ion  | 5 | 62284 | 66912 | desde |
 | 59 | Robot de limpieza Sansei que aspira y trapea | Aspiradora Robot Sansei Rvcs23pi 5 modos de limpieza Sensor  | 3 | 128399 | 199999 | desde |
 | 60 | Aspiradora de mano Yelmo con accesorios | Yelmo As-3240 Aspiradora Para Auto Recargable Usb Color Gris | 2 | 36567.03 |  | desde |
 | 61 | Secador de pelo Ultracomb de 2200 W con función Cool Sh | Secador De Pelo Ultracomb Tourmaline Ion Pro Sc-4606 Negro 3 | 5 | 43999 | 49999 | desde |
 | 62 | Aire acondicionado split Philco Inverter Eco Plus de 37 | Aire Acondicionado Split Inverter Frio Calor Philco 3225 Fg  | 6 | 764999.15 | 899999 | desde |
-| 63 | Pava eléctrica Novohome de 2,2 litros con display tácti | Pava Eléctrica Digital Novohome 2 Litros Pantalla Tactil Col | 5 | 56643.3 |  | desde |
+| 63 | Pava eléctrica Novohome de 2,2 litros con display tácti | Pava Eléctrica Digital Novohome 2 Litros Pantalla Tactil Col | 5 | 56700 |  | desde |
 | 64 | Caloventor Aitech portátil con dos perillas | Caloventor Electrico 2000w Termoventilador 2 Velocidades Est | 2 | 44500 |  | desde |
 | 65 | Termotanque a gas Señorial Zafiro de 85 litros | Termotanque Multigas Señorial TSZP1-85 Zafiro Color Blanco | 3 | 380392 |  | desde |
 | 66 | Microondas Aiwa blanco con panel digital | Microondas Aiwa Cook 700w 20l 10 Niveles Cocción Panel Touch | 3 | 185000 |  | desde |
@@ -88,19 +88,19 @@
 | 83 | Molinillo de café Yelmo MO 7100 | Molinillo de café semillas y especias Yelmo Mo-7100 150w Alu | 4 | 25299 |  | desde |
 | 84 | Exprimidor eléctrico de cítricos Enova | Exprimidor Eléctrico Enova 700cm3 40w Negro Pequeños Electro | 3 | 23999 | 25999 | desde |
 | 85 | Robot aspirador y trapeador con control por voz y app | Aspiradora Robot Trapeadora Gadnic Navegacion Laser Lds Mape | 2 | 329999 |  | desde |
-| 86 | Pava eléctrica Codini de 1,8 litros en acero inoxidable | Pava Eléctrica Hervidora Acero Inoxidable 1.8 Lts Codini - P | 5 | 20919.66 |  | desde |
+| 86 | Pava eléctrica Codini de 1,8 litros en acero inoxidable | Pava Eléctrica Hervidora Acero Inoxidable 1.8 Lts Codini - P | 5 | 19299 | 44999 | desde |
 | 87 | Nebulizador portátil mesh SAN-UP VitaAir | Nebulizador Mesh San-Up VitalAir 8ml Silencioso Portátil USB | 4 | 89999 | 155199 | desde |
 | 88 | Secador de pelo Ultracomb SC 4606 con turmalina e ión | SIN PRECIO: DUPLICADO, apunta a la misma publicación que #61 ("Secador De Pelo Ultracomb Tourmaline Ion") | | | | |
 | 89 | Aire acondicionado split Philco de 5200 W | Aire Acondicionado Split Frio/Calor Philco PHS50HA4CN 4472 F | 5 | 893838.9 | 1258002.58 | desde |
 | 90 | Tendedero plegable con funda transparente para lavarrop | SIN PRECIO: parece otro producto: en Mercado Libre se llama "Secarropas Por Calor Axel Ax-3000 Con Sistema Anti-arrugas Blanco" | | | | |
-| 91 | Lavarropas automático Philco de 5 kg con carga superior | Lavarropas Philco 5kg Carga Superior Gris 700 RPM | 4 | 419999 |  | desde |
+| 91 | Lavarropas automático Philco de 5 kg con carga superior | Lavarropas Philco 5kg Carga Superior Gris 700 RPM | 4 | 409653.04 | 419999 | desde |
 | 92 | Termotanque eléctrico ExaHome de 40 litros | Termotanque Exahome Electrico 40 Litros Carga Inferior 1500w | 4 | 273530.88 | 429990 | desde |
 | 93 | Purificador de agua de mesada con canilla, filtro y acc | SIN PRECIO: DUPLICADO, apunta a la misma publicación que #69 ("Purificador De Agua Hidrolit Senic Out C") | | | | |
 | 94 | Estufa halógena Kanji Home de tres velas | Estufa halogena 3 velas Kanji KJH-305 Color Gris oscuro | 4 | 41489.02 |  | desde |
 | 95 | Freidora de aire Novohome de 7 litros con ventana | Freidora De Aire Novohome 7 Litros Panel Pantalla Digital Ta | 5 | 119990 | 179990 | desde |
-| 96 | Minipimer con picadora, batidor y vaso | Mixer Licuadora De Mano Yelmo Lm-1555 Bowl Picador + Vaso Co | 1 | 83999 | 99999 | desde |
+| 96 | Minipimer con picadora, batidor y vaso | Mixer Licuadora De Mano Yelmo Lm-1555 Bowl Picador + Vaso Co | 1 | 82500 | 150000 | desde |
 | 97 | Freidora eléctrica Novohome de 6 litros y 2500 W | Freidora Eléctrica De Aceite 6 Litros Novohome 2500 W Acero  | 5 | 86990 | 119990 | desde |
-| 98 | Batidora de mano Daewoo con batidores y ganchos | Batidora De Mano Daewoo Dhm208 Blanca 250w 5 Velocidades Col | 3 | 49900 |  | desde |
+| 98 | Batidora de mano Daewoo con batidores y ganchos | Batidora De Mano Daewoo Dhm208 Blanca 250w 5 Velocidades Col | 3 | 64290 |  | desde |
 | 99 | Plancha a vapor Ultracomb PL 4180 negra y violeta | Plancha A Vapor Ultracomb 2250w Pl-4180 Color Negro/Violeta  | 5 | 51499 |  | desde |
 | 100 | Balanza de cocina digital Cook by Spica de acero inoxid | Balanza Digital De Cocina 10kg SPICA BAL-154 Electronica Col | 4 | 24299 | 56499 | desde |
 | 101 | Cocina a gas Escorial negra de 4 hornallas con horno | Cocina Negra Escorial Candor S2 Black 4 Hornallas Visor Y Pa | 5 | 329535.29 |  | desde |
