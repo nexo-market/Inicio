@@ -40,7 +40,7 @@
 | 35 | Puerta de seguridad retráctil MAWE para bebés y mascota | Puerta de Seguridad Retráctil Mawe Gate 140 Con Bloqueo | 4 | 60741.24 | 119649 | desde |
 | 36 | Alfombra antigolpes reversible Mega Baby con bolso | Alfombra Antigolpes para Bebé ZULEIKA Sofprot, Reversible y  | 3 | 39999 |  | desde |
 | 37 | Corralito hexagonal MAWE con 10 pelotas de colores | Corralito Plegable Bebe Hexagonal Mawe By Gadnic Tela Oxford | 3 | 57813.05 | 126099 | desde |
-| 38 | Cuna colecho Estrella Mega Baby con ruedas, canasto y m | Cuna De Bebé Estrella Mega Baby De Madera Eléctrica Mecedora | 4 | 226633 |  | desde |
+| 38 | Cuna colecho Estrella Mega Baby con ruedas, canasto y m | Cuna De Bebé Estrella Mega Baby De Madera Eléctrica Mecedora | 4 | 209653.35 | 246651 | desde |
 | 39 | Juego de pesca y torres de encastre 2 en 1 Cracovia | Juego Pesca + 4 Torres Encastre Madera Didactico Iman Peces  | 5 | 17499.3 | 24999 | desde |
 | 40 | Cochecito de paseo con baranda rebatible | Cochecito Cuna Bebé Avanti Manija Baranda Rebatible Apto 0+  | 3 | 169999 | 199999 | desde |
 | 41 | Bañera plegable para bebé de 25 litros | La Bañera Plegable Para Bebés,la Bañera De Bebé Pvc Plegable | 3 | 75016.73 |  | desde |
@@ -54,10 +54,10 @@
 | 49 | Butaca de auto Mega Baby gris con arnés de 5 puntos | Butaca Bebe Auto Avanti Isofix Volte 0-36 Kg Base Gira 360 C | 3 | 244999 | 329999 | desde |
 | 50 | Butaca de auto Mega Baby Ayrton negra | Butaca Auto Bebé Last Ayrton Mega Baby Convertible 0-25 Kg | 5 | 160560.75 | 188900 | desde |
 | 51 | Butaca de auto Mega Baby Daytona negra con conversión a | Butaca Booster Auto Bebé Mega Baby Daytona I-size 9 A 36 Kg  | 6 | 146894.99 |  | desde |
-| 52 | Andador para bebé rosa con manija de empuje | Andador Bebé Priori Bw6078 Con Luces Y Música Con Manija Col | 4 | 57645 |  | desde |
+| 52 | Andador para bebé rosa con manija de empuje | SIN PRECIO: el link terminó en una página sin ID de publicación (estado 200) | | | | |
 | 53 | Colchón para cuna con funda estampada | Colchon Cuna Suavestar 140x80x10 Color Estampado | 2 | 93673.8 | 98623.8 | desde |
 | 54 | Colchón blanco para cuna con funda acolchada y cierre | Colchón Impermeable Para Practicuna 104x70x9cm Blanco | 2 | 89999 |  | desde |
-| 55 | Mamadera Philips Avent Natural Response de 125 ml | Mamadera Avent Philips Natural Response 125ml 0m+ Color Blan | 5 | 31999 |  | desde |
+| 55 | Mamadera Philips Avent Natural Response de 125 ml | Mamadera Avent Philips Natural Response 125ml 0m+ Color Blan | 5 | 28590 | 36329 | desde |
 | 56 | Gimnasio de actividades con piano y arco de juguetes | Colchoneta Para Bebe Gadnic Gimnasio Musical 0-36 Meses Pian | 4 | 31999 | 49999 | desde |
 | 57 | Balanza digital Femmto con Bluetooth y pantalla LED | Balanza Digital Con Bluetooth Personal De Baño Peso Corporal | 4 | 19998 | 27999 | desde |
 | 58 | Planchita de pelo GAMA Bella Tourmaline Red Ion | Planchita De Pelo GA.MA Italy Elegance Bella Tourmaline Ion  | 5 | 62800 |  | desde |
@@ -71,10 +71,10 @@
 | 66 | Microondas Aiwa blanco con panel digital | Microondas Aiwa Cook 700w 20l 10 Niveles Cocción Panel Touch | 3 | 185000 |  | desde |
 | 67 | Buclera de 3 tubos VGR V-599 | Buclera Rizador 3 Barriles Ceramica Vgr V-599 Triple Ondas 2 | 3 | 61890 | 75853.33 | desde |
 | 68 | Secarropas centrífugo Codini de 6,5 kg y 2800 rpm | Secarropas Codini Innova 6.5kgs Tambor Acero Inox. 2800rpms  | 2 | 239999 | 299999 | desde |
-| 69 | Purificador de agua Hidrolit Senic Out Classic con cani | Purificador De Agua Hidrolit Senic Out Classic - Blanco | 6 | 193428 | 322380 | desde |
+| 69 | Purificador de agua Hidrolit Senic Out Classic con cani | Purificador De Agua Hidrolit Senic Out Classic - Blanco | 6 | 170861.4 | 322380 | desde |
 | 70 | Plancha a vapor Ultracomb PL 4170 violeta | Plancha Vapor Ultracomb 1400w Antiadherente Rociador Pl4170  | 4 | 30000 |  | desde |
 | 71 | Secador de pelo y planchita Ditron rosa con difusor | Set Planchita Cerámica Secador Pelo 2200W Ditron SK-SET1 Tec | 4 | 71731.5 | 181414 | desde |
-| 72 | Máquina de coser portátil Smart Tech blanca y rosa | Maquina De Coser Portatil Electrica Hogar 12 Puntadas Pedal  | 3 | 61500 |  | desde |
+| 72 | Máquina de coser portátil Smart Tech blanca y rosa | Maquina De Coser Portatil Electrica Hogar 12 Puntadas Pedal  | 3 | 63999 | 79999 | desde |
 | 73 | Picadora eléctrica Lüsqtoff de 2 litros | Picadora Lusqtoff 650w 2000ml Procesadora Bowl Acero Inox. C | 2 | 60939.62 | 99999 | desde |
 | 74 | Deshumidificador Seklou con temporizador y bloqueo infa | Potente Deshumidificador Seklou extrae Humedad 35m con Compr | 2 | 694222.38 | 977778 | desde |
 | 75 | Anafe eléctrico Spica de 2 hornallas y 2000 W | Anafe Electrico Cocina Spica Sp-1040 Doble Hornalla 5 Veloci | 3 | 32999 | 89999 | desde |
@@ -82,13 +82,13 @@
 | 77 | Freezer horizontal blanco con función dual heladera y f | Freezer Horizontal Gafa Doble Función 96l Canasto Plástico F | 3 | 415811.51 |  | desde |
 | 78 | Máquina de pasta con raviolera Zego de acero inoxidable | SIN PRECIO: el link terminó en una página sin ID de publicación (estado 200) | | | | |
 | 79 | Campana de cocina Smartbuy CE-D660N-CL negra | Extractor Purificador De Cocina Smartbuy Negro 3 Vel 60 Cm | 2 | 182844.44 | 324999.01 | desde |
-| 80 | Máquina para hacer donas Suono de 1200 W | Máquina Donas Suono Mini Donut Maker 7 Unidades Mini Donas A | 3 | 42999 | 56279 | desde |
+| 80 | Máquina para hacer donas Suono de 1200 W | Máquina Donas Suono Mini Donut Maker 7 Unidades Mini Donas A | 3 | 43000 |  | desde |
 | 81 | Calefón a gas Escorial de 14 litros por minuto | Calefon Escorial 14 Lts Tiro Natural Automático Sin Piloto!  | 3 | 300000 |  | desde |
 | 82 | Sandwichera Ultracomb SW 2801 con placas intercambiable | Sandwichera 3 En 1 Marca Ultracomb Modelo Sw-2801 - Negro Wa | 3 | 59000 |  | desde |
 | 83 | Molinillo de café Yelmo MO 7100 | Molinillo de café semillas y especias Yelmo Mo-7100 150w Alu | 4 | 24990 | 28990 | desde |
-| 84 | Exprimidor eléctrico de cítricos Enova | Exprimidor Eléctrico Enova 700cm3 40w Negro Pequeños Electro | 3 | 23999 | 25999 | desde |
+| 84 | Exprimidor eléctrico de cítricos Enova | Exprimidor Eléctrico Enova 700cm3 40w Negro Pequeños Electro | 3 | 21999 | 31498 | desde |
 | 85 | Robot aspirador y trapeador con control por voz y app | Aspiradora Robot Trapeadora Gadnic Navegacion Laser Lds Mape | 2 | 329999 |  | desde |
-| 86 | Pava eléctrica Codini de 1,8 litros en acero inoxidable | Pava Eléctrica Hervidora Acero Inoxidable 1.8 Lts Codini - P | 5 | 19299 | 44999 | desde |
+| 86 | Pava eléctrica Codini de 1,8 litros en acero inoxidable | Pava Eléctrica Hervidora Acero Inoxidable 1.8 Lts Codini - P | 5 | 20919.66 |  | desde |
 | 87 | Nebulizador portátil mesh SAN-UP VitaAir | Nebulizador Mesh San-Up VitalAir 8ml Silencioso Portátil USB | 4 | 89999 | 155199 | desde |
 | 88 | Secador de pelo Ultracomb SC 4606 con turmalina e ión | SIN PRECIO: DUPLICADO, apunta a la misma publicación que #61 ("Secador De Pelo Ultracomb Tourmaline Ion") | | | | |
 | 89 | Aire acondicionado split Philco de 5200 W | Aire Acondicionado Split Frio/Calor Philco PHS50HA4CN 4472 F | 5 | 893838.9 | 1258002.58 | desde |
