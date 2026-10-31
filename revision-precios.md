@@ -50,7 +50,7 @@
 | 45 | Silla de comer para bebé 3 en 1 verde agua | Mega Baby Doha Silla Bebé 3 en 1 Convertible Booster Silla C | 2 | 53460.75 | 62895 | desde |
 | 46 | Alfombra inflable de agua para bebé con diseño marino | Alfombra Sensorial Inflable Con Aire Y Agua 4230 Bebé Love P | 4 | 7023 |  | desde |
 | 47 | Cuna blanca con ruedas y colchón estampado | Cuna Colecho Evolutiva 6en1 / Con Colchón Y Ruedas Con Freno | 3 | 180215.94 | 206500 | desde |
-| 48 | Almohada de embarazo en forma de U | SIN PRECIO: parece otro producto: en Mercado Libre se llama "Almohadón De Amamantar Carestino Greige" | | | | |
+| 48 | Almohada de embarazo en forma de U | Almohada embarazada Mtl ergonómica suave antialérgica rellen | 1 | 54990 | 71414.29 | desde |
 | 49 | Butaca de auto Mega Baby gris con arnés de 5 puntos | Butaca Bebe Auto Avanti Isofix Volte 0-36 Kg Base Gira 360 C | 3 | 244999 | 329999 | desde |
 | 50 | Butaca de auto Mega Baby Ayrton negra | Butaca Auto Bebé Last Ayrton Mega Baby Convertible 0-25 Kg | 5 | 155743.93 | 188895.01 | desde |
 | 51 | Butaca de auto Mega Baby Daytona negra con conversión a | Butaca Booster Auto Bebé Mega Baby Daytona I-size 9 A 36 Kg  | 6 | 121114.92 | 146894.99 | desde |
