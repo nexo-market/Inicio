@@ -1,51 +1,51 @@
 {
- "updated": "2026-11-02T00:32:33.091Z",
+ "updated": "2026-11-02T04:47:33.628Z",
  "items": {
   "1": {
    "titulo": "Mecedora Mega Baby con arco de juguetes y estrellas",
-   "price": 84698,
-   "old": 140000,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "price": 80463.34,
+   "old": 99645.32,
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Silla Mecedora Mega Baby 27267 18 Kg Vibración Y Música Color Gris",
    "desde": true
   },
   "2": {
    "titulo": "Control inalámbrico DualSense para PlayStation 5, negro",
-   "price": 137520.15,
+   "price": 114999,
    "old": 0,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Sony PlayStation DualSense Joystick inalámbrico black PS5",
    "desde": true
   },
   "3": {
    "titulo": "Cinta de correr Randers con monitor y altavoz Bluetooth",
-   "price": 650643.99,
+   "price": 589166.25,
    "old": 988900,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Randers Arg-409 Cinta Motorizada 12km/h Color Negro",
    "desde": true
   },
   "4": {
    "titulo": "Bicicleta fija de spinning Sölperk",
-   "price": 444000,
+   "price": 336000,
    "old": 600000,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Bicicleta Fija Spinning Profesional Gym 8 Niveles 28 Kgs con App Bluetooth",
    "desde": true
   },
   "5": {
    "titulo": "Kit de mancuernas con conversor a barra, hasta 45 kg",
-   "price": 79989,
+   "price": 76789,
    "old": 211978,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Kit Mancuernas Y Barra Con Tope A Rosca 25 Kg Discos Pvc",
    "desde": true
   },
   "6": {
    "titulo": "Barra de dominadas para marco de puerta",
-   "price": 37380,
-   "old": 0,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "price": 36258,
+   "old": 37380,
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Barra Dominadas Puerta Extensible 60-100cm Reforzada 130kg Profesional Gimnasio En Casa Fi",
    "desde": true
   },
@@ -63,9 +63,9 @@
   },
   "9": {
    "titulo": "Multigimnasio Randers con estación Scott y 45 kg de carga",
-   "price": 686614.02,
+   "price": 568758.35,
    "old": 962403,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Multigimnasio Multigym Randers Arg-63120 Reforzado 45 Kg Color de la estructura Negro",
    "desde": true
   },
@@ -73,23 +73,23 @@
    "titulo": "Guantes de boxeo Pulse Series negros",
    "price": 54999,
    "old": 89998,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Guantes De Boxeo 14 Oz Profesionales Reforzados Negro",
    "desde": true
   },
   "11": {
    "titulo": "Soga de saltar con rodamientos de alta velocidad",
-   "price": 10999,
+   "price": 10669.03,
    "old": 11999,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Soga Cuerda Salto Saltar 280 Cm Gym Crossfit Boxeo Reforzada Negro Veoquiero",
    "desde": true
   },
   "12": {
    "titulo": "Pelota de esferodinamia 65 cm negra",
-   "price": 6115.15,
+   "price": 5685.16,
    "old": 6437,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Pelota 27 Cm Fitness Pilates Yoga Gmp Negro",
    "desde": true
   },
@@ -107,23 +107,20 @@
    "titulo": "Estación de carga para controles DualSense de PS5",
    "price": 74999,
    "old": 0,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Playstation Cargador DualSense 5",
    "desde": true
   },
   "16": {
    "titulo": "Consola Nintendo Switch 2",
-   "price": 936719.13,
-   "old": 947705.2,
-   "updated": "2026-11-02T00:32:33.091Z",
-   "desde": true,
-   "ml": "Consola Nintendo Switch 2"
+   "price": 0,
+   "old": 0
   },
   "17": {
    "titulo": "Consola PlayStation 5 Slim de 1 TB con Astro Bot y Gran Turismo 7",
    "price": 1800000,
    "old": 0,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Sony Playstation 5 consola Slim Standard + Juego Astro Bot Y Gt7",
    "desde": true
   },
@@ -131,39 +128,39 @@
    "titulo": "Consola PlayStation 5 Slim Digital Edition con control DualSense",
    "price": 1140000,
    "old": 0,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Consola Sony PlayStation 5 Slim Blanco 4K 825 GB Digital",
    "desde": true
   },
   "19": {
    "titulo": "Control DualSense para PlayStation 5, camuflaje gris",
-   "price": 144276.47,
-   "old": 194643.38,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "price": 114999,
+   "old": 0,
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Control inalámbrico DualSense para PS5 Gray Camouflage",
    "desde": true
   },
   "20": {
    "titulo": "Control DualSense para PlayStation 5, blanco perlado",
-   "price": 159999,
+   "price": 124999,
    "old": 0,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Sony PlayStation DualSense Perla Chroma",
    "desde": true
   },
   "21": {
    "titulo": "Control DualSense para PlayStation 5, celeste",
-   "price": 137520.15,
+   "price": 114999,
    "old": 0,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Control Inalambrico Sony DualSense PS5 Color Starlight Blue",
    "desde": true
   },
   "22": {
    "titulo": "Control Pro de Nintendo Switch 2",
-   "price": 228109.9,
+   "price": 224999,
    "old": 0,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Control Nintendo Switch 2 Pro Controller",
    "desde": true
   },
@@ -171,23 +168,23 @@
    "titulo": "Joystick con cable Redragon",
    "price": 37860,
    "old": 50000,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Joystick Redragon Saturn G807 Negro",
    "desde": true
   },
   "24": {
    "titulo": "Joystick Redragon estilo PlayStation con panel táctil y botones con luces",
-   "price": 69990,
-   "old": 0,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "price": 65699.1,
+   "old": 72999,
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Joystick Gamepad Redragon Juno G818 Usb Wireless Para PS4 PC",
    "desde": true
   },
   "25": {
    "titulo": "Joystick negro estilo PlayStation 4 con cable USB",
-   "price": 24040,
+   "price": 23318,
    "old": 26799,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Joystick inalámbrico genérico compatible con PlayStation 4 Negro",
    "desde": true
   },
@@ -195,63 +192,63 @@
    "titulo": "Joystick blanco estilo PlayStation 4 con panel táctil",
    "price": 23761,
    "old": 0,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Joystick inalámbrico compatible con ps4 blanco",
    "desde": true
   },
   "27": {
    "titulo": "Silla gamer Cougar negra con costuras en rombos",
-   "price": 319899,
+   "price": 299899,
    "old": 399999,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Silla Gamer Cougar Fusion Ex Respaldo Reclinable Tela Negro",
    "desde": true
   },
   "28": {
    "titulo": "Nintendo Switch OLED blanca con Super Mario Bros. Wonder",
-   "price": 799999,
-   "old": 0,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "price": 759999,
+   "old": 999999,
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Nintendo Switch OLED + Super Mario Bros. Wonder",
    "desde": true
   },
   "29": {
    "titulo": "Butaca de auto con arnés de 5 puntos y conversión a booster",
-   "price": 120398.25,
+   "price": 108358.43,
    "old": 141645,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Booster Auto Bebe Mega Baby Silverstone 3 En 1 De 9 A 36 Kg Color Negro",
    "desde": true
   },
   "30": {
    "titulo": "Corralito para bebé Belluno Trapani gris",
-   "price": 189990.5,
+   "price": 139993,
    "old": 199990,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Corralito Juegos Bebé Portable 180x120 Trapani Belluno Baby Gris Liso",
    "desde": true
   },
   "31": {
    "titulo": "Arco de juguetes para cochecito Huanger",
-   "price": 26685.75,
+   "price": 24017.17,
    "old": 31395,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Cunero Huanger Didactico Soporte Universal Sonajero Colgante Multicolor Único",
    "desde": true
   },
   "32": {
    "titulo": "Móvil musical para cuna con proyector y control remoto",
-   "price": 44799,
+   "price": 40220.77,
    "old": 80849,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Sonajero Móvil Giratorio Gadnic Musical Proyector Luz Estrellas Rotación 360 Sonajeros Des",
    "desde": true
   },
   "33": {
    "titulo": "Fular portabebé gris",
-   "price": 30029.09,
-   "old": 32999,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "price": 30048.13,
+   "old": 31796.98,
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Fular Prearmado Ergonomico Munami Color Azul Jean Talle M",
    "desde": true
   },
@@ -259,15 +256,15 @@
    "titulo": "Caminador de actividades Huanger con pizarra mágica y piano",
    "price": 32899.33,
    "old": 38705.1,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Andador Huanger Caminador Con Pizarra Actividades Didáctico Celeste",
    "desde": true
   },
   "35": {
    "titulo": "Puerta de seguridad retráctil MAWE para bebés y mascotas",
-   "price": 65749,
+   "price": 58899,
    "old": 123349,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Puerta de Seguridad Retráctil Mawe Gate 140 Con Bloqueo",
    "desde": true
   },
@@ -275,15 +272,15 @@
    "titulo": "Alfombra antigolpes reversible Mega Baby con bolso",
    "price": 42514,
    "old": 0,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Alfombra Anti Golpes Bebes Reversible 200x150 Cm 6006-a - 2 Metros - Bebesit Nordica Nane",
    "desde": true
   },
   "37": {
    "titulo": "Corralito hexagonal MAWE con 10 pelotas de colores",
-   "price": 62849,
-   "old": 126099,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "price": 56299,
+   "old": 122599,
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Corralito Plegable Bebe Hexagonal Mawe By Gadnic Tela Oxford 210d",
    "desde": true
   },
@@ -291,15 +288,15 @@
    "titulo": "Cuna colecho Estrella Mega Baby con ruedas, canasto y mosquitero",
    "price": 209648.25,
    "old": 246645,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Cuna De Bebé Estrella Mega Baby De Madera Eléctrica Mecedora Color Grey Diseño Osito",
    "desde": true
   },
   "39": {
    "titulo": "Juego de pesca y torres de encastre 2 en 1 Cracovia",
-   "price": 17499.3,
+   "price": 16974,
    "old": 24999,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Juego Pesca + 4 Torres Encastre Madera Didactico Iman Peces Color Multicolor Tienda Cracov",
    "desde": true
   },
@@ -307,7 +304,7 @@
    "titulo": "Cochecito de paseo con baranda rebatible",
    "price": 159999,
    "old": 199999,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Cochecito Cuna Bebé Avanti Manija Baranda Rebatible Apto 0+ Color Negro Estructura Negra",
    "desde": true
   },
@@ -315,15 +312,15 @@
    "titulo": "Bañera plegable para bebé de 25 litros",
    "price": 45428.25,
    "old": 53445.01,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Bañera Bebé Ultra Plegable Mega Baby Con Red Acolchonada Color Gris",
    "desde": true
   },
   "42": {
    "titulo": "Practicuna plegable gris con colchón y mosquitero",
-   "price": 164766,
-   "old": 289990,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "price": 159823,
+   "old": 309990,
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Cuna Colecho Bebé Cosco Kids Con Mosquitero Y Cambiador Verde",
    "desde": true
   },
@@ -342,9 +339,9 @@
   },
   "45": {
    "titulo": "Silla de comer para bebé 3 en 1 verde agua",
-   "price": 53460.75,
+   "price": 42768.6,
    "old": 62895,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Mega Baby Doha Silla Bebé 3 en 1 Convertible Booster Silla Convertible Color Rosa",
    "desde": true
   },
@@ -352,7 +349,7 @@
    "titulo": "Alfombra inflable de agua para bebé con diseño marino",
    "price": 7023,
    "old": 0,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Alfombra Sensorial Inflable Con Aire Y Agua 4230 Bebé Love Pez",
    "desde": true
   },
@@ -360,15 +357,15 @@
    "titulo": "Cuna blanca con ruedas y colchón estampado",
    "price": 179853.31,
    "old": 206500,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Cuna Colecho Evolutiva 6en1 | Con Colchón Y Ruedas Con Freno Blanco",
    "desde": true
   },
   "48": {
    "titulo": "Almohada de embarazo en forma de U",
-   "price": 54990,
+   "price": 48489,
    "old": 71414.29,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Almohada embarazada Mtl ergonómica suave antialérgica relleno vellón siliconado extra soft",
    "desde": true
   },
@@ -376,23 +373,23 @@
    "titulo": "Butaca de auto Mega Baby gris con arnés de 5 puntos",
    "price": 244999,
    "old": 329999,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Butaca Bebe Auto Avanti Isofix Volte 0-36 Kg Base Gira 360 Color Gris",
    "desde": true
   },
   "50": {
    "titulo": "Butaca de auto Mega Baby Ayrton negra",
-   "price": 160560.75,
+   "price": 144504.67,
    "old": 188895.01,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Butaca Auto Bebé Last Ayrton Mega Baby Convertible 0-25 Kg",
    "desde": true
   },
   "51": {
    "titulo": "Butaca de auto Mega Baby Daytona negra con conversión a booster",
-   "price": 124860.74,
-   "old": 146894.99,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "price": 117883.24,
+   "old": 184905.82,
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Butaca Booster Auto Bebé Mega Baby Daytona I-size 9 A 36 Kg Color Negro",
    "desde": true
   },
@@ -408,7 +405,7 @@
    "titulo": "Colchón para cuna con funda estampada",
    "price": 93673.8,
    "old": 98604,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Colchon Cuna Suavestar 140x80x10 Color Estampado",
    "desde": true
   },
@@ -416,15 +413,15 @@
    "titulo": "Colchón blanco para cuna con funda acolchada y cierre",
    "price": 89999,
    "old": 0,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Colchón Impermeable Para Practicuna 104x70x9cm Blanco",
    "desde": true
   },
   "55": {
    "titulo": "Mamadera Philips Avent Natural Response de 125 ml",
-   "price": 28590,
+   "price": 27178,
    "old": 36329,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Mamadera Avent Philips Natural Response 125ml 0m+ Color Blanco Liso",
    "desde": true
   },
@@ -432,23 +429,23 @@
    "titulo": "Gimnasio de actividades con piano y arco de juguetes",
    "price": 30399,
    "old": 0,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Gimnasio Piano Musical Huanger Bebé 0-1 Años Luces Sonidos Sonajeros",
    "desde": true
   },
   "57": {
    "titulo": "Balanza digital Femmto con Bluetooth y pantalla LED",
-   "price": 22999,
-   "old": 27999,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "price": 19399,
+   "old": 29999,
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Balanza Digital Con Bluetooth Personal De Baño Peso Corporal 180 Kg Diseño Minimalista Fem",
    "desde": true
   },
   "58": {
    "titulo": "Planchita de pelo GAMA Bella Tourmaline Red Ion",
-   "price": 59900,
-   "old": 0,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "price": 50935,
+   "old": 59900,
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Planchita De Pelo GA.MA Italy Elegance Bella Tourmaline Ion Negra",
    "desde": true
   },
@@ -456,39 +453,39 @@
    "titulo": "Robot de limpieza Sansei que aspira y trapea",
    "price": 279000,
    "old": 0,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Aspiradora Robot Sansei Rvcs23pi 5 modos de limpieza Sensor Antichoque",
    "desde": true
   },
   "60": {
    "titulo": "Aspiradora de mano Yelmo con accesorios",
-   "price": 40227,
-   "old": 0,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "price": 40998.9,
+   "old": 69999,
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Yelmo As-3240 Aspiradora Para Auto Recargable Usb Color Gris",
    "desde": true
   },
   "61": {
    "titulo": "Secador de pelo Ultracomb de 2200 W con función Cool Shot",
-   "price": 43299,
-   "old": 59999,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "price": 41358.44,
+   "old": 73779.83,
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Secador De Pelo Ultracomb Tourmaline Ion Pro Sc-4606 Negro 3 Temperaturas cool shot 1 Boqu",
    "desde": true
   },
   "62": {
    "titulo": "Aire acondicionado split Philco Inverter Eco Plus de 3750 W",
-   "price": 764999.15,
-   "old": 899999,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "price": 724999,
+   "old": 910934.34,
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Aire Acondicionado Split Inverter Frio Calor Philco 3225 Fg / 3750 w",
    "desde": true
   },
   "63": {
    "titulo": "Pava eléctrica Novohome de 2,2 litros con display táctil",
-   "price": 55990,
+   "price": 46299,
    "old": 85990,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Pava Eléctrica Digital Novohome 2 Litros Pantalla Tactil Color Negro Acero Inoxidable Gran",
    "desde": true
   },
@@ -496,15 +493,15 @@
    "titulo": "Caloventor Aitech portátil con dos perillas",
    "price": 44500,
    "old": 0,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Caloventor Electrico 2000w Termoventilador 2 Velocidades Estufa Calefactor Antivuelco Term",
    "desde": true
   },
   "65": {
    "titulo": "Termotanque a gas Señorial Zafiro de 85 litros",
-   "price": 389899,
-   "old": 0,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "price": 350099,
+   "old": 421000,
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Termotanque Multigas Señorial TSZP1-85 Zafiro Color Blanco",
    "desde": true
   },
@@ -512,31 +509,31 @@
    "titulo": "Microondas Aiwa blanco con panel digital",
    "price": 185000,
    "old": 0,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Microondas Aiwa Cook 700w 20l 10 Niveles Cocción Panel Touch",
    "desde": true
   },
   "67": {
    "titulo": "Buclera de 3 tubos VGR V-599",
-   "price": 60033.3,
+   "price": 58333,
    "old": 75853.33,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Buclera Rizador 3 Barriles Ceramica Vgr V-599 Triple Ondas 230° Color Blanco y Rosa",
    "desde": true
   },
   "68": {
    "titulo": "Secarropas centrífugo Codini de 6,5 kg y 2800 rpm",
-   "price": 299999,
-   "old": 0,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "price": 223160.35,
+   "old": 299999,
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Secarropas Codini Innova 6.5kgs Tambor Acero Inox. 2800rpms Color Blanco/Verde",
    "desde": true
   },
   "69": {
    "titulo": "Purificador de agua Hidrolit Senic Out Classic con canilla",
-   "price": 161190,
+   "price": 138623.4,
    "old": 322380,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Purificador De Agua Hidrolit Senic Out Classic - Blanco",
    "desde": true
   },
@@ -544,15 +541,15 @@
    "titulo": "Plancha a vapor Ultracomb PL 4170 violeta",
    "price": 30000,
    "old": 0,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Plancha Vapor Ultracomb 1400w Antiadherente Rociador Pl4170 Color Violeta 220V Vapor Regul",
    "desde": true
   },
   "71": {
    "titulo": "Secador de pelo y planchita Ditron rosa con difusor",
-   "price": 72102.04,
+   "price": 68480,
    "old": 181414,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Set Planchita Cerámica Secador Pelo 2200W Ditron SK-SET1 Tecnología Iónica",
    "desde": true
   },
@@ -560,47 +557,47 @@
    "titulo": "Máquina de coser portátil Smart Tech blanca y rosa",
    "price": 72399,
    "old": 79999,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Maquina De Coser Portatil Electrica Hogar 12 Puntadas Pedal Blanco",
    "desde": true
   },
   "73": {
    "titulo": "Picadora eléctrica Lüsqtoff de 2 litros",
-   "price": 99008,
-   "old": 0,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "price": 59999.4,
+   "old": 99999,
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Picadora Lusqtoff 650w 2000ml Procesadora Bowl Acero Inox. Color Plateado",
    "desde": true
   },
   "74": {
    "titulo": "Deshumidificador Seklou con temporizador y bloqueo infantil",
-   "price": 694222.38,
+   "price": 596444.57,
    "old": 977778,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Potente Deshumidificador Seklou extrae Humedad 35m con Compresor + ionizador + wifi",
    "desde": true
   },
   "75": {
    "titulo": "Anafe eléctrico Spica de 2 hornallas y 2000 W",
-   "price": 32999,
+   "price": 31999,
    "old": 89999,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Anafe Electrico Cocina Spica Sp-1040 Doble Hornalla 5 Velocidades Color Negro",
    "desde": true
   },
   "76": {
    "titulo": "Dispensador eléctrico de agua para bidón Spica recargable",
-   "price": 10399,
+   "price": 10049,
    "old": 29999,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Dispenser De Agua Portatil Usb Bomba SPICA TASR-350 Dispensador Bidones Color Blanco y Neg",
    "desde": true
   },
   "77": {
    "titulo": "Freezer horizontal blanco con función dual heladera y freezer",
-   "price": 402407.77,
-   "old": 415811.51,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "price": 398915,
+   "old": 527666,
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Freezer Horizontal Gafa Doble Función 96l Canasto Plástico Fghf101b-s",
    "desde": true
   },
@@ -614,17 +611,17 @@
   },
   "79": {
    "titulo": "Campana de cocina Smartbuy CE-D660N-CL negra",
-   "price": 188499.42,
-   "old": 324999.01,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "price": 182844,
+   "old": 499999,
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Extractor Purificador De Cocina Smartbuy Negro 3 Vel 60 Cm",
    "desde": true
   },
   "80": {
    "titulo": "Máquina para hacer donas Suono de 1200 W",
-   "price": 45774,
+   "price": 43999,
    "old": 56279,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Máquina Donas Suono Mini Donut Maker 7 Unidades Mini Donas Antiadherente 1200w Color Negro",
    "desde": true
   },
@@ -632,7 +629,7 @@
    "titulo": "Calefón a gas Escorial de 14 litros por minuto",
    "price": 300000,
    "old": 0,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Calefon Escorial 14 Lts Tiro Natural Automático Sin Piloto! Color Blanco Tipo de gas GN",
    "desde": true
   },
@@ -640,7 +637,7 @@
    "titulo": "Sandwichera Ultracomb SW 2801 con placas intercambiables",
    "price": 59000,
    "old": 0,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Sandwichera 3 En 1 Marca Ultracomb Modelo Sw-2801 - Negro Waffle Sandwich",
    "desde": true
   },
@@ -648,23 +645,23 @@
    "titulo": "Molinillo de café Yelmo MO 7100",
    "price": 24490,
    "old": 28990,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Molinillo de café semillas y especias Yelmo Mo-7100 150w Aluminio Gris Oscuro",
    "desde": true
   },
   "84": {
    "titulo": "Exprimidor eléctrico de cítricos Enova",
-   "price": 23999,
+   "price": 23199,
    "old": 25999,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Exprimidor Eléctrico Enova 700cm3 40w Negro Pequeños Electro Negro 50 Hz 60 Hz",
    "desde": true
   },
   "85": {
    "titulo": "Robot aspirador y trapeador con control por voz y app",
-   "price": 329799,
-   "old": 469999,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "price": 283899,
+   "old": 678749,
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Aspiradora Robot Trapeadora Gadnic Navegacion Laser Lds Mapeo 3d Succion 5000 Pa Trapeado ",
    "desde": true
   },
@@ -680,7 +677,7 @@
    "titulo": "Nebulizador portátil mesh SAN-UP VitaAir",
    "price": 85929.06,
    "old": 155199,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Nebulizador Mesh San-Up VitalAir 8ml Silencioso Portátil USB/Pilas (Certificado por ANMAT)",
    "desde": true
   },
@@ -693,7 +690,7 @@
    "titulo": "Aire acondicionado split Philco de 5200 W",
    "price": 888950.62,
    "old": 1258002.58,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Aire Acondicionado Split Frio/Calor Philco PHS50HA4CN 4472 Frigorias / 5200 Watts",
    "desde": true
   },
@@ -706,15 +703,15 @@
    "titulo": "Lavarropas automático Philco de 5 kg con carga superior",
    "price": 419999,
    "old": 0,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Lavarropas Philco 5kg Carga Superior Gris 700 RPM",
    "desde": true
   },
   "92": {
    "titulo": "Termotanque eléctrico ExaHome de 40 litros",
-   "price": 281990.6,
+   "price": 258634,
    "old": 429990,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Termotanque Exahome Electrico 40 Litros Carga Inferior 1500w Color Blanco",
    "desde": true
   },
@@ -725,33 +722,33 @@
   },
   "94": {
    "titulo": "Estufa halógena Kanji Home de tres velas",
-   "price": 41658,
-   "old": 0,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "price": 40244,
+   "old": 67957,
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Estufa halogena 3 velas Kanji KJH-305 Color Gris oscuro",
    "desde": true
   },
   "95": {
    "titulo": "Freidora de aire Novohome de 7 litros con ventana",
-   "price": 119990,
+   "price": 103999,
    "old": 179990,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Freidora De Aire Novohome 7 Litros Panel Pantalla Digital Tactil Airfryer Sin Aceite Con V",
    "desde": true
   },
   "96": {
    "titulo": "Minipimer con picadora, batidor y vaso",
-   "price": 83999,
+   "price": 83899,
    "old": 99999,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Mixer Licuadora De Mano Yelmo Lm-1555 Bowl Picador + Vaso Color Negro",
    "desde": true
   },
   "97": {
    "titulo": "Freidora eléctrica Novohome de 6 litros y 2500 W",
-   "price": 86990,
+   "price": 84099,
    "old": 119990,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Freidora Eléctrica De Aceite 6 Litros Novohome 2500 W Acero Inoxidable Con Válvula De Segu",
    "desde": true
   },
@@ -759,23 +756,23 @@
    "titulo": "Batidora de mano Daewoo con batidores y ganchos",
    "price": 64290,
    "old": 0,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Batidora De Mano Daewoo Dhm208 Blanca 250w 5 Velocidades Color Blanco",
    "desde": true
   },
   "99": {
    "titulo": "Plancha a vapor Ultracomb PL 4180 negra y violeta",
-   "price": 51499,
-   "old": 0,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "price": 50999.99,
+   "old": 83479.18,
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Plancha A Vapor Ultracomb 2250w Pl-4180 Color Negro/Violeta Suela Cerámica Vapor Regulable",
    "desde": true
   },
   "100": {
    "titulo": "Balanza de cocina digital Cook by Spica de acero inoxidable",
-   "price": 24299,
+   "price": 23549,
    "old": 56499,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Balanza Digital De Cocina 10kg SPICA BAL-154 Electronica Color Plateado",
    "desde": true
   },
@@ -783,31 +780,31 @@
    "titulo": "Cocina a gas Escorial negra de 4 hornallas con horno",
    "price": 329535.29,
    "old": 0,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Cocina Negra Escorial Candor S2 Black 4 Hornallas Visor Y Parilla gas natural",
    "desde": true
   },
   "102": {
    "titulo": "Anafe eléctrico Lüsqtoff de 2 hornallas y 2000 W",
-   "price": 61462,
-   "old": 0,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "price": 57599.1,
+   "old": 63999,
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Anafe Eléctrico Lusqtoff ANL2000-72 2 hornallas 2000w",
    "desde": true
   },
   "103": {
    "titulo": "Calefón a gas Longvie blanco con dos perillas",
-   "price": 606999,
-   "old": 0,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "price": 528999,
+   "old": 606999,
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Calefón Longvie Tiro Natural Pilotless 14 Litros Cn514ss Gn Color Blanco",
    "desde": true
   },
   "104": {
    "titulo": "Deshumidificador Seklou para secar ropa y evitar moho",
-   "price": 1285456.37,
+   "price": 1227683.05,
    "old": 1444333,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Deshumidificador Compresor Seklou Technology Blanco 20L/día con Drenaje Continuo",
    "desde": true
   },
@@ -815,31 +812,31 @@
    "titulo": "Extractor de jugos Ultracomb de acero inoxidable",
    "price": 69999,
    "old": 129999,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Juguera Extractor Jugo Ultracomb Eléctrica Jg-2703 Con Jarra Acero Inoxidable Color Plata",
    "desde": true
   },
   "106": {
    "titulo": "Máquina para gasificar agua SodaStream con 2 cilindros de CO₂",
-   "price": 132999,
+   "price": 114146,
    "old": 176689.41,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Máquina para hacer soda Sodastream Terra x 2 Cilindros 1L color negro",
    "desde": true
   },
   "107": {
    "titulo": "Tostadora Suono negra de diseño retro con 7 niveles",
-   "price": 44999,
+   "price": 38999,
    "old": 69999,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Tostadora Suono 850w 2 Panes Negra 7 Niveles Descongelar Negro",
    "desde": true
   },
   "108": {
    "titulo": "Dispensador eléctrico de agua para bidón con batería recargable",
-   "price": 6799,
-   "old": 0,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "price": 6499.35,
+   "old": 9999,
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Dispenser De Agua Automatico Bomba Dispensador Bidones Usb Blackandwhite",
    "desde": true
   },
@@ -847,7 +844,7 @@
    "titulo": "Máquina manual para hacer pasta con 6 niveles de espesor",
    "price": 59287.71,
    "old": 83503.82,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Fábrica De Pastas Smart-tek Bella Pasta Acero Inox Maquina Fideos Fetuccini Negro",
    "desde": true
   },
@@ -861,17 +858,17 @@
   },
   "111": {
    "titulo": "Sandwichera y wafflera con placas intercambiables",
-   "price": 53340.3,
+   "price": 51739,
    "old": 69990,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Sandwichera Eléctrica Baza 3 En 1 Waflera Grill Parrilla Plancha Con Placas Removibles Int",
    "desde": true
   },
   "112": {
    "titulo": "Picadora de carne eléctrica de 400 W con accesorios para embutir y kibbe",
-   "price": 120000,
-   "old": 0,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "price": 106880,
+   "old": 179599,
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Picadora de Carne Cuk By Gadnic P90 Eléctrica Potencia Nominal 400W 80kgh",
    "desde": true
   },
@@ -879,23 +876,23 @@
    "titulo": "Pochoclera Ultracomb PO 2703 roja",
    "price": 62899,
    "old": 99999,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Ultracomb Po2703 Pochoclera Realiza Dulce O Salados - Rojo Brazo Agitador 100g",
    "desde": true
   },
   "114": {
    "titulo": "Secarropas centrífugo Codini de 5,5 kg y 2800 rpm",
-   "price": 188999.37,
+   "price": 185999.38,
    "old": 299999,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Secarropas Codini Advance Ad55 - 5.5kg Blanco",
    "desde": true
   },
   "115": {
    "titulo": "Secador de pelo Remington rojo con difusor",
-   "price": 92990,
+   "price": 87961.67,
    "old": 105990,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Remington Secadora De Cabello Ac Silk Ac9096 Color Bordó",
    "desde": true
   },
@@ -903,39 +900,39 @@
    "titulo": "Cafetera de filtro Smartlife con pantalla digital",
    "price": 83505,
    "old": 87900,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Cafetera De Filtro Smartlife Digital 1520",
    "desde": true
   },
   "117": {
    "titulo": "Freidora de aire Novohome de 10 litros con ventana",
-   "price": 149990,
+   "price": 123999,
    "old": 209990,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Freidora De Aire Novohome 10 Lts AirFryer Pantalla Display Tactil Digital A Color Con Viso",
    "desde": true
   },
   "118": {
    "titulo": "Purificador de agua sobre mesada dvigi Compact",
-   "price": 88999,
-   "old": 119119,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "price": 89900,
+   "old": 190000,
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Purificador de Agua Dvigi Compact de Red Elimina Cloro",
    "desde": true
   },
   "119": {
    "titulo": "Calefactor de pared blanco y negro",
-   "price": 313038,
+   "price": 296099,
    "old": 373140.43,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Calefactor Convector Longvie Eca5s 5200 Kcal Recta Tiza/blanco",
    "desde": true
   },
   "120": {
    "titulo": "Robot aspirador Fika ultra delgado con control remoto",
-   "price": 147406,
-   "old": 249999,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "price": 164831,
+   "old": 250000,
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Aspiradora Robot Trapeadora Fika Limpieza SENSE Antichoque Con App Wifi Color Negro",
    "desde": true
   },
@@ -943,15 +940,15 @@
    "titulo": "Set de secador y planchita Ultracomb Devotion rosa",
    "price": 55999,
    "old": 99999,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Set Devotion Secador De Pelo + Planchita Ceramica 2200w Ultracomb",
    "desde": true
   },
   "122": {
    "titulo": "Microondas BGH Quick Chef de 20 litros digital",
-   "price": 199999,
-   "old": 0,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "price": 181999,
+   "old": 199999,
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Microondas Bgh 20l Digital Eco B120db20",
    "desde": true
   },
@@ -959,7 +956,7 @@
    "titulo": "Cafetera de filtro Atma blanca con filtro permanente",
    "price": 47830.51,
    "old": 0,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Cafetera Atma Semi Automática de Filtro 1,25 Lts Ca8133p Color Blanco",
    "desde": true
   },
@@ -967,31 +964,31 @@
    "titulo": "Termotanque a gas Sherman de 80 litros multigás",
    "price": 359900,
    "old": 0,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Termotanque 80 Lts Sherman Tpgp080msh13 Gas Conex Sup De Pie Color Blanco",
    "desde": true
   },
   "125": {
    "titulo": "Balanza de baño de vidrio digital Spica de 180 kg",
-   "price": 13399,
+   "price": 12949,
    "old": 32999,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Balanza De Baño Vidrio Pantalla Digital 180kg Spica BA-100 Cuadrada Color Trasparente",
    "desde": true
   },
   "126": {
    "titulo": "Freidora de aire Ultracomb FR 8612 celeste",
-   "price": 66338,
-   "old": 149999,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "price": 59999,
+   "old": 125659,
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Freidora de Aire Digital Ultracomb FR-8612 de 3 Litros Táctil en Color Celeste",
    "desde": true
   },
   "127": {
    "titulo": "Horno eléctrico CUK de 16 litros y 1280 W",
-   "price": 110099,
-   "old": 158349,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "price": 87299,
+   "old": 171999,
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Horno Eléctrico Gadnic 16 Litros 1280W Clase A 4 Resistencias Acero Inoxidable Temperatura",
    "desde": true
   },
@@ -999,15 +996,15 @@
    "titulo": "Anafe eléctrico Suono de 2 hornallas, compacto",
    "price": 32500,
    "old": 0,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "ml": "Anafe eléctrico 2 hornillas suono",
    "desde": true
   },
   "2-v0": {
    "titulo": "Control inalámbrico DualSense para PlayStation 5, negro (Blanco)",
-   "price": 135533.99,
+   "price": 114999,
    "old": 0,
-   "updated": "2026-11-02T00:32:33.091Z",
+   "updated": "2026-11-02T04:47:33.628Z",
    "desde": true,
    "ml": "Joystick Sony Dualsense Para Playstation 5 Blanco"
   }
