@@ -4,7 +4,7 @@
 |---|---|---|---|---|---|---|
 | 1 | Mecedora Mega Baby con arco de juguetes y estrellas | Silla Mecedora Mega Baby 27267 18 Kg Vibración Y Música Colo | 3 | 80463.34 | 99645.32 | desde |
 | 2 | Control inalámbrico DualSense para PlayStation 5, negro | Sony PlayStation DualSense Joystick inalámbrico black PS5 | 3 | 114999 |  | desde |
-| 2-v0 | Control inalámbrico DualSense para PlayStation 5, negro | Joystick Sony Dualsense Para Playstation 5 Blanco | 3 | 97520 |  | desde |
+| 2-v0 | Control inalámbrico DualSense para PlayStation 5, negro | Joystick Sony Dualsense Para Playstation 5 Blanco | 3 | 114999 | 197999 | desde |
 | 3 | Cinta de correr Randers con monitor y altavoz Bluetooth | Randers Arg-409 Cinta Motorizada 12km/h Color Negro | 2 | 630713.28 | 988900 | desde |
 | 4 | Bicicleta fija de spinning Sölperk | Bicicleta Fija Spinning Profesional Gym 8 Niveles 28 Kgs con | 3 | 379200 | 685000 | desde |
 | 5 | Kit de mancuernas con conversor a barra, hasta 45 kg | Kit Mancuernas Y Barra Con Tope A Rosca 25 Kg Discos Pvc | 3 | 76789 | 211978 | desde |
@@ -19,7 +19,7 @@
 | 14 | Botines Nike negros con detalle celeste para césped sin | SIN PRECIO: /items/MLA2341311586 respondió 403: {"message":"Access to the requested resource is forbidden","erro / web: no encontré  | | | | |
 | 15 | Estación de carga para controles DualSense de PS5 | Playstation Cargador DualSense 5 | 1 | 72399 | 90599 | desde |
 | 16 | Consola Nintendo Switch 2 | SIN PRECIO: DUPLICADO, apunta a la misma publicación que #28 ("Nintendo Switch OLED + Super Mario Bros.") | | | | |
-| 17 | Consola PlayStation 5 Slim de 1 TB con Astro Bot y Gran | Sony Playstation 5 consola Slim Standard + Juego Astro Bot Y | 5 | 1799999 |  | desde |
+| 17 | Consola PlayStation 5 Slim de 1 TB con Astro Bot y Gran | Sony Playstation 5 consola Slim Standard + Juego Astro Bot Y | 5 | 1450000 |  | desde |
 | 18 | Consola PlayStation 5 Slim Digital Edition con control  | Consola Sony PlayStation 5 Slim Blanco 4K 825 GB Digital | 4 | 1140000 |  | desde |
 | 19 | Control DualSense para PlayStation 5, camuflaje gris | Control inalámbrico DualSense para PS5 Gray Camouflage | 2 | 114999 | 197999 | desde |
 | 20 | Control DualSense para PlayStation 5, blanco perlado | Sony PlayStation DualSense Perla Chroma | 2 | 124999 |  | desde |
@@ -40,7 +40,7 @@
 | 35 | Puerta de seguridad retráctil MAWE para bebés y mascota | Puerta de Seguridad Retráctil Mawe Gate 140 Con Bloqueo | 4 | 58899 | 123349 | desde |
 | 36 | Alfombra antigolpes reversible Mega Baby con bolso | Alfombra Anti Golpes Bebes Reversible 200x150 Cm 6006-a - 2  | 2 | 44068 | 47900 | desde |
 | 37 | Corralito hexagonal MAWE con 10 pelotas de colores | Corralito Plegable Bebe Hexagonal Mawe By Gadnic Tela Oxford | 3 | 56299 | 122599 | desde |
-| 38 | Cuna colecho Estrella Mega Baby con ruedas, canasto y m | Cuna De Bebé Estrella Mega Baby De Madera Eléctrica Mecedora | 4 | 229990 |  | desde |
+| 38 | Cuna colecho Estrella Mega Baby con ruedas, canasto y m | SIN PRECIO: el link terminó en una página sin ID de publicación (estado 200) | | | | |
 | 39 | Juego de pesca y torres de encastre 2 en 1 Cracovia | Juego Pesca + 4 Torres Encastre Madera Didactico Iman Peces  | 5 | 16974 | 24999 | desde |
 | 40 | Cochecito de paseo con baranda rebatible | Cochecito Cuna Bebé Avanti Manija Baranda Rebatible Apto 0+  | 3 | 159999 | 199999 | desde |
 | 41 | Bañera plegable para bebé de 25 litros | Bañera Plegable Avanti Bubbles Con Termómetro / 25 Lts Color | 2 | 31061 | 45383.08 | desde |
@@ -60,12 +60,12 @@
 | 55 | Mamadera Philips Avent Natural Response de 125 ml | Mamadera Avent Philips Natural Response 125ml 0m+ Color Blan | 5 | 27178 | 36329 | desde |
 | 56 | Gimnasio de actividades con piano y arco de juguetes | Gimnasio Piano Musical Huanger Bebé 0-1 Años Luces Sonidos S | 2 | 30399 |  | desde |
 | 57 | Balanza digital Femmto con Bluetooth y pantalla LED | Balanza Digital Con Bluetooth Personal De Baño Peso Corporal | 4 | 19398 | 29999 | desde |
-| 58 | Planchita de pelo GAMA Bella Tourmaline Red Ion | Planchita De Pelo GA.MA Italy Elegance Bella Tourmaline Ion  | 5 | 64421 | 75790 | desde |
+| 58 | Planchita de pelo GAMA Bella Tourmaline Red Ion | Planchita De Pelo GA.MA Italy Elegance Bella Tourmaline Ion  | 5 | 64999 |  | desde |
 | 59 | Robot de limpieza Sansei que aspira y trapea | SIN PRECIO: el link terminó en una página sin ID de publicación (estado 200) | | | | |
 | 60 | Aspiradora de mano Yelmo con accesorios | Yelmo As-3240 Aspiradora Para Auto Recargable Usb Color Gris | 2 | 32899 | 59899 | desde |
 | 61 | Secador de pelo Ultracomb de 2200 W con función Cool Sh | Secador De Pelo Ultracomb Tourmaline Ion Pro Sc-4606 Negro 3 | 5 | 43199 | 59999 | desde |
 | 62 | Aire acondicionado split Philco Inverter Eco Plus de 37 | Aire Acondicionado Split Inverter Frio Calor Philco 3225 Fg  | 6 | 712949 | 910934.34 | desde |
-| 63 | Pava eléctrica Novohome de 2,2 litros con display tácti | Pava Eléctrica Digital Novohome 2 Litros Pantalla Tactil Col | 5 | 46299 | 85990 | desde |
+| 63 | Pava eléctrica Novohome de 2,2 litros con display tácti | Pava Eléctrica Digital Novohome 2 Litros Pantalla Tactil Col | 5 | 47999 | 85990 | desde |
 | 64 | Caloventor Aitech portátil con dos perillas | Caloventor Electrico 2000w Termoventilador 2 Velocidades Est | 2 | 44500 |  | desde |
 | 65 | Termotanque a gas Señorial Zafiro de 85 litros | Termotanque Multigas Señorial TSZP1-85 Zafiro Color Blanco | 3 | 369056.7 | 508563 | desde |
 | 66 | Microondas Aiwa blanco con panel digital | Microondas Aiwa Cook 700w 20l 10 Niveles Cocción Panel Touch | 3 | 183167 | 210000 | desde |
@@ -104,12 +104,12 @@
 | 99 | Plancha a vapor Ultracomb PL 4180 negra y violeta | Plancha A Vapor Ultracomb 2250w Pl-4180 Color Negro/Violeta  | 5 | 50997.99 | 83809.83 | desde |
 | 100 | Balanza de cocina digital Cook by Spica de acero inoxid | Balanza Digital De Cocina 10kg SPICA BAL-154 Electronica Col | 4 | 23549 | 56499 | desde |
 | 101 | Cocina a gas Escorial negra de 4 hornallas con horno | Cocina Negra Escorial Candor S2 Black 4 Hornallas Visor Y Pa | 5 | 329535.29 |  | desde |
-| 102 | Anafe eléctrico Lüsqtoff de 2 hornallas y 2000 W | Anafe Eléctrico Lusqtoff ANL2000-72 2 hornallas 2000w | 4 | 57599.1 | 63999 | desde |
+| 102 | Anafe eléctrico Lüsqtoff de 2 hornallas y 2000 W | Anafe Eléctrico Lusqtoff ANL2000-72 2 hornallas 2000w | 4 | 57599 | 63999 | desde |
 | 103 | Calefón a gas Longvie blanco con dos perillas | Calefón Longvie Tiro Natural Pilotless 14 Litros Cn514ss Gn  | 3 | 528999 | 606999 | desde |
 | 104 | Deshumidificador Seklou para secar ropa y evitar moho | Deshumidificador Compresor Seklou Technology Blanco 20L/día  | 2 | 1141023.07 | 1444333 | desde |
 | 105 | Extractor de jugos Ultracomb de acero inoxidable | Juguera Extractor Jugo Ultracomb Eléctrica Jg-2703 Con Jarra | 4 | 69999 | 129999 | desde |
 | 106 | Máquina para gasificar agua SodaStream con 2 cilindros  | Máquina para hacer soda Sodastream Terra x 2 Cilindros 1L co | 3 | 114146 | 176689.41 | desde |
-| 107 | Tostadora Suono negra de diseño retro con 7 niveles | Tostadora Suono 850w 2 Panes Negra 7 Niveles Descongelar Neg | 4 | 38999 | 69999 | desde |
+| 107 | Tostadora Suono negra de diseño retro con 7 niveles | Tostadora Suono 850w 2 Panes Negra 7 Niveles Descongelar Neg | 4 | 38899 | 69999 | desde |
 | 108 | Dispensador eléctrico de agua para bidón con batería re | Dispenser De Agua Automatico Bomba Dispensador Bidones Usb B | 2 | 6499.35 | 9999 | desde |
 | 109 | Máquina manual para hacer pasta con 6 niveles de espeso | Fábrica De Pastas Smart-tek Bella Pasta Acero Inox Maquina F | 2 | 56782.59 | 83503.82 | desde |
 | 110 | Vinoteca compacta para 6 botellas con control táctil | Cava De Vinos Ziyen Capacidad 6 Botellas Refrigeración Ilumi | 1 | 150749 | 210399 | desde |
@@ -121,13 +121,13 @@
 | 116 | Cafetera de filtro Smartlife con pantalla digital | Cafetera De Filtro Smartlife Digital 1520 | 4 | 79999 | 119999 | desde |
 | 117 | Freidora de aire Novohome de 10 litros con ventana | Freidora De Aire Novohome 10 Lts AirFryer Pantalla Display T | 3 | 123999 | 209990 | desde |
 | 118 | Purificador de agua sobre mesada dvigi Compact | Purificador de Agua Dvigi Compact de Red Elimina Cloro | 4 | 88936 |  | desde |
-| 119 | Calefactor de pared blanco y negro | Calefactor Convector Longvie Eca5s 5200 Kcal Recta Tiza/blan | 2 | 296099 | 373140.43 | desde |
+| 119 | Calefactor de pared blanco y negro | Calefactor Convector Longvie Eca5s 5200 Kcal Recta Tiza/blan | 2 | 292899 | 399999 | desde |
 | 120 | Robot aspirador Fika ultra delgado con control remoto | Aspiradora Robot Trapeadora Fika Limpieza SENSE Antichoque C | 2 | 164050 | 300000 | desde |
 | 121 | Set de secador y planchita Ultracomb Devotion rosa | Set Devotion Secador De Pelo + Planchita Ceramica 2200w Ultr | 5 | 55999 | 99999 | desde |
-| 122 | Microondas BGH Quick Chef de 20 litros digital | Microondas Bgh 20l Digital Eco B120db20 | 3 | 199999 |  | desde |
+| 122 | Microondas BGH Quick Chef de 20 litros digital | Microondas Bgh 20l Digital Eco B120db20 | 3 | 179999.25 | 199999 | desde |
 | 123 | Cafetera de filtro Atma blanca con filtro permanente | Cafetera Atma Semi Automática de Filtro 1,25 Lts Ca8133p Col | 3 | 44964.21 | 55157.98 | desde |
 | 124 | Termotanque a gas Sherman de 80 litros multigás | Termotanque 80 Lts Sherman Tpgp080msh13 Gas Conex Sup De Pie | 3 | 359900 |  | desde |
 | 125 | Balanza de baño de vidrio digital Spica de 180 kg | Balanza De Baño Vidrio Pantalla Digital 180kg Spica BA-100 C | 5 | 12949 | 32999 | desde |
-| 126 | Freidora de aire Ultracomb FR 8612 celeste | Freidora de Aire Digital Ultracomb FR-8612 de 3 Litros Tácti | 5 | 59999 | 125659 | desde |
-| 127 | Horno eléctrico CUK de 16 litros y 1280 W | Horno Eléctrico Gadnic 16 Litros 1280W Clase A 4 Resistencia | 3 | 87649 | 158349 | desde |
+| 126 | Freidora de aire Ultracomb FR 8612 celeste | Freidora de Aire Digital Ultracomb FR-8612 de 3 Litros Tácti | 5 | 65999 | 71999 | desde |
+| 127 | Horno eléctrico CUK de 16 litros y 1280 W | Horno Eléctrico Gadnic 16 Litros 1280W Clase A 4 Resistencia | 3 | 83798.01 | 157499 | desde |
 | 128 | Anafe eléctrico Suono de 2 hornallas, compacto | Anafe eléctrico 2 hornillas suono | 3 | 32500 |  | desde |
