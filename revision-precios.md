@@ -3,19 +3,19 @@
 | id | nuestro producto | nombre en Mercado Libre | coincidencias | precio | antes | tipo |
 |---|---|---|---|---|---|---|
 | 1 | Mecedora Mega Baby con arco de juguetes y estrellas | Silla Mecedora Mega Baby 27267 18 Kg Vibración Y Música Colo | 3 | 80463.34 | 99645.32 | desde |
-| 2 | Control inalámbrico DualSense para PlayStation 5, negro | Sony PlayStation DualSense Joystick inalámbrico black PS5 | 3 | 114999 |  | desde |
+| 2 | Control inalámbrico DualSense para PlayStation 5, negro | Sony PlayStation DualSense Joystick inalámbrico black PS5 | 3 | 114000 | 300000 | desde |
 | 2-v0 | Control inalámbrico DualSense para PlayStation 5, negro | Joystick Sony Dualsense Para Playstation 5 Blanco | 3 | 114999 | 197999 | desde |
 | 3 | Cinta de correr Randers con monitor y altavoz Bluetooth | Randers Arg-409 Cinta Motorizada 12km/h Color Negro | 2 | 630713.28 | 988900 | desde |
 | 4 | Bicicleta fija de spinning Sölperk | Bicicleta Fija Spinning Profesional Gym 8 Niveles 28 Kgs con | 3 | 379200 | 685000 | desde |
 | 5 | Kit de mancuernas con conversor a barra, hasta 45 kg | Kit Mancuernas Y Barra Con Tope A Rosca 25 Kg Discos Pvc | 3 | 76789 | 211978 | desde |
 | 6 | Barra de dominadas para marco de puerta | Barra Dominadas Puerta Extensible 60-100cm Reforzada 130kg P | 3 | 36258 | 37380 | desde |
 | 7 | Camiseta de Boca Juniors adidas azul y amarilla | SIN PRECIO: el link terminó en una página sin ID de publicación (estado 200) | | | | |
-| 8 | Botines Nike rojos y blancos con tapones | SIN PRECIO: /items/MLA1483606903 respondió 403: {"message":"Access to the requested resource is forbidden","erro / web: no encontré  | | | | |
+| 8 | Botines Nike rojos y blancos con tapones | SIN PRECIO: /items/MLA1483606903 respondió 403: {"message":"Access to the requested resource is forbidden","erro / web: la página de | | | | |
 | 9 | Multigimnasio Randers con estación Scott y 45 kg de car | Multigimnasio Multigym Randers Arg-63120 Reforzado 45 Kg Col | 2 | 573958.23 | 962403 | desde |
 | 10 | Guantes de boxeo Pulse Series negros | Guantes De Boxeo 14 Oz Profesionales Reforzados Negro | 2 | 54999 | 89998 | desde |
 | 11 | Soga de saltar con rodamientos de alta velocidad | Soga Cuerda Salto Saltar 280 Cm Gym Crossfit Boxeo Reforzada | 2 | 10669.03 | 11999 | desde |
 | 12 | Pelota de esferodinamia 65 cm negra | Pelota 27 Cm Fitness Pilates Yoga Gmp Negro | 1 | 5931.7 | 6437 | desde |
-| 13 | Camiseta de River Plate adidas negra y roja a rayas | SIN PRECIO: /items/MLA3685105506 respondió 403: {"message":"Access to the requested resource is forbidden","erro / web: no encontré  | | | | |
+| 13 | Camiseta de River Plate adidas negra y roja a rayas | SIN PRECIO: /items/MLA3685105506 respondió 403: {"message":"Access to the requested resource is forbidden","erro / web: la página de | | | | |
 | 14 | Botines Nike negros con detalle celeste para césped sin | SIN PRECIO: /items/MLA2341311586 respondió 403: {"message":"Access to the requested resource is forbidden","erro / web: no encontré  | | | | |
 | 15 | Estación de carga para controles DualSense de PS5 | Playstation Cargador DualSense 5 | 1 | 74999 |  | desde |
 | 16 | Consola Nintendo Switch 2 | SIN PRECIO: DUPLICADO, apunta a la misma publicación que #28 ("Nintendo Switch OLED + Super Mario Bros.") | | | | |
@@ -62,12 +62,12 @@
 | 57 | Balanza digital Femmto con Bluetooth y pantalla LED | Balanza Digital Con Bluetooth Personal De Baño Peso Corporal | 4 | 19398 | 29999 | desde |
 | 58 | Planchita de pelo GAMA Bella Tourmaline Red Ion | Planchita De Pelo GA.MA Italy Elegance Bella Tourmaline Ion  | 5 | 64999 |  | desde |
 | 59 | Robot de limpieza Sansei que aspira y trapea | SIN PRECIO: el link terminó en una página sin ID de publicación (estado 200) | | | | |
-| 60 | Aspiradora de mano Yelmo con accesorios | Yelmo As-3240 Aspiradora Para Auto Recargable Usb Color Gris | 2 | 36567.03 | 109999 | desde |
-| 61 | Secador de pelo Ultracomb de 2200 W con función Cool Sh | Secador De Pelo Ultracomb Tourmaline Ion Pro Sc-4606 Negro 3 | 5 | 43337 | 58811.25 | desde |
+| 60 | Aspiradora de mano Yelmo con accesorios | Yelmo As-3240 Aspiradora Para Auto Recargable Usb Color Gris | 2 | 32900 | 59899 | desde |
+| 61 | Secador de pelo Ultracomb de 2200 W con función Cool Sh | Secador De Pelo Ultracomb Tourmaline Ion Pro Sc-4606 Negro 3 | 5 | 43199 | 59999 | desde |
 | 62 | Aire acondicionado split Philco Inverter Eco Plus de 37 | Aire Acondicionado Split Inverter Frio Calor Philco 3225 Fg  | 6 | 712949 | 910934.34 | desde |
 | 63 | Pava eléctrica Novohome de 2,2 litros con display tácti | Pava Eléctrica Digital Novohome 2 Litros Pantalla Tactil Col | 5 | 46299 | 85990 | desde |
 | 64 | Caloventor Aitech portátil con dos perillas | Caloventor Electrico 2000w Termoventilador 2 Velocidades Est | 2 | 44500 |  | desde |
-| 65 | Termotanque a gas Señorial Zafiro de 85 litros | Termotanque Multigas Señorial TSZP1-85 Zafiro Color Blanco | 3 | 357504 |  | desde |
+| 65 | Termotanque a gas Señorial Zafiro de 85 litros | Termotanque Multigas Señorial TSZP1-85 Zafiro Color Blanco | 3 | 369056.7 | 508563 | desde |
 | 66 | Microondas Aiwa blanco con panel digital | Microondas Aiwa Cook 700w 20l 10 Niveles Cocción Panel Touch | 3 | 183167 | 210000 | desde |
 | 67 | Buclera de 3 tubos VGR V-599 | Buclera Rizador 3 Barriles Ceramica Vgr V-599 Triple Ondas 2 | 3 | 58333 | 75853.33 | desde |
 | 68 | Secarropas centrífugo Codini de 6,5 kg y 2800 rpm | Secarropas Codini Innova 6.5kgs Tambor Acero Inox. 2800rpms  | 2 | 231999 | 299999 | desde |
@@ -91,7 +91,7 @@
 | 86 | Pava eléctrica Codini de 1,8 litros en acero inoxidable | Pava Eléctrica Hervidora Acero Inoxidable 1.8 Lts Codini - P | 5 | 19499 | 44999 | desde |
 | 87 | Nebulizador portátil mesh SAN-UP VitaAir | Nebulizador Mesh San-Up VitalAir 8ml Silencioso Portátil USB | 4 | 84019.51 | 155199 | desde |
 | 88 | Secador de pelo Ultracomb SC 4606 con turmalina e ión | SIN PRECIO: DUPLICADO, apunta a la misma publicación que #61 ("Secador De Pelo Ultracomb Tourmaline Ion") | | | | |
-| 89 | Aire acondicionado split Philco de 5200 W | Aire Acondicionado Split Frio/Calor Philco PHS50HA4CN 4472 F | 5 | 879999 |  | desde |
+| 89 | Aire acondicionado split Philco de 5200 W | Aire Acondicionado Split Frio/Calor Philco PHS50HA4CN 4472 F | 5 | 843899 | 1258005.79 | desde |
 | 90 | Tendedero plegable con funda transparente para lavarrop | SIN PRECIO: parece otro producto: en Mercado Libre se llama "Secarropas Por Calor Axel Ax-3000 Con Sistema Anti-arrugas Blanco" | | | | |
 | 91 | Lavarropas automático Philco de 5 kg con carga superior | Lavarropas Philco 5kg Carga Superior Gris 700 RPM | 4 | 419999 |  | desde |
 | 92 | Termotanque eléctrico ExaHome de 40 litros | Termotanque Exahome Electrico 40 Litros Carga Inferior 1500w | 4 | 258634 | 429990 | desde |
@@ -104,9 +104,9 @@
 | 99 | Plancha a vapor Ultracomb PL 4180 negra y violeta | Plancha A Vapor Ultracomb 2250w Pl-4180 Color Negro/Violeta  | 5 | 50997.99 | 83809.83 | desde |
 | 100 | Balanza de cocina digital Cook by Spica de acero inoxid | Balanza Digital De Cocina 10kg SPICA BAL-154 Electronica Col | 4 | 23549 | 56499 | desde |
 | 101 | Cocina a gas Escorial negra de 4 hornallas con horno | Cocina Negra Escorial Candor S2 Black 4 Hornallas Visor Y Pa | 5 | 329535.29 |  | desde |
-| 102 | Anafe eléctrico Lüsqtoff de 2 hornallas y 2000 W | Anafe Eléctrico Lusqtoff ANL2000-72 2 hornallas 2000w | 4 | 57599.1 | 63999 | desde |
+| 102 | Anafe eléctrico Lüsqtoff de 2 hornallas y 2000 W | Anafe Eléctrico Lusqtoff ANL2000-72 2 hornallas 2000w | 4 | 57599 | 63999 | desde |
 | 103 | Calefón a gas Longvie blanco con dos perillas | Calefón Longvie Tiro Natural Pilotless 14 Litros Cn514ss Gn  | 3 | 528999 | 606999 | desde |
-| 104 | Deshumidificador Seklou para secar ropa y evitar moho | Deshumidificador Compresor Seklou Technology Blanco 20L/día  | 2 | 1155466.39 | 1444333 | desde |
+| 104 | Deshumidificador Seklou para secar ropa y evitar moho | Deshumidificador Compresor Seklou Technology Blanco 20L/día  | 2 | 1141023.07 | 1444333 | desde |
 | 105 | Extractor de jugos Ultracomb de acero inoxidable | Juguera Extractor Jugo Ultracomb Eléctrica Jg-2703 Con Jarra | 4 | 69999 | 129999 | desde |
 | 106 | Máquina para gasificar agua SodaStream con 2 cilindros  | Máquina para hacer soda Sodastream Terra x 2 Cilindros 1L co | 3 | 114146 | 176689.41 | desde |
 | 107 | Tostadora Suono negra de diseño retro con 7 niveles | Tostadora Suono 850w 2 Panes Negra 7 Niveles Descongelar Neg | 4 | 38999 | 69999 | desde |
@@ -114,7 +114,7 @@
 | 109 | Máquina manual para hacer pasta con 6 niveles de espeso | Fábrica De Pastas Smart-tek Bella Pasta Acero Inox Maquina F | 2 | 59287.71 | 83503.82 | desde |
 | 110 | Vinoteca compacta para 6 botellas con control táctil | Cava De Vinos Ziyen Capacidad 6 Botellas Refrigeración Ilumi | 1 | 150749 | 210399 | desde |
 | 111 | Sandwichera y wafflera con placas intercambiables | Sandwichera Eléctrica Baza 3 En 1 Waflera Grill Parrilla Pla | 3 | 51739 | 69990 | desde |
-| 112 | Picadora de carne eléctrica de 400 W con accesorios par | Picadora de Carne Cuk By Gadnic P90 Eléctrica Potencia Nomin | 3 | 106880 | 179599 | desde |
+| 112 | Picadora de carne eléctrica de 400 W con accesorios par | Picadora de Carne Cuk By Gadnic P90 Eléctrica Potencia Nomin | 3 | 114299 | 183349 | desde |
 | 113 | Pochoclera Ultracomb PO 2703 roja | Ultracomb Po2703 Pochoclera Realiza Dulce O Salados - Rojo B | 2 | 62899 | 99999 | desde |
 | 114 | Secarropas centrífugo Codini de 5,5 kg y 2800 rpm | Secarropas Codini Advance Ad55 - 5.5kg Blanco | 2 | 188999.37 | 299999 | desde |
 | 115 | Secador de pelo Remington rojo con difusor | Remington Secadora De Cabello Ac Silk Ac9096 Color Bordó | 1 | 87961.67 | 105990 | desde |
