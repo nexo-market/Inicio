@@ -35,7 +35,7 @@
 | 30 | Corralito para bebé Belluno Trapani gris | Corralito Juegos Bebé Portable 180x120 Trapani Belluno Baby  | 5 | 139993 | 199990 | desde |
 | 31 | Arco de juguetes para cochecito Huanger | Cunero Huanger Didactico Soporte Universal Sonajero Colgante | 1 | 24017.17 | 31395 | desde |
 | 32 | Móvil musical para cuna con proyector y control remoto | Sonajero Móvil Giratorio Gadnic Musical Proyector Luz Estrel | 5 | 33897 | 82599 | desde |
-| 33 | Fular portabebé gris | Fular Prearmado Ergonomico Munami Color Azul Jean Talle M | 1 | 30048.13 | 32019.88 | desde |
+| 33 | Fular portabebé gris | Fular Prearmado Ergonomico Munami Color Azul Jean Talle M | 1 | 30026.08 | 38990 | desde |
 | 34 | Caminador de actividades Huanger con pizarra mágica y p | Andador Huanger Caminador Con Pizarra Actividades Didáctico  | 4 | 31912.35 | 38705.1 | desde |
 | 35 | Puerta de seguridad retráctil MAWE para bebés y mascota | Puerta de Seguridad Retráctil Mawe Gate 140 Con Bloqueo | 4 | 58899 | 123349 | desde |
 | 36 | Alfombra antigolpes reversible Mega Baby con bolso | Alfombra Anti Golpes Bebes Reversible 200x150 Cm 6006-a - 2  | 2 | 44068 | 47900 | desde |
@@ -63,8 +63,8 @@
 | 58 | Planchita de pelo GAMA Bella Tourmaline Red Ion | Planchita De Pelo GA.MA Italy Elegance Bella Tourmaline Ion  | 5 | 63900 | 75100 | desde |
 | 59 | Robot de limpieza Sansei que aspira y trapea | SIN PRECIO: el link terminó en una página sin ID de publicación (estado 200) | | | | |
 | 60 | Aspiradora de mano Yelmo con accesorios | Yelmo As-3240 Aspiradora Para Auto Recargable Usb Color Gris | 2 | 32899 | 59899 | desde |
-| 61 | Secador de pelo Ultracomb de 2200 W con función Cool Sh | Secador de Pelo Ultracomb Tourmaline Ion Pro con 2200 W y Te | 4 | 39914.41 | 59999 | desde |
-| 62 | Aire acondicionado split Philco Inverter Eco Plus de 37 | Aire Acondicionado Split Inverter Frio Calor Philco 3225 Fg  | 6 | 707899 | 763707.63 | desde |
+| 61 | Secador de pelo Ultracomb de 2200 W con función Cool Sh | Secador de Pelo Ultracomb Tourmaline Ion Pro con 2200 W y Te | 4 | 43199 | 59999 | desde |
+| 62 | Aire acondicionado split Philco Inverter Eco Plus de 37 | Aire Acondicionado Split Inverter Frio Calor Philco 3225 Fg  | 6 | 712949 | 910934.34 | desde |
 | 63 | Pava eléctrica Novohome de 2,2 litros con display tácti | Pava Eléctrica Digital Novohome 2 Litros Pantalla Tactil Col | 5 | 46999 | 85990 | desde |
 | 64 | Caloventor Aitech portátil con dos perillas | Caloventor Electrico 2000w Termoventilador 2 Velocidades Est | 2 | 44500 |  | desde |
 | 65 | Termotanque a gas Señorial Zafiro de 85 litros | Termotanque Multigas Señorial TSZP1-85 Zafiro Color Blanco | 3 | 389899 |  | desde |
@@ -72,7 +72,7 @@
 | 67 | Buclera de 3 tubos VGR V-599 | Buclera Rizador 3 Barriles Ceramica Vgr V-599 Triple Ondas 2 | 3 | 58333 | 75853.33 | desde |
 | 68 | Secarropas centrífugo Codini de 6,5 kg y 2800 rpm | Secarropas Codini Innova 6.5kgs Tambor Acero Inox. 2800rpms  | 2 | 231999 | 299999 | desde |
 | 69 | Purificador de agua Hidrolit Senic Out Classic con cani | Purificador De Agua Hidrolit Senic Out Classic - Blanco | 6 | 135399.6 | 322380 | desde |
-| 70 | Plancha a vapor Ultracomb PL 4170 violeta | Plancha a Vapor Ultracomb PL-4170 de 1400 W con Suela Antiad | 4 | 30999 | 49999 | desde |
+| 70 | Plancha a vapor Ultracomb PL 4170 violeta | Plancha a Vapor Ultracomb PL-4170 de 1400 W con Suela Antiad | 4 | 32490 | 49999 | desde |
 | 71 | Secador de pelo y planchita Ditron rosa con difusor | Set Planchita Cerámica Secador Pelo 2200W Ditron SK-SET1 Tec | 4 | 68480 | 181414 | desde |
 | 72 | Máquina de coser portátil Smart Tech blanca y rosa | Maquina De Coser Portatil Electrica Hogar 12 Puntadas Pedal  | 3 | 72399 | 79999 | desde |
 | 73 | Picadora eléctrica Lüsqtoff de 2 litros | Picadora Lusqtoff 650w 2000ml Procesadora Bowl Acero Inox. C | 2 | 59999.4 | 99999 | desde |
