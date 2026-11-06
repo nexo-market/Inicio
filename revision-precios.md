@@ -4,11 +4,11 @@
 |---|---|---|---|---|---|---|
 | 1 | Mecedora Mega Baby con arco de juguetes y estrellas | Silla Mecedora Mega Baby 27267 18 Kg Vibración Y Música Colo | 3 | 80463.34 | 99645.32 | desde |
 | 2 | Control inalámbrico DualSense para PlayStation 5, negro | Sony PlayStation DualSense Joystick inalámbrico black PS5 | 3 | 114999 |  | desde |
-| 2-v0 | Control inalámbrico DualSense para PlayStation 5, negro | Joystick Sony Dualsense Para Playstation 5 Blanco | 3 | 114999 |  | desde |
+| 2-v0 | Control inalámbrico DualSense para PlayStation 5, negro | Joystick Inalámbrico Sony DualSense para PlayStation 5 Color | 4 | 114999 |  | desde |
 | 3 | Cinta de correr Randers con monitor y altavoz Bluetooth | Randers Arg-409 Cinta Motorizada 12km/h Color Negro | 2 | 598049.7 | 988900 | desde |
 | 4 | Bicicleta fija de spinning Sölperk | Bicicleta Fija Spinning Profesional Gym 8 Niveles 28 Kgs con | 3 | 394560 | 712000 | desde |
 | 5 | Kit de mancuernas con conversor a barra, hasta 45 kg | Kit Mancuernas Y Barra Con Tope A Rosca 25 Kg Discos Pvc | 3 | 76789 | 211978 | desde |
-| 6 | Barra de dominadas para marco de puerta | Barra Dominadas Puerta Extensible 60-100cm Reforzada 130kg P | 3 | 36258 | 37380 | desde |
+| 6 | Barra de dominadas para marco de puerta | SIN PRECIO: el link terminó en una página sin ID de publicación (estado 200) | | | | |
 | 7 | Camiseta de Boca Juniors adidas azul y amarilla | SIN PRECIO: el link terminó en una página sin ID de publicación (estado 200) | | | | |
 | 8 | Botines Nike rojos y blancos con tapones | SIN PRECIO: /items/MLA1483606903 respondió 403: {"message":"Access to the requested resource is forbidden","erro / web: no encontré  | | | | |
 | 9 | Multigimnasio Randers con estación Scott y 45 kg de car | Multigimnasio Multigym Randers Arg-63120 Reforzado 45 Kg Col | 2 | 559767.11 | 962403 | desde |
@@ -24,7 +24,7 @@
 | 19 | Control DualSense para PlayStation 5, camuflaje gris | Control inalámbrico DualSense para PS5 Gray Camouflage | 2 | 114999 | 197999 | desde |
 | 20 | Control DualSense para PlayStation 5, blanco perlado | Sony PlayStation DualSense Perla Chroma | 2 | 150125.07 |  | desde |
 | 21 | Control DualSense para PlayStation 5, celeste | Control Inalambrico Sony DualSense PS5 Color Starlight Blue | 2 | 114999 |  | desde |
-| 22 | Control Pro de Nintendo Switch 2 | Control Nintendo Switch 2 Pro Controller | 4 | 206088 |  | desde |
+| 22 | Control Pro de Nintendo Switch 2 | Control Nintendo Switch 2 Pro Controller | 4 | 202499.1 | 224999 | desde |
 | 23 | Joystick con cable Redragon | Joystick Redragon Saturn G807 Negro | 2 | 37860 | 50000 | desde |
 | 24 | Joystick Redragon estilo PlayStation con panel táctil y | Joystick Gamepad Redragon Juno G818 Usb Wireless Para PS4 PC | 2 | 69990 |  | desde |
 | 25 | Joystick negro estilo PlayStation 4 con cable USB | Joystick inalámbrico genérico compatible con PlayStation 4 N | 3 | 22343 |  | desde |
@@ -59,21 +59,21 @@
 | 54 | Colchón blanco para cuna con funda acolchada y cierre | Colchón Impermeable Para Practicuna 104x70x9cm Blanco | 2 | 89999 |  | desde |
 | 55 | Mamadera Philips Avent Natural Response de 125 ml | Mamadera Avent Philips Natural Response 125ml 0m+ Color Blan | 5 | 27178 | 36329 | desde |
 | 56 | Gimnasio de actividades con piano y arco de juguetes | Colchoneta Para Bebe Gadnic Gimnasio Musical 0-36 Meses Pian | 4 | 28407 | 49999 | desde |
-| 57 | Balanza digital Femmto con Bluetooth y pantalla LED | Balanza Digital Con Bluetooth Personal De Baño Peso Corporal | 4 | 20999 | 27999 | desde |
+| 57 | Balanza digital Femmto con Bluetooth y pantalla LED | Balanza Digital Con Bluetooth Personal De Baño Peso Corporal | 4 | 22999 | 27999 | desde |
 | 58 | Planchita de pelo GAMA Bella Tourmaline Red Ion | Planchita De Pelo GA.MA Italy Elegance Bella Tourmaline Ion  | 5 | 63900 | 75100 | desde |
 | 59 | Robot de limpieza Sansei que aspira y trapea | SIN PRECIO: el link terminó en una página sin ID de publicación (estado 200) | | | | |
 | 60 | Aspiradora de mano Yelmo con accesorios | Yelmo As-3240 Aspiradora Para Auto Recargable Usb Color Gris | 2 | 32899 | 59899 | desde |
 | 61 | Secador de pelo Ultracomb de 2200 W con función Cool Sh | Secador de Pelo Ultracomb Tourmaline Ion Pro con 2200 W y Te | 4 | 39914.41 | 59999 | desde |
-| 62 | Aire acondicionado split Philco Inverter Eco Plus de 37 | Aire Acondicionado Split Inverter Frio Calor Philco 3225 Fg  | 6 | 712949 | 910934.34 | desde |
+| 62 | Aire acondicionado split Philco Inverter Eco Plus de 37 | Aire Acondicionado Split Inverter Frio Calor Philco 3225 Fg  | 6 | 707899 | 763707.63 | desde |
 | 63 | Pava eléctrica Novohome de 2,2 litros con display tácti | Pava Eléctrica Digital Novohome 2 Litros Pantalla Tactil Col | 5 | 46999 | 85990 | desde |
 | 64 | Caloventor Aitech portátil con dos perillas | Caloventor Electrico 2000w Termoventilador 2 Velocidades Est | 2 | 44500 |  | desde |
 | 65 | Termotanque a gas Señorial Zafiro de 85 litros | Termotanque Multigas Señorial TSZP1-85 Zafiro Color Blanco | 3 | 369056.7 | 508563 | desde |
-| 66 | Microondas Aiwa blanco con panel digital | Microondas Aiwa Cook 700w 20l 10 Niveles Cocción Panel Touch | 3 | 184299 | 355049 | desde |
+| 66 | Microondas Aiwa blanco con panel digital | Microondas Aiwa Cook 700w 20l 10 Niveles Cocción Panel Touch | 3 | 189999 | 355049 | desde |
 | 67 | Buclera de 3 tubos VGR V-599 | Buclera Rizador 3 Barriles Ceramica Vgr V-599 Triple Ondas 2 | 3 | 58333 | 75853.33 | desde |
 | 68 | Secarropas centrífugo Codini de 6,5 kg y 2800 rpm | Secarropas Codini Innova 6.5kgs Tambor Acero Inox. 2800rpms  | 2 | 209999 | 299999 | desde |
 | 69 | Purificador de agua Hidrolit Senic Out Classic con cani | Purificador De Agua Hidrolit Senic Out Classic - Blanco | 6 | 135399.6 | 322380 | desde |
-| 70 | Plancha a vapor Ultracomb PL 4170 violeta | Plancha a Vapor Ultracomb PL-4170 de 1400 W con Suela Antiad | 4 | 32335 |  | desde |
-| 71 | Secador de pelo y planchita Ditron rosa con difusor | Set Planchita Cerámica Secador Pelo 2200W Ditron SK-SET1 Tec | 4 | 65178 | 181414 | desde |
+| 70 | Plancha a vapor Ultracomb PL 4170 violeta | Plancha a Vapor Ultracomb PL-4170 de 1400 W con Suela Antiad | 4 | 28999 | 38664.37 | desde |
+| 71 | Secador de pelo y planchita Ditron rosa con difusor | Set Planchita Cerámica Secador Pelo 2200W Ditron SK-SET1 Tec | 4 | 68480 | 181414 | desde |
 | 72 | Máquina de coser portátil Smart Tech blanca y rosa | Maquina De Coser Portatil Electrica Hogar 12 Puntadas Pedal  | 3 | 61500 |  | desde |
 | 73 | Picadora eléctrica Lüsqtoff de 2 litros | Picadora Lusqtoff 650w 2000ml Procesadora Bowl Acero Inox. C | 2 | 59999.4 | 99999 | desde |
 | 74 | Deshumidificador Seklou con temporizador y bloqueo infa | Potente Deshumidificador Seklou extrae Humedad 35m con Compr | 2 | 596444.57 | 977778 | desde |
@@ -86,7 +86,7 @@
 | 81 | Calefón a gas Escorial de 14 litros por minuto | Calefon Escorial 14 Lts Tiro Natural Automático Sin Piloto!  | 3 | 300000 |  | desde |
 | 82 | Sandwichera Ultracomb SW 2801 con placas intercambiable | Sandwichera 3 En 1 Marca Ultracomb Modelo Sw-2801 - Negro Wa | 3 | 64899 | 79999 | desde |
 | 83 | Molinillo de café Yelmo MO 7100 | Molinillo de café semillas y especias Yelmo Mo-7100 150w Alu | 4 | 24291 |  | desde |
-| 84 | Exprimidor eléctrico de cítricos Enova | Exprimidor Eléctrico Enova de 0.7 L y 40 W, Negro | 3 | 21299 | 31498 | desde |
+| 84 | Exprimidor eléctrico de cítricos Enova | Exprimidor Eléctrico Enova de 0.7 L y 40 W, Negro | 3 | 21999 | 28999 | desde |
 | 85 | Robot aspirador y trapeador con control por voz y app | Aspiradora Robot Trapeadora Gadnic Navegacion Laser Lds Mape | 2 | 283899 | 678749 | desde |
 | 86 | Pava eléctrica Codini de 1,8 litros en acero inoxidable | SIN PRECIO: el link terminó en una página sin ID de publicación (estado 200) | | | | |
 | 87 | Nebulizador portátil mesh SAN-UP VitaAir | Nebulizador Mesh San-Up VitalAir 8ml Silencioso Portátil USB | 4 | 84019.51 | 155199 | desde |
@@ -122,10 +122,10 @@
 | 117 | Freidora de aire Novohome de 10 litros con ventana | Freidora De Aire Novohome 10 Lts AirFryer Pantalla Display T | 3 | 123999 | 209990 | desde |
 | 118 | Purificador de agua sobre mesada dvigi Compact | Purificador de Agua Dvigi Compact de Red Elimina Cloro | 4 | 86329 | 119119 | desde |
 | 119 | Calefactor de pared blanco y negro | Calefactor Convector Longvie Eca5s 5200 Kcal Recta Tiza/blan | 2 | 292899 | 399999 | desde |
-| 120 | Robot aspirador Fika ultra delgado con control remoto | Aspiradora Robot Trapeadora Fika Limpieza SENSE Antichoque C | 2 | 155772 | 300000 | desde |
+| 120 | Robot aspirador Fika ultra delgado con control remoto | Aspiradora Robot Trapeadora Fika Limpieza SENSE Antichoque C | 2 | 164830 | 249371.7 | desde |
 | 121 | Set de secador y planchita Ultracomb Devotion rosa | Set Devotion Secador De Pelo + Planchita Ceramica 2200w Ultr | 5 | 55999 | 99999 | desde |
 | 122 | Microondas BGH Quick Chef de 20 litros digital | Microondas Bgh 20l Digital Eco B120db20 | 3 | 209632.5 |  | desde |
-| 123 | Cafetera de filtro Atma blanca con filtro permanente | Cafetera Atma Semi Automática de Filtro 1,25 Lts Ca8133p Col | 3 | 45238.8 | 55157.98 | desde |
+| 123 | Cafetera de filtro Atma blanca con filtro permanente | Cafetera Atma Semi Automática de Filtro 1,25 Lts Ca8133p Col | 3 | 47830.51 |  | desde |
 | 124 | Termotanque a gas Sherman de 80 litros multigás | Termotanque 80 Lts Sherman Tpgp080msh13 Gas Conex Sup De Pie | 3 | 359900 |  | desde |
 | 125 | Balanza de baño de vidrio digital Spica de 180 kg | Balanza De Baño Vidrio Pantalla Digital 180kg Spica BA-100 C | 5 | 12949 | 32999 | desde |
 | 126 | Freidora de aire Ultracomb FR 8612 celeste | Freidora de Aire Digital Ultracomb FR-8612 de 3 Litros Tácti | 5 | 65999 | 71999 | desde |
