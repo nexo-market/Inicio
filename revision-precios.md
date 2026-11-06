@@ -14,7 +14,7 @@
 | 9 | Multigimnasio Randers con estación Scott y 45 kg de car | Multigimnasio Multigym Randers Arg-63120 Reforzado 45 Kg Col | 2 | 559767.11 | 962403 | desde |
 | 10 | Guantes de boxeo Pulse Series negros | Guantes De Boxeo 14 Oz Profesionales Reforzados Negro | 2 | 54999 | 89998 | desde |
 | 11 | Soga de saltar con rodamientos de alta velocidad | Soga Cuerda Salto Saltar 280 Cm Gym Crossfit Boxeo Reforzada | 2 | 10669.03 | 11999 | desde |
-| 12 | Pelota de esferodinamia 65 cm negra | Pelota Gmp 55 Cm Amarilla Esferodinamia Pilates Yoga Textura | 2 | 18747.3 | 19734 | desde |
+| 12 | Pelota de esferodinamia 65 cm negra | Pelota 27 Cm Fitness Pilates Yoga Gmp Negro | 1 | 5685.16 | 6437 | desde |
 | 13 | Camiseta de River Plate adidas negra y roja a rayas | SIN PRECIO: /items/MLA3685105506 respondió 403: {"message":"Access to the requested resource is forbidden","erro / web: no encontré  | | | | |
 | 14 | Botines Nike negros con detalle celeste para césped sin | SIN PRECIO: /items/MLA2341311586 respondió 403: {"message":"Access to the requested resource is forbidden","erro / web: no encontré  | | | | |
 | 15 | Estación de carga para controles DualSense de PS5 | Playstation Cargador DualSense 5 | 1 | 74999 |  | desde |
@@ -43,11 +43,11 @@
 | 38 | Cuna colecho Estrella Mega Baby con ruedas, canasto y m | SIN PRECIO: el link terminó en una página sin ID de publicación (estado 200) | | | | |
 | 39 | Juego de pesca y torres de encastre 2 en 1 Cracovia | Juego Pesca + 4 Torres Encastre Madera Didactico Iman Peces  | 5 | 16974 | 24999 | desde |
 | 40 | Cochecito de paseo con baranda rebatible | Cochecito Cuna Bebé Avanti Manija Baranda Rebatible Apto 0+  | 3 | 159999 | 199999 | desde |
-| 41 | Bañera plegable para bebé de 25 litros | Bañera Bebé Ultra Plegable Mega Baby Con Red Acolchonada Col | 3 | 44065.16 | 53445.01 | desde |
+| 41 | Bañera plegable para bebé de 25 litros | Bañera Plegable Avanti Bubbles Con Termómetro / 25 Lts Color | 2 | 31061 | 45383.08 | desde |
 | 42 | Practicuna plegable gris con colchón y mosquitero | Cuna Colecho Bebé Cosco Kids Con Mosquitero Y Cambiador Verd | 1 | 159823 | 289990 | desde |
 | 43 | Cuna de madera blanca para bebé | SIN PRECIO: DUPLICADO, apunta a la misma publicación que #47 ("Cuna Colecho Evolutiva 6en1 | Con Colchó") | | | | |
 | 44 | Sillón de apoyo para bebé con peluche | SIN PRECIO: parece otro producto: en Mercado Libre se llama "Silla Mecedora Mega Baby 27267 18 Kg Vibración Y Música Color Gris" | | | | |
-| 45 | Silla de comer para bebé 3 en 1 verde agua | Silla De Comer 3 En 1 Tapizada Booster 665 Love Color Rosa | 2 | 85877.4 | 94634.04 | desde |
+| 45 | Silla de comer para bebé 3 en 1 verde agua | Silla de Comer 3 en 1 Mega Baby Doha Convertible y Plegable  | 2 | 41640 | 62895 | desde |
 | 46 | Alfombra inflable de agua para bebé con diseño marino | Alfombra Sensorial Inflable Con Aire Y Agua 4230 Bebé Love P | 4 | 7200 | 10000 | desde |
 | 47 | Cuna blanca con ruedas y colchón estampado | Cuna Colecho Evolutiva 6en1 / Con Colchón Y Ruedas Con Freno | 3 | 179853.31 | 206500 | desde |
 | 48 | Almohada de embarazo en forma de U | Almohada embarazada Mtl ergonómica suave antialérgica rellen | 1 | 54274.86 | 71414.29 | desde |
