@@ -4,7 +4,7 @@
 |---|---|---|---|---|---|---|
 | 1 | Mecedora Mega Baby con arco de juguetes y estrellas | Silla Mecedora Mega Baby 27267 18 Kg Vibración Y Música Colo | 3 | 80463.34 | 99645.32 | desde |
 | 2 | Control inalámbrico DualSense para PlayStation 5, negro | Sony PlayStation DualSense Joystick inalámbrico black PS5 | 3 | 114999 |  | desde |
-| 2-v0 | Control inalámbrico DualSense para PlayStation 5, negro | Joystick Inalámbrico Sony DualSense para PlayStation 5 Color | 4 | 114999 |  | desde |
+| 2-v0 | Control inalámbrico DualSense para PlayStation 5, negro | Joystick Inalámbrico Sony DualSense para PlayStation 5 Color | 4 | 109435 |  | desde |
 | 3 | Cinta de correr Randers con monitor y altavoz Bluetooth | SIN PRECIO: el link terminó en una página sin ID de publicación (estado 200) | | | | |
 | 4 | Bicicleta fija de spinning Sölperk | Bicicleta Fija Spinning Profesional Gym 8 Niveles 28 Kgs con | 3 | 394560 | 712000 | desde |
 | 5 | Kit de mancuernas con conversor a barra, hasta 45 kg | Kit Mancuernas Y Barra Con Tope A Rosca 25 Kg Discos Pvc | 3 | 76789 | 211978 | desde |
@@ -98,7 +98,7 @@
 | 93 | Purificador de agua de mesada con canilla, filtro y acc | SIN PRECIO: DUPLICADO, apunta a la misma publicación que #69 ("Purificador De Agua Hidrolit Senic Out C") | | | | |
 | 94 | Estufa halógena Kanji Home de tres velas | Estufa halogena 3 velas Kanji KJH-305 Color Gris oscuro | 4 | 41658 |  | desde |
 | 95 | Freidora de aire Novohome de 7 litros con ventana | Freidora De Aire Novohome 7 Litros Panel Pantalla Digital Ta | 5 | 103999 | 179990 | desde |
-| 96 | Minipimer con picadora, batidor y vaso | Mixer Licuadora De Mano Yelmo Lm-1555 Bowl Picador + Vaso Co | 1 | 81499 |  | desde |
+| 96 | Minipimer con picadora, batidor y vaso | Mixer Licuadora De Mano Yelmo Lm-1555 Bowl Picador + Vaso Co | 1 | 83899 | 99999 | desde |
 | 97 | Freidora eléctrica Novohome de 6 litros y 2500 W | Freidora Eléctrica De Aceite 6 Litros Novohome 2500 W Acero  | 5 | 85099 | 119990 | desde |
 | 98 | Batidora de mano Daewoo con batidores y ganchos | Batidora De Mano Daewoo Dhm208 Blanca 250w 5 Velocidades Col | 3 | 69749 |  | desde |
 | 99 | Plancha a vapor Ultracomb PL 4180 negra y violeta | Plancha a Vapor Ultracomb de 2250W con Suela Cerámica y Vapo | 3 | 50492 |  | desde |
