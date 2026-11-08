@@ -43,7 +43,7 @@
 | 38 | Cuna colecho Estrella Mega Baby con ruedas, canasto y m | SIN PRECIO: el link terminó en una página sin ID de publicación (estado 200) | | | | |
 | 39 | Juego de pesca y torres de encastre 2 en 1 Cracovia | Juego Pesca + 4 Torres Encastre Madera Didactico Iman Peces  | 5 | 16974 | 24999 | desde |
 | 40 | Cochecito de paseo con baranda rebatible | Cochecito Cuna Bebé Avanti Manija Baranda Rebatible Apto 0+  | 3 | 159999 | 199999 | desde |
-| 41 | Bañera plegable para bebé de 25 litros | Bañera Bebé Ultra Plegable Mega Baby Con Red Acolchonada Col | 3 | 44065.16 | 53445.01 | desde |
+| 41 | Bañera plegable para bebé de 25 litros | Bañera Bebé Ultra Plegable Mega Baby Con Red Acolchonada Col | 3 | 79900 |  | desde |
 | 42 | Practicuna plegable gris con colchón y mosquitero | Cuna Colecho Bebé Cosco Kids Con Mosquitero Y Cambiador Verd | 1 | 159823 | 289990 | desde |
 | 43 | Cuna de madera blanca para bebé | SIN PRECIO: DUPLICADO, apunta a la misma publicación que #47 ("Cuna Colecho Evolutiva 6en1 | Con Colchó") | | | | |
 | 44 | Sillón de apoyo para bebé con peluche | SIN PRECIO: parece otro producto: en Mercado Libre se llama "Silla Mecedora Mega Baby 27267 18 Kg Vibración Y Música Color Gris" | | | | |
@@ -72,7 +72,7 @@
 | 67 | Buclera de 3 tubos VGR V-599 | Buclera Rizador 3 Barriles Ceramica Vgr V-599 Triple Ondas 2 | 3 | 58333 | 75853.33 | desde |
 | 68 | Secarropas centrífugo Codini de 6,5 kg y 2800 rpm | Secarropas Codini Innova 6.5kgs Tambor Acero Inox. 2800rpms  | 2 | 209999 | 299999 | desde |
 | 69 | Purificador de agua Hidrolit Senic Out Classic con cani | Purificador De Agua Hidrolit Senic Out Classic - Blanco | 6 | 135399.6 | 322380 | desde |
-| 70 | Plancha a vapor Ultracomb PL 4170 violeta | Plancha a Vapor Ultracomb PL-4170 de 1400 W con Suela Antiad | 4 | 32490 | 49999 | desde |
+| 70 | Plancha a vapor Ultracomb PL 4170 violeta | Plancha a Vapor Ultracomb PL-4170 de 1400 W con Suela Antiad | 4 | 32168 |  | desde |
 | 71 | Secador de pelo y planchita Ditron rosa con difusor | Set Planchita Cerámica Secador Pelo 2200W Ditron SK-SET1 Tec | 4 | 68480 | 181414 | desde |
 | 72 | Máquina de coser portátil Smart Tech blanca y rosa | Maquina De Coser Portatil Electrica Hogar 12 Puntadas Pedal  | 3 | 61500 |  | desde |
 | 73 | Picadora eléctrica Lüsqtoff de 2 litros | Picadora Lusqtoff 650w 2000ml Procesadora Bowl Acero Inox. C | 2 | 59999.4 | 99999 | desde |
@@ -111,10 +111,10 @@
 | 106 | Máquina para gasificar agua SodaStream con 2 cilindros  | Máquina para hacer soda Sodastream Terra x 2 Cilindros 1L co | 3 | 114146 | 176689.41 | desde |
 | 107 | Tostadora Suono negra de diseño retro con 7 niveles | Tostadora Suono 850w 2 Panes Negra 7 Niveles Descongelar Neg | 4 | 38899 | 69999 | desde |
 | 108 | Dispensador eléctrico de agua para bidón con batería re | Dispenser De Agua Automatico Bomba Dispensador Bidones Usb B | 2 | 6499.35 | 9999 | desde |
-| 109 | Máquina manual para hacer pasta con 6 niveles de espeso | Fábrica De Pastas Smart-tek Bella Pasta Acero Inox Maquina F | 2 | 56782.59 | 83503.82 | desde |
+| 109 | Máquina manual para hacer pasta con 6 niveles de espeso | Fábrica De Pastas Smart-tek Bella Pasta Acero Inox Maquina F | 2 | 59287.71 | 83503.82 | desde |
 | 110 | Vinoteca compacta para 6 botellas con control táctil | Cava De Vinos Ziyen Capacidad 6 Botellas Refrigeración Ilumi | 1 | 149999 |  | desde |
 | 111 | Sandwichera y wafflera con placas intercambiables | SIN PRECIO: el link terminó en una página sin ID de publicación (estado 200) | | | | |
-| 112 | Picadora de carne eléctrica de 400 W con accesorios par | Picadora de Carne Cuk By Gadnic P90 Eléctrica Potencia Nomin | 3 | 114299 | 183349 | desde |
+| 112 | Picadora de carne eléctrica de 400 W con accesorios par | Picadora de Carne Cuk By Gadnic P90 Eléctrica Potencia Nomin | 3 | 103793 |  | desde |
 | 113 | Pochoclera Ultracomb PO 2703 roja | Ultracomb Po2703 Pochoclera Realiza Dulce O Salados - Rojo B | 2 | 62899 | 99999 | desde |
 | 114 | Secarropas centrífugo Codini de 5,5 kg y 2800 rpm | Secarropas Codini Advance Ad55 - 5.5kg Blanco | 2 | 185999.38 | 299999 | desde |
 | 115 | Secador de pelo Remington rojo con difusor | Remington Secadora De Cabello Ac Silk Ac9096 Color Bordó | 1 | 87961.67 | 105990 | desde |
