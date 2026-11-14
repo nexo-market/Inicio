@@ -18,7 +18,7 @@
 | 13 | Camiseta de River Plate adidas negra y roja a rayas | SIN PRECIO: /items/MLA3685105506 respondió 403: {"message":"Access to the requested resource is forbidden","erro / web: no encontré  | | | | |
 | 14 | Botines Nike negros con detalle celeste para césped sin | SIN PRECIO: /items/MLA2341311586 respondió 403: {"message":"Access to the requested resource is forbidden","erro / web: no encontré  | | | | |
 | 15 | Estación de carga para controles DualSense de PS5 | Playstation Cargador DualSense 5 | 1 | 74999 | 89599 | desde |
-| 16 | Consola Nintendo Switch 2 | Consola Nintendo Switch 2 | 3 | 958013.01 | 1774101.33 | desde |
+| 16 | Consola Nintendo Switch 2 | SIN PRECIO: el link terminó en una página sin ID de publicación (estado 200) | | | | |
 | 17 | Consola PlayStation 5 Slim de 1 TB con Astro Bot y Gran | Sony Playstation 5 consola Slim Standard + Juego Astro Bot Y | 5 | 1450000 |  | desde |
 | 18 | Consola PlayStation 5 Slim Digital Edition con control  | Consola Sony PlayStation 5 Slim Blanco 4K 825 GB Digital | 4 | 1140000 |  | desde |
 | 19 | Control DualSense para PlayStation 5, camuflaje gris | Control inalámbrico DualSense para PS5 Gray Camouflage | 2 | 140522.71 |  | desde |
@@ -35,7 +35,7 @@
 | 30 | Corralito para bebé Belluno Trapani gris | Corralito Juegos Bebé Portable 180x120 Trapani Belluno Baby  | 5 | 189990.5 | 199990 | desde |
 | 31 | Arco de juguetes para cochecito Huanger | Cunero Huanger Didactico Soporte Universal Sonajero Colgante | 1 | 26685.75 | 31395 | desde |
 | 32 | Móvil musical para cuna con proyector y control remoto | Sonajero Móvil Giratorio Gadnic Musical Proyector Luz Estrel | 5 | 48399 | 112599 | desde |
-| 33 | Fular portabebé gris | Fular Prearmado Ergonomico Munami Color Azul Jean Talle M | 1 | 30048.13 | 31796.98 | desde |
+| 33 | Fular portabebé gris | Fular Prearmado Ergonomico Munami Color Azul Jean Talle M | 1 | 29448.31 | 32999 | desde |
 | 34 | Caminador de actividades Huanger con pizarra mágica y p | Andador Huanger Caminador Con Pizarra Actividades Didáctico  | 4 | 29363.25 | 34545 | desde |
 | 35 | Puerta de seguridad retráctil MAWE para bebés y mascota | Puerta de Seguridad Retráctil Mawe Gate 140 Con Bloqueo | 4 | 63749 | 119649 | desde |
 | 36 | Alfombra antigolpes reversible Mega Baby con bolso | Alfombra Infantil Gadnic Plegable 198 x 180 cm Espesor 1 cm  | 3 | 54999 | 91649 | desde |
@@ -59,14 +59,14 @@
 | 54 | Colchón blanco para cuna con funda acolchada y cierre | Colchón Impermeable Para Practicuna 104x70x9cm Blanco | 2 | 98999 |  | desde |
 | 55 | Mamadera Philips Avent Natural Response de 125 ml | Mamadera Avent Philips Natural Response 125ml 0m+ Color Blan | 5 | 31625.88 |  | desde |
 | 56 | Gimnasio de actividades con piano y arco de juguetes | Gimnasio Para Bebe Manta De Actividades Alfombra Didactica C | 3 | 25257 | 32006 | desde |
-| 57 | Balanza digital Femmto con Bluetooth y pantalla LED | Balanza Digital Con Bluetooth Personal De Baño Peso Corporal | 4 | 19999 | 27999 | desde |
+| 57 | Balanza digital Femmto con Bluetooth y pantalla LED | Balanza Digital Con Bluetooth Personal De Baño Peso Corporal | 4 | 21999 | 27999 | desde |
 | 58 | Planchita de pelo GAMA Bella Tourmaline Red Ion | Planchita De Pelo GA.MA Italy Elegance Bella Tourmaline Ion  | 5 | 64999 |  | desde |
 | 59 | Robot de limpieza Sansei que aspira y trapea | SIN PRECIO: el link terminó en una página sin ID de publicación (estado 200) | | | | |
 | 60 | Aspiradora de mano Yelmo con accesorios | Yelmo As-3240 Aspiradora Para Auto Recargable Usb Color Gris | 2 | 42352 |  | desde |
 | 61 | Secador de pelo Ultracomb de 2200 W con función Cool Sh | SIN PRECIO: DUPLICADO, apunta a la misma publicación que #88 ("Secador de Pelo Ultracomb SC-4606 Tourma") | | | | |
 | 62 | Aire acondicionado split Philco Inverter Eco Plus de 37 | Aire Acondicionado Split Inverter Frio Calor Philco 3225 Fg  | 6 | 703756 | 899999 | desde |
 | 63 | Pava eléctrica Novohome de 2,2 litros con display tácti | Pava Eléctrica Digital Novohome 2 Litros Pantalla Tactil Col | 5 | 54990 | 85990 | desde |
-| 64 | Caloventor Aitech portátil con dos perillas | Caloventor Electrico 2000w Termoventilador 2 Velocidades Est | 2 | 29902.68 |  | desde |
+| 64 | Caloventor Aitech portátil con dos perillas | Caloventor Electrico 2000w Termoventilador 2 Velocidades Est | 2 | 31476.5 |  | desde |
 | 65 | Termotanque a gas Señorial Zafiro de 85 litros | Termotanque Multigas Señorial TSZP1-85 Zafiro Color Blanco | 3 | 369056.7 | 404046 | desde |
 | 66 | Microondas Aiwa blanco con panel digital | Microondas Aiwa Cook 700w 20l 10 Niveles Cocción Panel Touch | 3 | 184299.03 | 355049 | desde |
 | 67 | Buclera de 3 tubos VGR V-599 | Buclera Rizador 3 Barriles Ceramica Vgr V-599 Triple Ondas 2 | 3 | 60855.86 | 75853.33 | desde |
@@ -84,13 +84,13 @@
 | 79 | Campana de cocina Smartbuy CE-D660N-CL negra | Extractor Purificador De Cocina Smartbuy Negro 3 Vel 60 Cm | 2 | 188499.42 | 324999.01 | desde |
 | 80 | Máquina para hacer donas Suono de 1200 W | Máquina Donas Suono Mini Donut Maker 7 Unidades Mini Donas A | 3 | 49999 | 56279 | desde |
 | 81 | Calefón a gas Escorial de 14 litros por minuto | Calefon Escorial 14 Lts Tiro Natural Automático Sin Piloto!  | 3 | 300000 |  | desde |
-| 82 | Sandwichera Ultracomb SW 2801 con placas intercambiable | Sandwichera 3 En 1 Marca Ultracomb Modelo Sw-2801 - Negro Wa | 3 | 64899 | 79999 | desde |
-| 83 | Molinillo de café Yelmo MO 7100 | Molinillo de café semillas y especias Yelmo Mo-7100 150w Alu | 4 | 24999 |  | desde |
+| 82 | Sandwichera Ultracomb SW 2801 con placas intercambiable | Sandwichera 3 En 1 Marca Ultracomb Modelo Sw-2801 - Negro Wa | 3 | 64799 | 79999 | desde |
+| 83 | Molinillo de café Yelmo MO 7100 | Molinillo de café semillas y especias Yelmo Mo-7100 150w Alu | 4 | 23490 | 28990 | desde |
 | 84 | Exprimidor eléctrico de cítricos Enova | Exprimidor Eléctrico Enova de 0.7 L y 40 W, Negro | 3 | 22999 | 28999 | desde |
 | 85 | Robot aspirador y trapeador con control por voz y app | Aspiradora Robot Trapeadora Gadnic Navegacion Laser Lds Mape | 2 | 330862.16 |  | desde |
 | 86 | Pava eléctrica Codini de 1,8 litros en acero inoxidable | SIN PRECIO: el link terminó en una página sin ID de publicación (estado 200) | | | | |
 | 87 | Nebulizador portátil mesh SAN-UP VitaAir | Nebulizador Mesh San-Up VitalAir 8ml Silencioso Portátil USB | 4 | 71999.2 | 89999 | desde |
-| 88 | Secador de pelo Ultracomb SC 4606 con turmalina e ión | Secador de Pelo Ultracomb SC-4606 Tourmaline Ion Pro con 220 | 5 | 43569 | 49999 | desde |
+| 88 | Secador de pelo Ultracomb SC 4606 con turmalina e ión | Secador de Pelo Ultracomb SC-4606 Tourmaline Ion Pro con 220 | 5 | 43199 | 59999 | desde |
 | 89 | Aire acondicionado split Philco de 5200 W | Aire Acondicionado Split Frio/Calor Philco PHS50HA4CN 4472 F | 5 | 998199 | 1220099.97 | desde |
 | 90 | Tendedero plegable con funda transparente para lavarrop | SIN PRECIO: parece otro producto: en Mercado Libre se llama "Secarropas Por Calor Axel Ax-3000 Con Sistema Anti-arrugas Blanco" | | | | |
 | 91 | Lavarropas automático Philco de 5 kg con carga superior | Lavarropas Philco 5kg Carga Superior Gris 700 RPM | 4 | 420000 |  | desde |
