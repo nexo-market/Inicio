@@ -45,12 +45,12 @@
 | 40 | Cochecito de paseo con baranda rebatible | Cochecito Cuna Bebé Avanti Manija Baranda Rebatible Apto 0+  | 3 | 159999 | 199999 | desde |
 | 41 | Bañera plegable para bebé de 25 litros | Bañera Bebé Ultra Plegable Mega Baby Con Red Acolchonada Col | 3 | 45428.25 | 53445.01 | desde |
 | 42 | Practicuna plegable gris con colchón y mosquitero | Practicuna Carestino Venecia Rosa Completa + Bolso | 1 | 201499 | 251999 | desde |
-| 43 | Cuna de madera blanca para bebé | SIN PRECIO: DUPLICADO, apunta a la misma publicación que #47 ("Cuna Convertible Evolutiva 6 En 1 - Incl") | | | | |
+| 43 | Cuna de madera blanca para bebé | Cuna Convertible Evolutiva 6 En 1 - Incluye Colchón 120x60 y | 1 | 193438 | 235900 | desde |
 | 44 | Sillón de apoyo para bebé con peluche | SIN PRECIO: parece otro producto: en Mercado Libre se llama "Silla Mecedora Mega Baby 27267 18 Kg Vibración Y Música Color Gris" | | | | |
 | 45 | Silla de comer para bebé 3 en 1 verde agua | Silla de Comer Bebesit Convertible Booster Plegable, Marrón | 2 | 74808 | 103900 | desde |
 | 46 | Alfombra inflable de agua para bebé con diseño marino | Alfombra Sensorial Inflable Con Aire Y Agua 4230 Bebé Love P | 4 | 7200 | 10000 | desde |
-| 47 | Cuna blanca con ruedas y colchón estampado | Cuna Convertible Evolutiva 6 En 1 - Incluye Colchón 120x60 y | 3 | 193438 | 235900 | desde |
-| 48 | Almohada de embarazo en forma de U | Almohada embarazada Mtl ergonómica suave antialérgica rellen | 1 | 54990 | 71414.29 | desde |
+| 47 | Cuna blanca con ruedas y colchón estampado | Cuna Colecho Evolutiva 6en1 / Con Colchón Y Ruedas Con Freno | 3 | 179853.31 | 206500 | desde |
+| 48 | Almohada de embarazo en forma de U | Almohadon Embarazo Lactancia Tusor Vellon Siliconado Color A | 1 | 29691 | 32990 | desde |
 | 49 | Butaca de auto Mega Baby gris con arnés de 5 puntos | Butaca Bebe Auto Avanti Isofix Volte 0-36 Kg Base Gira 360 C | 3 | 244999 | 329999 | desde |
 | 50 | Butaca de auto Mega Baby Ayrton negra | Butaca Auto Bebé Last Ayrton Mega Baby Convertible 0-25 Kg | 5 | 160560.75 | 188895.01 | desde |
 | 51 | Butaca de auto Mega Baby Daytona negra con conversión a | SIN PRECIO: el link terminó en una página sin ID de publicación (estado 200) | | | | |
@@ -58,8 +58,8 @@
 | 53 | Colchón para cuna con funda estampada | Colchon Cuna Suavestar 140x80x10 Color Estampado | 2 | 93673.8 | 98604 | desde |
 | 54 | Colchón blanco para cuna con funda acolchada y cierre | Colchón Impermeable Para Practicuna 104x70x9cm Blanco | 2 | 98999 |  | desde |
 | 55 | Mamadera Philips Avent Natural Response de 125 ml | Mamadera Avent Philips Natural Response 125ml 0m+ Color Blan | 5 | 31625.88 |  | desde |
-| 56 | Gimnasio de actividades con piano y arco de juguetes | SIN PRECIO: parece otro producto: en Mercado Libre se llama "X....' Para Livro De Feltro Sensorial Montessori - Edição" | | | | |
-| 57 | Balanza digital Femmto con Bluetooth y pantalla LED | Balanza Digital Con Bluetooth Personal De Baño Peso Corporal | 4 | 21999 | 27999 | desde |
+| 56 | Gimnasio de actividades con piano y arco de juguetes | Gimnasio Para Bebe Manta De Actividades Alfombra Didactica C | 3 | 27977 | 32006 | desde |
+| 57 | Balanza digital Femmto con Bluetooth y pantalla LED | Balanza Digital Con Bluetooth Personal De Baño Peso Corporal | 4 | 19999 | 27999 | desde |
 | 58 | Planchita de pelo GAMA Bella Tourmaline Red Ion | Planchita De Pelo GA.MA Italy Elegance Bella Tourmaline Ion  | 5 | 59900 |  | desde |
 | 59 | Robot de limpieza Sansei que aspira y trapea | SIN PRECIO: el link terminó en una página sin ID de publicación (estado 200) | | | | |
 | 60 | Aspiradora de mano Yelmo con accesorios | Yelmo As-3240 Aspiradora Para Auto Recargable Usb Color Gris | 2 | 42352 |  | desde |
@@ -72,7 +72,7 @@
 | 67 | Buclera de 3 tubos VGR V-599 | Buclera Rizador 3 Barriles Ceramica Vgr V-599 Triple Ondas 2 | 3 | 60855.86 | 75853.33 | desde |
 | 68 | Secarropas centrífugo Codini de 6,5 kg y 2800 rpm | Secarropas Codini Innova 6.5kgs Tambor Acero Inox. 2800rpms  | 2 | 219994.95 | 299999 | desde |
 | 69 | Purificador de agua Hidrolit Senic Out Classic con cani | Purificador De Agua Hidrolit Senic Out Classic - Blanco | 6 | 138623 | 324000 | desde |
-| 70 | Plancha a vapor Ultracomb PL 4170 violeta | Plancha a Vapor Ultracomb PL-4170 de 1400 W con Suela Antiad | 4 | 32490 | 49999 | desde |
+| 70 | Plancha a vapor Ultracomb PL 4170 violeta | Plancha a Vapor Ultracomb PL-4170 de 1400 W con Suela Antiad | 4 | 44949 |  | desde |
 | 71 | Secador de pelo y planchita Ditron rosa con difusor | Set Planchita Cerámica Secador Pelo 2200W Ditron SK-SET1 Tec | 4 | 72102.04 | 181414 | desde |
 | 72 | Máquina de coser portátil Smart Tech blanca y rosa | Maquina De Coser Portatil Electrica Hogar 12 Puntadas Pedal  | 3 | 75999.05 | 79999 | desde |
 | 73 | Picadora eléctrica Lüsqtoff de 2 litros | Picadora Lusqtoff 650w 2000ml Procesadora Bowl Acero Inox. C | 2 | 64990 | 99999 | desde |
@@ -82,7 +82,7 @@
 | 77 | Freezer horizontal blanco con función dual heladera y f | Freezer Horizontal Gafa Doble Función 96l Canasto Plástico F | 3 | 380418.7 | 428303.7 | desde |
 | 78 | Máquina de pasta con raviolera Zego de acero inoxidable | SIN PRECIO: el link terminó en una página sin ID de publicación (estado 200) | | | | |
 | 79 | Campana de cocina Smartbuy CE-D660N-CL negra | Extractor Purificador De Cocina Smartbuy Negro 3 Vel 60 Cm | 2 | 188499.42 | 324999.01 | desde |
-| 80 | Máquina para hacer donas Suono de 1200 W | Máquina Donas Suono Mini Donut Maker 7 Unidades Mini Donas A | 3 | 49999 | 56279 | desde |
+| 80 | Máquina para hacer donas Suono de 1200 W | Máquina Donas Suono Mini Donut Maker 7 Unidades Mini Donas A | 3 | 41399 | 56999 | desde |
 | 81 | Calefón a gas Escorial de 14 litros por minuto | Calefon Escorial 14 Lts Tiro Natural Automático Sin Piloto!  | 3 | 300000 |  | desde |
 | 82 | Sandwichera Ultracomb SW 2801 con placas intercambiable | Sandwichera 3 En 1 Marca Ultracomb Modelo Sw-2801 - Negro Wa | 3 | 64799 | 79999 | desde |
 | 83 | Molinillo de café Yelmo MO 7100 | Molinillo de café semillas y especias Yelmo Mo-7100 150w Alu | 4 | 24999 |  | desde |
@@ -93,8 +93,8 @@
 | 88 | Secador de pelo Ultracomb SC 4606 con turmalina e ión | Secador de Pelo Ultracomb SC-4606 Tourmaline Ion Pro con 220 | 5 | 42593.5 | 49999 | desde |
 | 89 | Aire acondicionado split Philco de 5200 W | Aire Acondicionado Split Frio/Calor Philco PHS50HA4CN 4472 F | 5 | 998199 | 1220099.97 | desde |
 | 90 | Tendedero plegable con funda transparente para lavarrop | SIN PRECIO: parece otro producto: en Mercado Libre se llama "Secarropas Por Calor Axel Ax-3000 Con Sistema Anti-arrugas Blanco" | | | | |
-| 91 | Lavarropas automático Philco de 5 kg con carga superior | Lavarropas Philco 5kg Carga Superior Gris 700 RPM | 4 | 410553.59 | 429999 | desde |
-| 92 | Termotanque eléctrico ExaHome de 40 litros | Termotanque Exahome Electrico 40 Litros Carga Inferior 1500w | 4 | 253512.27 | 449000 | desde |
+| 91 | Lavarropas automático Philco de 5 kg con carga superior | Lavarropas Philco 5kg Carga Superior Gris 700 RPM | 4 | 420000 |  | desde |
+| 92 | Termotanque eléctrico ExaHome de 40 litros | Termotanque Exahome Electrico 40 Litros Carga Inferior 1500w | 4 | 276440.78 | 449000 | desde |
 | 93 | Purificador de agua de mesada con canilla, filtro y acc | SIN PRECIO: DUPLICADO, apunta a la misma publicación que #69 ("Purificador De Agua Hidrolit Senic Out C") | | | | |
 | 94 | Estufa halógena Kanji Home de tres velas | Estufa halogena 3 velas Kanji KJH-305 Color Gris oscuro | 4 | 43998 |  | desde |
 | 95 | Freidora de aire Novohome de 7 litros con ventana | Freidora De Aire Novohome 7 Litros Panel Pantalla Digital Ta | 5 | 119990 | 179990 | desde |
@@ -114,7 +114,7 @@
 | 109 | Máquina manual para hacer pasta con 6 niveles de espeso | Fábrica De Pastas Smart-tek Bella Pasta Acero Inox Maquina F | 2 | 59287.71 | 83503.82 | desde |
 | 110 | Vinoteca compacta para 6 botellas con control táctil | Cava De Vinos Ziyen Capacidad 6 Botellas Refrigeración Ilumi | 1 | 150749 | 210399 | desde |
 | 111 | Sandwichera y wafflera con placas intercambiables | SIN PRECIO: el link terminó en una página sin ID de publicación (estado 200) | | | | |
-| 112 | Picadora de carne eléctrica de 400 W con accesorios par | Picadora de Carne Cuk By Gadnic P90 Eléctrica Potencia Nomin | 3 | 152399 | 179599 | desde |
+| 112 | Picadora de carne eléctrica de 400 W con accesorios par | Picadora de Carne Cuk By Gadnic P90 Eléctrica Potencia Nomin | 3 | 117465.06 | 183349 | desde |
 | 113 | Pochoclera Ultracomb PO 2703 roja | Ultracomb Po2703 Pochoclera Realiza Dulce O Salados - Rojo B | 2 | 62899 | 99999 | desde |
 | 114 | Secarropas centrífugo Codini de 5,5 kg y 2800 rpm | Secarropas Codini Advance Ad55 - 5.5kg Blanco | 2 | 188999.37 | 299999 | desde |
 | 115 | Secador de pelo Remington rojo con difusor | Remington Secadora De Cabello Ac Silk Ac9096 Color Bordó | 1 | 87429.87 | 94800 | desde |
@@ -129,5 +129,5 @@
 | 124 | Termotanque a gas Sherman de 80 litros multigás | Termotanque 80 Lts Sherman Tpgp080msh13 Gas Conex Sup De Pie | 3 | 359900 |  | desde |
 | 125 | Balanza de baño de vidrio digital Spica de 180 kg | Balanza De Baño Vidrio Pantalla Digital 180kg Spica BA-100 C | 5 | 13399 | 32999 | desde |
 | 126 | Freidora de aire Ultracomb FR 8612 celeste | Freidora de Aire Digital Ultracomb FR-8612 de 3 Litros Tácti | 5 | 65999 | 71999 | desde |
-| 127 | Horno eléctrico CUK de 16 litros y 1280 W | Horno Eléctrico Gadnic 16 Litros 1280W Clase A 4 Resistencia | 3 | 99556.85 |  | desde |
+| 127 | Horno eléctrico CUK de 16 litros y 1280 W | Horno Eléctrico Gadnic 16 Litros 1280W Clase A 4 Resistencia | 3 | 98556.85 |  | desde |
 | 128 | Anafe eléctrico Suono de 2 hornallas, compacto | Anafe eléctrico 2 hornillas suono | 3 | 32500 |  | desde |
