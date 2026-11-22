@@ -22,7 +22,7 @@
 | 17 | Consola PlayStation 5 Slim de 1 TB con Astro Bot y Gran | Sony Playstation 5 consola Slim Standard + Juego Astro Bot Y | 5 | 1696420.56 |  | desde |
 | 18 | Consola PlayStation 5 Slim Digital Edition con control  | Consola Sony PlayStation 5 Slim Blanco 4K 825 GB Digital | 4 | 1250000 |  | desde |
 | 19 | Control DualSense para PlayStation 5, camuflaje gris | Control inalámbrico DualSense para PS5 Gray Camouflage | 2 | 142983.12 |  | desde |
-| 20 | Control DualSense para PlayStation 5, blanco perlado | Sony PlayStation DualSense Perla Chroma | 2 | 164999 |  | desde |
+| 20 | Control DualSense para PlayStation 5, blanco perlado | Sony PlayStation DualSense Perla Chroma | 2 | 174999 |  | desde |
 | 21 | Control DualSense para PlayStation 5, celeste | Control Inalambrico Sony DualSense PS5 Color Starlight Blue | 2 | 147999 |  | desde |
 | 22 | Control Pro de Nintendo Switch 2 | Control Nintendo Switch 2 Pro Controller | 4 | 229000 |  | desde |
 | 23 | Joystick con cable Redragon | Joystick Gamer Redragon Saturn G807 Color Negro, Conexión Ca | 2 | 39900 |  | desde |
@@ -30,7 +30,7 @@
 | 25 | Joystick negro estilo PlayStation 4 con cable USB | Joystick inalámbrico genérico compatible con PlayStation 4 N | 3 | 22654 |  | desde |
 | 26 | Joystick blanco estilo PlayStation 4 con panel táctil | Joystick inalámbrico compatible con ps4 blanco | 2 | 23292 |  | desde |
 | 27 | Silla gamer Cougar negra con costuras en rombos | Silla Gamer Cougar Fusion Ex Respaldo Reclinable Tela Negro | 3 | 279899 | 399999 | desde |
-| 28 | Nintendo Switch OLED blanca con Super Mario Bros. Wonde | Nintendo Switch OLED + Super Mario Bros. Wonder | 7 | 885999 | 999999 | desde |
+| 28 | Nintendo Switch OLED blanca con Super Mario Bros. Wonde | Nintendo Switch OLED + Super Mario Bros. Wonder | 7 | 880999 |  | desde |
 | 29 | Butaca de auto con arnés de 5 puntos y conversión a boo | Booster Auto Bebe Mega Baby Silverstone 3 En 1 De 9 A 36 Kg  | 2 | 136463.25 | 160545 | desde |
 | 30 | Corralito para bebé Belluno Trapani gris | Corralito Juegos Bebé Portable 180x120 Trapani Belluno Baby  | 5 | 189990.5 | 199990 | desde |
 | 31 | Arco de juguetes para cochecito Huanger | Cunero Huanger Didactico Soporte Universal Sonajero Colgante | 1 | 26685.75 | 31395 | desde |
@@ -124,10 +124,10 @@
 | 119 | Calefactor de pared blanco y negro | Calefactor Convector Longvie Eca5s 5200 Kcal Recta Tiza/blan | 2 | 291482.09 | 373140.43 | desde |
 | 120 | Robot aspirador Fika ultra delgado con control remoto | Aspiradora Robot Trapeadora Fika Limpieza SENSE Antichoque C | 2 | 164830 | 249371.7 | desde |
 | 121 | Set de secador y planchita Ultracomb Devotion rosa | Set Devotion Secador De Pelo + Planchita Ceramica 2200w Ultr | 5 | 62699 | 89999 | desde |
-| 122 | Microondas BGH Quick Chef de 20 litros digital | Microondas Bgh 20l Digital Eco B120db20 | 3 | 203180.47 | 237999 | desde |
+| 122 | Microondas BGH Quick Chef de 20 litros digital | Microondas Bgh 20l Digital Eco B120db20 | 3 | 170000 |  | desde |
 | 123 | Cafetera de filtro Atma blanca con filtro permanente | Cafetera Atma Semi Automática de Filtro 1,25 Lts Ca8133p Col | 3 | 47830.51 |  | desde |
 | 124 | Termotanque a gas Sherman de 80 litros multigás | Termotanque 80 Lts Sherman Tpgp080msh13 Gas Conex Sup De Pie | 3 | 359900 |  | desde |
 | 125 | Balanza de baño de vidrio digital Spica de 180 kg | Balanza De Baño Vidrio Pantalla Digital 180kg Spica BA-100 C | 5 | 13399 | 32999 | desde |
 | 126 | Freidora de aire Ultracomb FR 8612 celeste | Freidora de Aire Digital Ultracomb FR-8612 de 3 Litros Tácti | 5 | 65999 | 71999 | desde |
-| 127 | Horno eléctrico CUK de 16 litros y 1280 W | Horno Eléctrico Gadnic 16 Litros 1280W Clase A 4 Resistencia | 3 | 114999 | 171999 | desde |
+| 127 | Horno eléctrico CUK de 16 litros y 1280 W | Horno Eléctrico Gadnic 16 Litros 1280W Clase A 4 Resistencia | 3 | 114999 | 157499 | desde |
 | 128 | Anafe eléctrico Suono de 2 hornallas, compacto | Anafe eléctrico 2 hornillas suono | 3 | 50000 |  | desde |
